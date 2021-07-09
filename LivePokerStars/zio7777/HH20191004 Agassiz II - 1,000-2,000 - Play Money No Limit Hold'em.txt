@@ -1,0 +1,891 @@
+﻿PokerStars Hand #204879224764:  Hold'em No Limit (1000/2000) - 2019/10/04 17:41:21 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #5 is the button
+Seat 1: johnthehat (223630 in chips) 
+Seat 2: channy660 (198100 in chips) 
+Seat 3: zio7777 (200000 in chips) 
+Seat 4: jtke-op-pcke (206300 in chips) 
+Seat 5: malacara1000 (150280 in chips) 
+Seat 6: Ceglie 2 (499050 in chips) 
+Seat 7: Luuskamus (158830 in chips) 
+Seat 8: hbm gma (786020 in chips) 
+Seat 9: FPF1951 (203450 in chips) 
+Ceglie 2: posts small blind 1000
+Luuskamus: posts big blind 2000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [6d 2h]
+hbm gma: calls 2000
+FPF1951: calls 2000
+johnthehat: calls 2000
+channy660: calls 2000
+zio7777: checks 
+jtke-op-pcke: calls 2000
+malacara1000: calls 2000
+Ceglie 2: calls 1000
+Luuskamus: checks 
+*** FLOP *** [9s 4c 9d]
+Ceglie 2: checks 
+Luuskamus: checks 
+hbm gma: checks 
+FPF1951: checks 
+johnthehat: bets 4000
+channy660: folds 
+zio7777: folds 
+jtke-op-pcke: folds 
+malacara1000: calls 4000
+Ceglie 2: folds 
+Luuskamus: folds 
+hbm gma: folds 
+FPF1951: folds 
+*** TURN *** [9s 4c 9d] [Kh]
+johnthehat: bets 24570
+malacara1000 has timed out
+malacara1000: folds 
+Uncalled bet (24570) returned to johnthehat
+johnthehat collected 24570 from pot
+johnthehat: doesn't show hand 
+*** SUMMARY ***
+Total pot 26000 | Rake 1430 
+Board [9s 4c 9d Kh]
+Seat 1: johnthehat collected (24570)
+Seat 2: channy660 folded on the Flop
+Seat 3: zio7777 folded on the Flop (didn't bet)
+Seat 4: jtke-op-pcke folded on the Flop
+Seat 5: malacara1000 (button) folded on the Turn
+Seat 6: Ceglie 2 (small blind) folded on the Flop
+Seat 7: Luuskamus (big blind) folded on the Flop
+Seat 8: hbm gma folded on the Flop
+Seat 9: FPF1951 folded on the Flop
+
+
+
+PokerStars Hand #204879275339:  Hold'em No Limit (1000/2000) - 2019/10/04 17:42:55 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #6 is the button
+Seat 1: johnthehat (242200 in chips) 
+Seat 2: channy660 (196100 in chips) 
+Seat 3: zio7777 (198000 in chips) 
+Seat 4: jtke-op-pcke (204300 in chips) 
+Seat 6: Ceglie 2 (497050 in chips) 
+Seat 7: Luuskamus (156830 in chips) 
+Seat 8: hbm gma (784020 in chips) 
+Seat 9: FPF1951 (201450 in chips) 
+Luuskamus: posts small blind 1000
+hbm gma: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [8d 5s]
+FPF1951: calls 2000
+johnthehat: folds 
+channy660: calls 2000
+zio7777: folds 
+jtke-op-pcke: calls 2000
+Ceglie 2: calls 2000
+Luuskamus: folds 
+hbm gma: checks 
+*** FLOP *** [6s 2s 2c]
+hbm gma: checks 
+FPF1951: checks 
+channy660: bets 2000
+jtke-op-pcke: folds 
+Ceglie 2: calls 2000
+jtke-op-pcke leaves the table
+hbm gma: folds 
+malacara1000 leaves the table
+FPF1951: calls 2000
+*** TURN *** [6s 2s 2c] [Qs]
+FPF1951: checks 
+channy660: bets 2000
+Ceglie 2: calls 2000
+FPF1951: folds 
+*** RIVER *** [6s 2s 2c Qs] [8h]
+channy660: checks 
+Ceglie 2: checks 
+*** SHOW DOWN ***
+channy660: shows [Th 9h] (a pair of Deuces)
+Ceglie 2: shows [4d 4h] (two pair, Fours and Deuces)
+Ceglie 2 collected 19840 from pot
+*** SUMMARY ***
+Total pot 21000 | Rake 1160 
+Board [6s 2s 2c Qs 8h]
+Seat 1: johnthehat folded before Flop (didn't bet)
+Seat 2: channy660 showed [Th 9h] and lost with a pair of Deuces
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: jtke-op-pcke folded on the Flop
+Seat 6: Ceglie 2 (button) showed [4d 4h] and won (19840) with two pair, Fours and Deuces
+Seat 7: Luuskamus (small blind) folded before Flop
+Seat 8: hbm gma (big blind) folded on the Flop
+Seat 9: FPF1951 folded on the Turn
+
+
+
+PokerStars Hand #204879312877:  Hold'em No Limit (1000/2000) - 2019/10/04 17:44:04 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #7 is the button
+Seat 1: johnthehat (242200 in chips) 
+Seat 2: channy660 (190100 in chips) 
+Seat 3: zio7777 (198000 in chips) 
+Seat 6: Ceglie 2 (510890 in chips) 
+Seat 7: Luuskamus (155830 in chips) 
+Seat 8: hbm gma (782020 in chips) 
+Seat 9: FPF1951 (197450 in chips) 
+hbm gma: posts small blind 1000
+FPF1951: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Js Jh]
+johnthehat: calls 2000
+channy660: folds 
+zio7777: raises 10000 to 12000
+Ceglie 2: folds 
+Luuskamus: folds 
+hbm gma: calls 11000
+Quadtruck joins the table at seat #4 
+nicoelindo joins the table at seat #5 
+FPF1951: folds 
+johnthehat: calls 10000
+*** FLOP *** [3h Kc Jd]
+hbm gma: checks 
+johnthehat: bets 2000
+zio7777: raises 6000 to 8000
+hbm gma: folds 
+johnthehat: calls 6000
+*** TURN *** [3h Kc Jd] [2h]
+johnthehat: checks 
+Quadtruck leaves the table
+zio7777: bets 20000
+Quadtruck joins the table at seat #4 
+johnthehat: folds 
+Uncalled bet (20000) returned to zio7777
+zio7777 collected 51030 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 54000 | Rake 2970 
+Board [3h Kc Jd 2h]
+Seat 1: johnthehat folded on the Turn
+Seat 2: channy660 folded before Flop (didn't bet)
+Seat 3: zio7777 collected (51030)
+Seat 6: Ceglie 2 folded before Flop (didn't bet)
+Seat 7: Luuskamus (button) folded before Flop (didn't bet)
+Seat 8: hbm gma (small blind) folded on the Flop
+Seat 9: FPF1951 (big blind) folded before Flop
+
+
+
+PokerStars Hand #204879353429:  Hold'em No Limit (1000/2000) - 2019/10/04 17:45:12 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #8 is the button
+Seat 1: johnthehat (222200 in chips) 
+Seat 2: channy660 (190100 in chips) 
+Seat 3: zio7777 (229030 in chips) 
+Seat 4: Quadtruck (200000 in chips) 
+Seat 5: nicoelindo (80000 in chips) 
+Seat 6: Ceglie 2 (510890 in chips) 
+Seat 7: Luuskamus (155830 in chips) 
+Seat 8: hbm gma (770020 in chips) 
+Seat 9: FPF1951 (195450 in chips) 
+FPF1951: posts small blind 1000
+johnthehat: posts big blind 2000
+Quadtruck: posts big blind 2000
+nicoelindo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 8h]
+channy660: raises 2000 to 4000
+zio7777: folds 
+Quadtruck: folds 
+nicoelindo: calls 2000
+Ceglie 2: folds 
+Luuskamus: calls 4000
+hbm gma: folds 
+FPF1951: folds 
+johnthehat: calls 2000
+*** FLOP *** [9h 2c 6d]
+Quadtruck leaves the table
+johnthehat: checks 
+channy660: bets 2000
+nicoelindo: folds 
+Luuskamus: calls 2000
+johnthehat: calls 2000
+*** TURN *** [9h 2c 6d] [6h]
+johnthehat: checks 
+channy660: bets 2000
+Luuskamus: folds 
+johnthehat: calls 2000
+*** RIVER *** [9h 2c 6d 6h] [3c]
+johnthehat: checks 
+channy660: bets 2000
+johnthehat: calls 2000
+*** SHOW DOWN ***
+channy660: shows [Qh Kh] (a pair of Sixes)
+johnthehat: shows [7d 7h] (two pair, Sevens and Sixes)
+johnthehat collected 31180 from pot
+*** SUMMARY ***
+Total pot 33000 | Rake 1820 
+Board [9h 2c 6d 6h 3c]
+Seat 1: johnthehat (big blind) showed [7d 7h] and won (31180) with two pair, Sevens and Sixes
+Seat 2: channy660 showed [Qh Kh] and lost with a pair of Sixes
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: Quadtruck folded before Flop (didn't bet)
+Seat 5: nicoelindo folded on the Flop
+Seat 6: Ceglie 2 folded before Flop (didn't bet)
+Seat 7: Luuskamus folded on the Turn
+Seat 8: hbm gma (button) folded before Flop (didn't bet)
+Seat 9: FPF1951 (small blind) folded before Flop
+
+
+
+PokerStars Hand #204879386609:  Hold'em No Limit (1000/2000) - 2019/10/04 17:46:14 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #9 is the button
+Seat 1: johnthehat (243380 in chips) 
+Seat 2: channy660 (180100 in chips) 
+Seat 3: zio7777 (229030 in chips) 
+Seat 5: nicoelindo (76000 in chips) 
+Seat 6: Ceglie 2 (510890 in chips) 
+Seat 7: Luuskamus (149830 in chips) 
+Seat 8: hbm gma (770020 in chips) 
+Seat 9: FPF1951 (194450 in chips) 
+johnthehat: posts small blind 1000
+channy660: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd Ah]
+zio7777: raises 8000 to 10000
+nicoelindo: calls 10000
+Ceglie 2: folds 
+Luuskamus: folds 
+hbm gma: folds 
+FPF1951: folds 
+johnthehat: calls 9000
+channy660: calls 8000
+*** FLOP *** [Ac Kh Tc]
+johnthehat: checks 
+channy660: checks 
+zio7777: bets 24000
+nicoelindo: folds 
+johnthehat: folds 
+channy660: folds 
+Uncalled bet (24000) returned to zio7777
+zio7777 collected 37800 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 40000 | Rake 2200 
+Board [Ac Kh Tc]
+Seat 1: johnthehat (small blind) folded on the Flop
+Seat 2: channy660 (big blind) folded on the Flop
+Seat 3: zio7777 collected (37800)
+Seat 5: nicoelindo folded on the Flop
+Seat 6: Ceglie 2 folded before Flop (didn't bet)
+Seat 7: Luuskamus folded before Flop (didn't bet)
+Seat 8: hbm gma folded before Flop (didn't bet)
+Seat 9: FPF1951 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879623975:  Hold'em No Limit (1000/2000) - 2019/10/04 17:53:44 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #1 is the button
+Seat 1: johnthehat (251680 in chips) 
+Seat 2: channy660 (158100 in chips) 
+Seat 3: zio7777 (256830 in chips) 
+Seat 5: nicoelindo (86920 in chips) 
+Seat 6: Ceglie 2 (493890 in chips) 
+Seat 7: Luuskamus (141950 in chips) 
+Seat 8: hbm gma (762520 in chips) 
+channy660: posts small blind 1000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [4h Tc]
+nicoelindo: calls 2000
+Ceglie 2: calls 2000
+Luuskamus: raises 4000 to 6000
+hbm gma: folds 
+johnthehat: calls 6000
+channy660: folds 
+zio7777: folds 
+nicoelindo: calls 4000
+Ceglie 2: folds 
+*** FLOP *** [As 8h 4d]
+nicoelindo: checks 
+Luuskamus: checks 
+johnthehat: checks 
+*** TURN *** [As 8h 4d] [Ac]
+nicoelindo: checks 
+Luuskamus: bets 10000
+johnthehat: folds 
+nicoelindo: folds 
+Uncalled bet (10000) returned to Luuskamus
+Luuskamus collected 21730 from pot
+Luuskamus: doesn't show hand 
+*** SUMMARY ***
+Total pot 23000 | Rake 1270 
+Board [As 8h 4d Ac]
+Seat 1: johnthehat (button) folded on the Turn
+Seat 2: channy660 (small blind) folded before Flop
+Seat 3: zio7777 (big blind) folded before Flop
+Seat 5: nicoelindo folded on the Turn
+Seat 6: Ceglie 2 folded before Flop
+Seat 7: Luuskamus collected (21730)
+Seat 8: hbm gma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879658677:  Hold'em No Limit (1000/2000) - 2019/10/04 17:54:50 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #2 is the button
+Seat 1: johnthehat (245680 in chips) 
+Seat 2: channy660 (157100 in chips) 
+Seat 3: zio7777 (254830 in chips) 
+Seat 5: nicoelindo (80920 in chips) 
+Seat 6: Ceglie 2 (491890 in chips) 
+Seat 7: Luuskamus (157680 in chips) 
+Seat 8: hbm gma (762520 in chips) 
+zio7777: posts small blind 1000
+nicoelindo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Td 3h]
+Ceglie 2: calls 2000
+Luuskamus: calls 2000
+hbm gma: folds 
+johnthehat: folds 
+channy660: calls 2000
+zio7777: calls 1000
+nicoelindo: checks 
+*** FLOP *** [8c Ks Th]
+zio7777: checks 
+nicoelindo: checks 
+Ceglie 2: checks 
+Luuskamus: checks 
+channy660: checks 
+*** TURN *** [8c Ks Th] [9s]
+zio7777: checks 
+nicoelindo: checks 
+Ceglie 2: checks 
+Luuskamus: checks 
+channy660: checks 
+*** RIVER *** [8c Ks Th 9s] [2c]
+zio7777: checks 
+nicoelindo: checks 
+Ceglie 2: checks 
+Luuskamus: checks 
+channy660: checks 
+*** SHOW DOWN ***
+zio7777: shows [Td 3h] (a pair of Tens)
+nicoelindo: mucks hand 
+Ceglie 2: shows [5c Kh] (a pair of Kings)
+Luuskamus: mucks hand 
+channy660: mucks hand 
+Ceglie 2 collected 9450 from pot
+*** SUMMARY ***
+Total pot 10000 | Rake 550 
+Board [8c Ks Th 9s 2c]
+Seat 1: johnthehat folded before Flop (didn't bet)
+Seat 2: channy660 (button) mucked [5s 6d]
+Seat 3: zio7777 (small blind) showed [Td 3h] and lost with a pair of Tens
+Seat 5: nicoelindo (big blind) mucked [8h Js]
+Seat 6: Ceglie 2 showed [5c Kh] and won (9450) with a pair of Kings
+Seat 7: Luuskamus mucked [Ah 7c]
+Seat 8: hbm gma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879691987:  Hold'em No Limit (1000/2000) - 2019/10/04 17:56:08 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #3 is the button
+Seat 1: johnthehat (245680 in chips) 
+Seat 2: channy660 (155100 in chips) 
+Seat 3: zio7777 (252830 in chips) 
+Seat 5: nicoelindo (78920 in chips) 
+Seat 6: Ceglie 2 (499340 in chips) 
+Seat 7: Luuskamus (155680 in chips) 
+Seat 8: hbm gma (762520 in chips) 
+nicoelindo: posts small blind 1000
+Ceglie 2: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [8s Tc]
+Luuskamus: folds 
+hbm gma: folds 
+johnthehat: calls 2000
+channy660: folds 
+zio7777: calls 2000
+nicoelindo: calls 1000
+Ceglie 2: checks 
+*** FLOP *** [Kc Ah 5d]
+nicoelindo: checks 
+Ceglie 2: checks 
+johnthehat: checks 
+zio7777: checks 
+*** TURN *** [Kc Ah 5d] [As]
+nicoelindo: checks 
+Ceglie 2: checks 
+johnthehat: checks 
+zio7777: bets 4000
+nicoelindo: folds 
+Ceglie 2: folds 
+johnthehat: calls 4000
+*** RIVER *** [Kc Ah 5d As] [6h]
+johnthehat: checks 
+zio7777: bets 8000
+johnthehat: folds 
+Uncalled bet (8000) returned to zio7777
+zio7777 collected 15120 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 16000 | Rake 880 
+Board [Kc Ah 5d As 6h]
+Seat 1: johnthehat folded on the River
+Seat 2: channy660 folded before Flop (didn't bet)
+Seat 3: zio7777 (button) collected (15120)
+Seat 5: nicoelindo (small blind) folded on the Turn
+Seat 6: Ceglie 2 (big blind) folded on the Turn
+Seat 7: Luuskamus folded before Flop (didn't bet)
+Seat 8: hbm gma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879731333:  Hold'em No Limit (1000/2000) - 2019/10/04 17:57:40 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #5 is the button
+Seat 1: johnthehat (239680 in chips) 
+Seat 2: channy660 (155100 in chips) 
+Seat 3: zio7777 (261950 in chips) 
+Seat 4: antonhyto5 (86250 in chips) 
+Seat 5: nicoelindo (76920 in chips) 
+Seat 6: Ceglie 2 (497340 in chips) 
+Seat 7: Luuskamus (155680 in chips) 
+Seat 8: hbm gma (762520 in chips) 
+Ceglie 2: posts small blind 1000
+Luuskamus: posts big blind 2000
+antonhyto5: posts small & big blinds 3000
+*** HOLE CARDS ***
+Dealt to zio7777 [5h 9d]
+hbm gma: folds 
+johnthehat: folds 
+channy660: calls 2000
+zio7777: folds 
+antonhyto5: checks 
+nicoelindo: folds 
+Ceglie 2: calls 1000
+Luuskamus: checks 
+*** FLOP *** [Qh 9h 3s]
+Ceglie 2: checks 
+Luuskamus: bets 2000
+channy660: calls 2000
+antonhyto5: folds 
+Ceglie 2: calls 2000
+*** TURN *** [Qh 9h 3s] [As]
+Ceglie 2: checks 
+Luuskamus: checks 
+channy660: bets 2000
+Ceglie 2: calls 2000
+Luuskamus: calls 2000
+*** RIVER *** [Qh 9h 3s As] [8s]
+Ceglie 2: checks 
+Luuskamus: checks 
+channy660: checks 
+*** SHOW DOWN ***
+Ceglie 2: shows [8h Tc] (a pair of Eights)
+Luuskamus: shows [Ad Qs] (two pair, Aces and Queens)
+channy660: mucks hand 
+Luuskamus collected 19840 from pot
+*** SUMMARY ***
+Total pot 21000 | Rake 1160 
+Board [Qh 9h 3s As 8s]
+Seat 1: johnthehat folded before Flop (didn't bet)
+Seat 2: channy660 mucked [Qc Jd]
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: antonhyto5 folded on the Flop (didn't bet)
+Seat 5: nicoelindo (button) folded before Flop (didn't bet)
+Seat 6: Ceglie 2 (small blind) showed [8h Tc] and lost with a pair of Eights
+Seat 7: Luuskamus (big blind) showed [Ad Qs] and won (19840) with two pair, Aces and Queens
+Seat 8: hbm gma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879760926:  Hold'em No Limit (1000/2000) - 2019/10/04 17:58:50 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #6 is the button
+Seat 1: johnthehat (239680 in chips) 
+Seat 2: channy660 (149100 in chips) 
+Seat 3: zio7777 (261950 in chips) 
+Seat 4: antonhyto5 (83250 in chips) 
+Seat 5: nicoelindo (76920 in chips) 
+Seat 6: Ceglie 2 (491340 in chips) 
+Seat 7: Luuskamus (169520 in chips) 
+Seat 8: hbm gma (762520 in chips) 
+Luuskamus: posts small blind 1000
+hbm gma: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [8d 9s]
+johnthehat: folds 
+channy660: calls 2000
+zio7777: folds 
+antonhyto5: folds 
+nicoelindo has timed out
+nicoelindo: folds 
+Ceglie 2: folds 
+Luuskamus: calls 1000
+hbm gma: checks 
+*** FLOP *** [5h Th 3d]
+Luuskamus: bets 2000
+hbm gma: calls 2000
+channy660: calls 2000
+*** TURN *** [5h Th 3d] [4d]
+Luuskamus: bets 2000
+hbm gma: calls 2000
+channy660: raises 2000 to 4000
+Luuskamus: calls 2000
+hbm gma: calls 2000
+*** RIVER *** [5h Th 3d 4d] [5c]
+Luuskamus: checks 
+hbm gma: checks 
+channy660: bets 62000
+Luuskamus: folds 
+hbm gma: folds 
+Uncalled bet (62000) returned to channy660
+channy660 collected 22680 from pot
+*** SUMMARY ***
+Total pot 24000 | Rake 1320 
+Board [5h Th 3d 4d 5c]
+Seat 1: johnthehat folded before Flop (didn't bet)
+Seat 2: channy660 collected (22680)
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: antonhyto5 folded before Flop (didn't bet)
+Seat 5: nicoelindo folded before Flop (didn't bet)
+Seat 6: Ceglie 2 (button) folded before Flop (didn't bet)
+Seat 7: Luuskamus (small blind) folded on the River
+Seat 8: hbm gma (big blind) folded on the River
+
+
+
+PokerStars Hand #204879790344:  Hold'em No Limit (1000/2000) - 2019/10/04 18:00:00 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #7 is the button
+Seat 1: johnthehat (239680 in chips) 
+Seat 2: channy660 (163780 in chips) 
+Seat 3: zio7777 (261950 in chips) 
+Seat 4: antonhyto5 (83250 in chips) 
+Seat 5: nicoelindo (76920 in chips) 
+Seat 6: Ceglie 2 (491340 in chips) 
+Seat 7: Luuskamus (161520 in chips) 
+Seat 8: hbm gma (754520 in chips) 
+hbm gma: posts small blind 1000
+johnthehat: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [2h Qh]
+channy660: calls 2000
+zio7777: folds 
+antonhyto5: calls 2000
+nicoelindo: folds 
+Ceglie 2: calls 2000
+Luuskamus: calls 2000
+hbm gma: calls 1000
+johnthehat: checks 
+*** FLOP *** [6c 2s Th]
+hbm gma: checks 
+johnthehat: checks 
+channy660: checks 
+antonhyto5: checks 
+Ceglie 2: checks 
+Luuskamus: checks 
+*** TURN *** [6c 2s Th] [Kd]
+hbm gma: checks 
+johnthehat: checks 
+channy660: checks 
+antonhyto5: checks 
+Ceglie 2: checks 
+Luuskamus: checks 
+*** RIVER *** [6c 2s Th Kd] [Qc]
+hbm gma: checks 
+johnthehat: checks 
+channy660: checks 
+antonhyto5: checks 
+Ceglie 2: checks 
+Luuskamus: checks 
+*** SHOW DOWN ***
+hbm gma: shows [9d Ts] (a pair of Tens)
+johnthehat: mucks hand 
+channy660: mucks hand 
+antonhyto5: mucks hand 
+Ceglie 2: mucks hand 
+Luuskamus: mucks hand 
+hbm gma collected 11340 from pot
+*** SUMMARY ***
+Total pot 12000 | Rake 660 
+Board [6c 2s Th Kd Qc]
+Seat 1: johnthehat (big blind) mucked [Js 3s]
+Seat 2: channy660 mucked [Ac 4d]
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: antonhyto5 mucked [Jh 3h]
+Seat 5: nicoelindo folded before Flop (didn't bet)
+Seat 6: Ceglie 2 mucked [Ad 6h]
+Seat 7: Luuskamus (button) mucked [As 7c]
+Seat 8: hbm gma (small blind) showed [9d Ts] and won (11340) with a pair of Tens
+
+
+
+PokerStars Hand #204879826740:  Hold'em No Limit (1000/2000) - 2019/10/04 18:01:20 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #8 is the button
+Seat 1: johnthehat (237680 in chips) 
+Seat 2: channy660 (161780 in chips) 
+Seat 3: zio7777 (261950 in chips) 
+Seat 4: antonhyto5 (81250 in chips) 
+Seat 5: nicoelindo (76920 in chips) 
+Seat 6: Ceglie 2 (489340 in chips) 
+Seat 8: hbm gma (763860 in chips) 
+johnthehat: posts small blind 1000
+channy660: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [6c 5h]
+zio7777: folds 
+antonhyto5: calls 2000
+nicoelindo: calls 2000
+Ceglie 2: calls 2000
+hbm gma: calls 2000
+johnthehat: folds 
+channy660: checks 
+*** FLOP *** [2c 2s 5d]
+channy660: bets 2000
+antonhyto5: calls 2000
+nicoelindo: calls 2000
+Ceglie 2: folds 
+hbm gma: folds 
+*** TURN *** [2c 2s 5d] [2d]
+channy660: bets 2000
+antonhyto5: folds 
+nicoelindo: calls 2000
+*** RIVER *** [2c 2s 5d 2d] [Tc]
+channy660: bets 6000
+nicoelindo: calls 6000
+*** SHOW DOWN ***
+channy660: shows [6h 6d] (a full house, Deuces full of Sixes)
+nicoelindo: shows [8d 8c] (a full house, Deuces full of Eights)
+nicoelindo collected 31180 from pot
+*** SUMMARY ***
+Total pot 33000 | Rake 1820 
+Board [2c 2s 5d 2d Tc]
+Seat 1: johnthehat (small blind) folded before Flop
+Seat 2: channy660 (big blind) showed [6h 6d] and lost with a full house, Deuces full of Sixes
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: antonhyto5 folded on the Turn
+Seat 5: nicoelindo showed [8d 8c] and won (31180) with a full house, Deuces full of Eights
+Seat 6: Ceglie 2 folded on the Flop
+Seat 8: hbm gma (button) folded on the Flop
+
+
+
+PokerStars Hand #204879855481:  Hold'em No Limit (1000/2000) - 2019/10/04 18:02:17 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #1 is the button
+Seat 1: johnthehat (236680 in chips) 
+Seat 2: channy660 (149780 in chips) 
+Seat 3: zio7777 (261950 in chips) 
+Seat 4: antonhyto5 (77250 in chips) 
+Seat 5: nicoelindo (96100 in chips) 
+Seat 6: Ceglie 2 (487340 in chips) 
+Seat 8: hbm gma (761860 in chips) 
+channy660: posts small blind 1000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 9h]
+antonhyto5: calls 2000
+nicoelindo: folds 
+Ceglie 2: folds 
+hbm gma: calls 2000
+johnthehat: calls 2000
+channy660: calls 1000
+zio7777: checks 
+*** FLOP *** [4d 6d 7c]
+channy660: checks 
+zio7777: checks 
+antonhyto5: checks 
+hbm gma: checks 
+johnthehat: checks 
+*** TURN *** [4d 6d 7c] [6c]
+channy660: bets 2000
+zio7777: folds 
+antonhyto5: folds 
+hbm gma: calls 2000
+johnthehat: calls 2000
+*** RIVER *** [4d 6d 7c 6c] [Kh]
+channy660: checks 
+hbm gma: checks 
+johnthehat: checks 
+*** SHOW DOWN ***
+channy660: shows [Ts 3h] (a pair of Sixes)
+hbm gma: shows [As 5h] (a pair of Sixes - Ace kicker)
+johnthehat: shows [Tc Ks] (two pair, Kings and Sixes)
+johnthehat collected 15120 from pot
+*** SUMMARY ***
+Total pot 16000 | Rake 880 
+Board [4d 6d 7c 6c Kh]
+Seat 1: johnthehat (button) showed [Tc Ks] and won (15120) with two pair, Kings and Sixes
+Seat 2: channy660 (small blind) showed [Ts 3h] and lost with a pair of Sixes
+Seat 3: zio7777 (big blind) folded on the Turn
+Seat 4: antonhyto5 folded on the Turn
+Seat 5: nicoelindo folded before Flop (didn't bet)
+Seat 6: Ceglie 2 folded before Flop (didn't bet)
+Seat 8: hbm gma showed [As 5h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #204879887871:  Hold'em No Limit (1000/2000) - 2019/10/04 18:03:20 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #2 is the button
+Seat 1: johnthehat (247800 in chips) 
+Seat 2: channy660 (145780 in chips) 
+Seat 3: zio7777 (259950 in chips) 
+Seat 4: antonhyto5 (75250 in chips) 
+Seat 5: nicoelindo (96100 in chips) 
+Seat 6: Ceglie 2 (487340 in chips) 
+Seat 8: hbm gma (757860 in chips) 
+zio7777: posts small blind 1000
+antonhyto5: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [2d 3h]
+nicoelindo: folds 
+nicoelindo leaves the table
+Ceglie 2: calls 2000
+hbm gma: folds 
+johnthehat: calls 2000
+channy660: calls 2000
+zio7777: calls 1000
+antonhyto5: checks 
+*** FLOP *** [2h 7h 9d]
+zio7777: checks 
+antonhyto5: checks 
+Ceglie 2: checks 
+johnthehat: checks 
+channy660: checks 
+*** TURN *** [2h 7h 9d] [9s]
+zio7777: checks 
+antonhyto5: checks 
+Ceglie 2: checks 
+lyds1124 joins the table at seat #5 
+johnthehat: checks 
+channy660: bets 2000
+zio7777: calls 2000
+antonhyto5: folds 
+Ceglie 2: folds 
+johnthehat: folds 
+*** RIVER *** [2h 7h 9d 9s] [Jc]
+zio7777: checks 
+channy660: bets 12000
+zio7777: folds 
+Uncalled bet (12000) returned to channy660
+channy660 collected 13230 from pot
+*** SUMMARY ***
+Total pot 14000 | Rake 770 
+Board [2h 7h 9d 9s Jc]
+Seat 1: johnthehat folded on the Turn
+Seat 2: channy660 (button) collected (13230)
+Seat 3: zio7777 (small blind) folded on the River
+Seat 4: antonhyto5 (big blind) folded on the Turn
+Seat 5: nicoelindo folded before Flop (didn't bet)
+Seat 6: Ceglie 2 folded on the Turn
+Seat 8: hbm gma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879948827:  Hold'em No Limit (1000/2000) - 2019/10/04 18:05:19 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #3 is the button
+Seat 1: johnthehat (245800 in chips) 
+Seat 2: channy660 (155010 in chips) 
+Seat 3: zio7777 (255950 in chips) 
+Seat 4: antonhyto5 (73250 in chips) 
+Seat 5: lyds1124 (200000 in chips) 
+Seat 6: Ceglie 2 (485340 in chips) 
+Seat 7: Luuskamus (159520 in chips) 
+Seat 8: hbm gma (757860 in chips) 
+Seat 9: FPF1951 (194450 in chips) 
+antonhyto5: posts small blind 1000
+lyds1124: posts big blind 2000
+FPF1951: posts small & big blinds 3000
+*** HOLE CARDS ***
+Dealt to zio7777 [Ah 3h]
+Ceglie 2: calls 2000
+Luuskamus: calls 2000
+hbm gma: folds 
+FPF1951: checks 
+johnthehat: calls 2000
+channy660: calls 2000
+zio7777: raises 14000 to 16000
+antonhyto5: folds 
+lyds1124: folds 
+Ceglie 2: folds 
+Luuskamus: folds 
+FPF1951: folds 
+johnthehat: calls 14000
+channy660: calls 14000
+*** FLOP *** [Th 4h Qc]
+johnthehat: bets 2000
+channy660: calls 2000
+zio7777: raises 30400 to 32400
+johnthehat: calls 30400
+channy660: folds 
+*** TURN *** [Th 4h Qc] [8d]
+johnthehat: checks 
+zio7777: bets 60000
+johnthehat: calls 60000
+*** RIVER *** [Th 4h Qc 8d] [4c]
+johnthehat: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+johnthehat: shows [Jc Kc] (a pair of Fours)
+zio7777: shows [Ah 3h] (a pair of Fours - Ace kicker)
+zio7777 collected 231340 from pot
+*** SUMMARY ***
+Total pot 244800 | Rake 13460 
+Board [Th 4h Qc 8d 4c]
+Seat 1: johnthehat showed [Jc Kc] and lost with a pair of Fours
+Seat 2: channy660 folded on the Flop
+Seat 3: zio7777 (button) showed [Ah 3h] and won (231340) with a pair of Fours
+Seat 4: antonhyto5 (small blind) folded before Flop
+Seat 5: lyds1124 (big blind) folded before Flop
+Seat 6: Ceglie 2 folded before Flop
+Seat 7: Luuskamus folded before Flop
+Seat 8: hbm gma folded before Flop (didn't bet)
+Seat 9: FPF1951 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879989797:  Hold'em No Limit (1000/2000) - 2019/10/04 18:06:39 ET
+Table 'Agassiz II' 9-max (Play Money) Seat #4 is the button
+Seat 1: johnthehat (137400 in chips) 
+Seat 2: channy660 (137010 in chips) 
+Seat 3: zio7777 (378890 in chips) 
+Seat 4: antonhyto5 (72250 in chips) 
+Seat 5: lyds1124 (198000 in chips) 
+Seat 6: Ceglie 2 (483340 in chips) 
+Seat 7: Luuskamus (157520 in chips) 
+Seat 8: hbm gma (757860 in chips) 
+Seat 9: FPF1951 (191450 in chips) 
+lyds1124: posts small blind 1000
+Ceglie 2: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [8h Qs]
+Luuskamus: calls 2000
+hbm gma: folds 
+FPF1951: calls 2000
+johnthehat: calls 2000
+channy660: calls 2000
+zio7777: folds 
+antonhyto5: calls 2000
+lyds1124: calls 1000
+Ceglie 2: checks 
+*** FLOP *** [4h 5s Js]
+lyds1124: checks 
+Ceglie 2: checks 
+Luuskamus: checks 
+FPF1951: checks 
+johnthehat: bets 13230
+channy660: folds 
+antonhyto5: folds 
+lyds1124 has timed out
+lyds1124: folds 
+Ceglie 2: folds 
+Luuskamus: folds 
+FPF1951: folds 
+Uncalled bet (13230) returned to johnthehat
+johnthehat collected 13230 from pot
+johnthehat: doesn't show hand 
+*** SUMMARY ***
+Total pot 14000 | Rake 770 
+Board [4h 5s Js]
+Seat 1: johnthehat collected (13230)
+Seat 2: channy660 folded on the Flop
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: antonhyto5 (button) folded on the Flop
+Seat 5: lyds1124 (small blind) folded on the Flop
+Seat 6: Ceglie 2 (big blind) folded on the Flop
+Seat 7: Luuskamus folded on the Flop
+Seat 8: hbm gma folded before Flop (didn't bet)
+Seat 9: FPF1951 folded on the Flop
+
+
+

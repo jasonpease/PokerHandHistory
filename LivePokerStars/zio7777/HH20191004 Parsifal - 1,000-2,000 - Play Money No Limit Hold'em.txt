@@ -1,0 +1,229 @@
+﻿PokerStars Hand #204879769795:  Hold'em No Limit (1000/2000) - 2019/10/04 17:59:11 ET
+Table 'Parsifal' 9-max (Play Money) Seat #9 is the button
+Seat 1: Maxwel1178 (94000 in chips) 
+Seat 2: apolloew (187030 in chips) 
+Seat 5: thwartoni (278820 in chips) 
+Seat 6: zio7777 (200000 in chips) 
+Seat 8: tbs151 (346890 in chips) 
+Seat 9: LISA-LUNA555 (705990 in chips) 
+Maxwel1178: posts small blind 1000
+apolloew: posts big blind 2000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Ac 9h]
+thwartoni: calls 2000
+zio7777: checks 
+tbs151: calls 2000
+LISA-LUNA555: calls 2000
+bombardier90 joins the table at seat #4 
+Maxwel1178: calls 1000
+apolloew: checks 
+*** FLOP *** [Kh 9d 6d]
+Maxwel1178: checks 
+apolloew: checks 
+thwartoni: bets 5670
+ejsdad joins the table at seat #7 
+zio7777: folds 
+tbs151: calls 5670
+LISA-LUNA555: calls 5670
+Maxwel1178: folds 
+apolloew: calls 5670
+*** TURN *** [Kh 9d 6d] [7s]
+apolloew: checks 
+thwartoni: checks 
+tbs151: checks 
+LISA-LUNA555: checks 
+*** RIVER *** [Kh 9d 6d 7s] [8s]
+apolloew: checks 
+thwartoni: checks 
+tbs151: bets 16000
+LISA-LUNA555: folds 
+apolloew: folds 
+thwartoni: folds 
+Uncalled bet (16000) returned to tbs151
+tbs151 collected 32770 from pot
+*** SUMMARY ***
+Total pot 34680 | Rake 1910 
+Board [Kh 9d 6d 7s 8s]
+Seat 1: Maxwel1178 (small blind) folded on the Flop
+Seat 2: apolloew (big blind) folded on the River
+Seat 5: thwartoni folded on the River
+Seat 6: zio7777 folded on the Flop (didn't bet)
+Seat 8: tbs151 collected (32770)
+Seat 9: LISA-LUNA555 (button) folded on the River
+
+
+
+PokerStars Hand #204879798503:  Hold'em No Limit (1000/2000) - 2019/10/04 18:00:19 ET
+Table 'Parsifal' 9-max (Play Money) Seat #1 is the button
+Seat 1: Maxwel1178 (92000 in chips) 
+Seat 2: apolloew (179360 in chips) 
+Seat 4: bombardier90 (200000 in chips) 
+Seat 5: thwartoni (271150 in chips) 
+Seat 6: zio7777 (198000 in chips) 
+Seat 7: ejsdad (200000 in chips) 
+Seat 8: tbs151 (371990 in chips) 
+Seat 9: LISA-LUNA555 (698320 in chips) 
+apolloew: posts small blind 1000
+bombardier90: posts big blind 2000
+ejsdad: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Td 2h]
+thwartoni: calls 2000
+zio7777: folds 
+ejsdad has timed out
+ejsdad: checks 
+tbs151: calls 2000
+LISA-LUNA555: folds 
+Maxwel1178: calls 2000
+apolloew: folds 
+bombardier90: checks 
+*** FLOP *** [6d Jc 5d]
+bombardier90: checks 
+thwartoni: checks 
+ejsdad: checks 
+tbs151: checks 
+Maxwel1178: checks 
+*** TURN *** [6d Jc 5d] [3c]
+bombardier90: checks 
+thwartoni: checks 
+ejsdad: checks 
+tbs151: checks 
+Maxwel1178: bets 8000
+bombardier90: calls 8000
+thwartoni: folds 
+ejsdad: folds 
+tbs151: calls 8000
+*** RIVER *** [6d Jc 5d 3c] [9c]
+bombardier90: checks 
+tbs151: bets 18000
+Maxwel1178: calls 18000
+bombardier90: folds 
+*** SHOW DOWN ***
+tbs151: shows [6c Qc] (a flush, Queen high)
+Maxwel1178: mucks hand 
+tbs151 collected 67090 from pot
+*** SUMMARY ***
+Total pot 71000 | Rake 3910 
+Board [6d Jc 5d 3c 9c]
+Seat 1: Maxwel1178 (button) mucked [2d 4h]
+Seat 2: apolloew (small blind) folded before Flop
+Seat 4: bombardier90 (big blind) folded on the River
+Seat 5: thwartoni folded on the Turn
+Seat 6: zio7777 folded before Flop (didn't bet)
+Seat 7: ejsdad folded on the Turn (didn't bet)
+Seat 8: tbs151 showed [6c Qc] and won (67090) with a flush, Queen high
+Seat 9: LISA-LUNA555 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879852494:  Hold'em No Limit (1000/2000) - 2019/10/04 18:02:11 ET
+Table 'Parsifal' 9-max (Play Money) Seat #2 is the button
+Seat 1: Maxwel1178 (64000 in chips) 
+Seat 2: apolloew (178360 in chips) 
+Seat 4: bombardier90 (190000 in chips) 
+Seat 5: thwartoni (269150 in chips) 
+Seat 6: zio7777 (198000 in chips) 
+Seat 7: ejsdad (198000 in chips) 
+Seat 8: tbs151 (411080 in chips) 
+Seat 9: LISA-LUNA555 (698320 in chips) 
+bombardier90: posts small blind 1000
+thwartoni: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [5s As]
+zio7777: raises 8000 to 10000
+ejsdad: calls 10000
+tbs151: folds 
+LISA-LUNA555: calls 10000
+Maxwel1178: folds 
+apolloew: folds 
+bombardier90: calls 9000
+thwartoni: folds 
+*** FLOP *** [Th Qc 8d]
+bombardier90: checks 
+zio7777: checks 
+ejsdad: bets 19840
+LISA-LUNA555: folds 
+bombardier90: calls 19840
+zio7777: folds 
+*** TURN *** [Th Qc 8d] [9d]
+bombardier90: checks 
+ejsdad: bets 38590
+bombardier90: calls 38590
+*** RIVER *** [Th Qc 8d 9d] [Js]
+bombardier90: bets 70000
+ejsdad: calls 70000
+*** SHOW DOWN ***
+bombardier90: shows [Kd 4d] (a straight, Nine to King)
+ejsdad: mucks hand 
+bombardier90 collected 282420 from pot
+*** SUMMARY ***
+Total pot 298860 | Rake 16440 
+Board [Th Qc 8d 9d Js]
+Seat 1: Maxwel1178 folded before Flop (didn't bet)
+Seat 2: apolloew (button) folded before Flop (didn't bet)
+Seat 4: bombardier90 (small blind) showed [Kd 4d] and won (282420) with a straight, Nine to King
+Seat 5: thwartoni (big blind) folded before Flop
+Seat 6: zio7777 folded on the Flop
+Seat 7: ejsdad mucked [Jh Qh]
+Seat 8: tbs151 folded before Flop (didn't bet)
+Seat 9: LISA-LUNA555 folded on the Flop
+
+
+
+PokerStars Hand #204879894784:  Hold'em No Limit (1000/2000) - 2019/10/04 18:03:34 ET
+Table 'Parsifal' 9-max (Play Money) Seat #4 is the button
+Seat 1: Maxwel1178 (64000 in chips) 
+Seat 2: apolloew (200000 in chips) 
+Seat 4: bombardier90 (333990 in chips) 
+Seat 5: thwartoni (267150 in chips) 
+Seat 6: zio7777 (188000 in chips) 
+Seat 7: ejsdad (59570 in chips) 
+Seat 8: tbs151 (411080 in chips) 
+Seat 9: LISA-LUNA555 (688320 in chips) 
+thwartoni: posts small blind 1000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Qh Qs]
+ejsdad: folds 
+tbs151: calls 2000
+LISA-LUNA555: calls 2000
+Maxwel1178: folds 
+apolloew: calls 2000
+bombardier90: calls 2000
+thwartoni: calls 1000
+zio7777: raises 12000 to 14000
+tbs151: folds 
+LISA-LUNA555: calls 12000
+apolloew: folds 
+bombardier90: calls 12000
+thwartoni: folds 
+*** FLOP *** [6s 7c Td]
+zio7777: bets 30000
+LISA-LUNA555: calls 30000
+bombardier90: calls 30000
+*** TURN *** [6s 7c Td] [9h]
+zio7777: bets 62000
+LISA-LUNA555: raises 62000 to 124000
+bombardier90: folds 
+zio7777: raises 20000 to 144000 and is all-in
+LISA-LUNA555: calls 20000
+*** RIVER *** [6s 7c Td 9h] [6c]
+*** SHOW DOWN ***
+zio7777: shows [Qh Qs] (two pair, Queens and Sixes)
+LISA-LUNA555: shows [7s 8s] (a straight, Six to Ten)
+LISA-LUNA555 collected 402570 from pot
+*** SUMMARY ***
+Total pot 426000 | Rake 23430 
+Board [6s 7c Td 9h 6c]
+Seat 1: Maxwel1178 folded before Flop (didn't bet)
+Seat 2: apolloew folded before Flop
+Seat 4: bombardier90 (button) folded on the Turn
+Seat 5: thwartoni (small blind) folded before Flop
+Seat 6: zio7777 (big blind) showed [Qh Qs] and lost with two pair, Queens and Sixes
+Seat 7: ejsdad folded before Flop (didn't bet)
+Seat 8: tbs151 folded before Flop
+Seat 9: LISA-LUNA555 showed [7s 8s] and won (402570) with a straight, Six to Ten
+
+
+

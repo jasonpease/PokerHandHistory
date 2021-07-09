@@ -1,0 +1,762 @@
+﻿PokerStars Hand #198994858550: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/04/06 16:04:27 ET
+Table '2579647645 5' 9-max Seat #1 is the button
+Seat 1: onezip (1500 in chips) 
+Seat 2: FPereira963 (1500 in chips) 
+Seat 3: edmalaco (1500 in chips) 
+Seat 4: Bellavistal987 (1500 in chips) 
+Seat 5: zio7777 (1500 in chips) 
+Seat 6: malumm25 (1500 in chips) 
+Seat 7: Kabouter58 (1500 in chips) 
+Seat 8: SergeB1961 (1500 in chips) is sitting out
+Seat 9: #1frenchie (1500 in chips) 
+FPereira963: posts small blind 10
+edmalaco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [7s Ah]
+Bellavistal987: raises 40 to 60
+zio7777: folds 
+malumm25: calls 60
+Kabouter58: calls 60
+SergeB1961: calls 60
+#1frenchie: calls 60
+onezip: folds 
+FPereira963: folds 
+edmalaco: calls 40
+*** FLOP *** [Tc Td 6s]
+edmalaco: checks 
+Bellavistal987: bets 20
+malumm25: calls 20
+Kabouter58: folds 
+SergeB1961: calls 20
+#1frenchie: calls 20
+edmalaco: calls 20
+*** TURN *** [Tc Td 6s] [5h]
+edmalaco: checks 
+Bellavistal987: bets 20
+malumm25: folds 
+SergeB1961: calls 20
+#1frenchie: calls 20
+edmalaco: calls 20
+*** RIVER *** [Tc Td 6s 5h] [4s]
+edmalaco: checks 
+Bellavistal987: checks 
+SergeB1961: checks 
+#1frenchie: checks 
+*** SHOW DOWN ***
+edmalaco: shows [Kh 5c] (two pair, Tens and Fives)
+Bellavistal987: mucks hand 
+SergeB1961: mucks hand 
+#1frenchie: mucks hand 
+edmalaco collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Tc Td 6s 5h 4s]
+Seat 1: onezip (button) folded before Flop (didn't bet)
+Seat 2: FPereira963 (small blind) folded before Flop
+Seat 3: edmalaco (big blind) showed [Kh 5c] and won (550) with two pair, Tens and Fives
+Seat 4: Bellavistal987 mucked [Ac 8c]
+Seat 5: zio7777 folded before Flop (didn't bet)
+Seat 6: malumm25 folded on the Turn
+Seat 7: Kabouter58 folded on the Flop
+Seat 8: SergeB1961 mucked [7c 4c]
+Seat 9: #1frenchie mucked [Js Qc]
+
+
+
+PokerStars Hand #198994939301: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/04/06 16:06:16 ET
+Table '2579647645 5' 9-max Seat #2 is the button
+Seat 1: onezip (1500 in chips) 
+Seat 2: FPereira963 (1490 in chips) 
+Seat 3: edmalaco (1950 in chips) 
+Seat 4: Bellavistal987 (1400 in chips) 
+Seat 5: zio7777 (1500 in chips) 
+Seat 6: malumm25 (1420 in chips) 
+Seat 7: Kabouter58 (1440 in chips) 
+Seat 8: SergeB1961 (1400 in chips) 
+Seat 9: #1frenchie (1400 in chips) 
+edmalaco: posts small blind 10
+Bellavistal987: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [4s 6c]
+zio7777: folds 
+malumm25: folds 
+Kabouter58: calls 20
+SergeB1961: folds 
+#1frenchie: calls 20
+onezip: folds 
+FPereira963: folds 
+edmalaco: calls 10
+Bellavistal987: raises 80 to 100
+Kabouter58: calls 80
+#1frenchie: calls 80
+edmalaco: calls 80
+*** FLOP *** [Qd Ac 7h]
+edmalaco: checks 
+Bellavistal987: bets 20
+Kabouter58: calls 20
+#1frenchie: calls 20
+edmalaco: calls 20
+*** TURN *** [Qd Ac 7h] [2s]
+edmalaco: checks 
+Bellavistal987: bets 20
+Kabouter58: calls 20
+#1frenchie: folds 
+edmalaco: calls 20
+*** RIVER *** [Qd Ac 7h 2s] [7c]
+edmalaco: bets 40
+Bellavistal987: calls 40
+Kabouter58: folds 
+*** SHOW DOWN ***
+edmalaco: shows [Ah 9d] (two pair, Aces and Sevens)
+Bellavistal987: mucks hand 
+edmalaco collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [Qd Ac 7h 2s 7c]
+Seat 1: onezip folded before Flop (didn't bet)
+Seat 2: FPereira963 (button) folded before Flop (didn't bet)
+Seat 3: edmalaco (small blind) showed [Ah 9d] and won (620) with two pair, Aces and Sevens
+Seat 4: Bellavistal987 (big blind) mucked [Qc Jd]
+Seat 5: zio7777 folded before Flop (didn't bet)
+Seat 6: malumm25 folded before Flop (didn't bet)
+Seat 7: Kabouter58 folded on the River
+Seat 8: SergeB1961 folded before Flop (didn't bet)
+Seat 9: #1frenchie folded on the Turn
+
+
+
+PokerStars Hand #198994990104: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/04/06 16:07:25 ET
+Table '2579647645 5' 9-max Seat #3 is the button
+Seat 1: onezip (1500 in chips) 
+Seat 2: FPereira963 (1490 in chips) 
+Seat 3: edmalaco (2390 in chips) 
+Seat 4: Bellavistal987 (1220 in chips) 
+Seat 5: zio7777 (1500 in chips) 
+Seat 6: malumm25 (1420 in chips) 
+Seat 7: Kabouter58 (1300 in chips) 
+Seat 8: SergeB1961 (1400 in chips) 
+Seat 9: #1frenchie (1280 in chips) 
+Bellavistal987: posts small blind 10
+zio7777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [4s 6h]
+malumm25: calls 20
+Kabouter58: folds 
+SergeB1961: folds 
+#1frenchie: folds 
+onezip: folds 
+FPereira963: folds 
+edmalaco: calls 20
+Bellavistal987: calls 10
+zio7777: checks 
+*** FLOP *** [9d 5h 4c]
+Bellavistal987: checks 
+zio7777: checks 
+malumm25: bets 20
+edmalaco: folds 
+Bellavistal987: calls 20
+zio7777: calls 20
+*** TURN *** [9d 5h 4c] [3h]
+Bellavistal987: checks 
+zio7777: bets 100
+malumm25: folds 
+Bellavistal987: calls 100
+*** RIVER *** [9d 5h 4c 3h] [Tc]
+Bellavistal987: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+Bellavistal987: shows [3d 7h] (a pair of Threes)
+zio7777: shows [4s 6h] (a pair of Fours)
+zio7777 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [9d 5h 4c 3h Tc]
+Seat 1: onezip folded before Flop (didn't bet)
+Seat 2: FPereira963 folded before Flop (didn't bet)
+Seat 3: edmalaco (button) folded on the Flop
+Seat 4: Bellavistal987 (small blind) showed [3d 7h] and lost with a pair of Threes
+Seat 5: zio7777 (big blind) showed [4s 6h] and won (340) with a pair of Fours
+Seat 6: malumm25 folded on the Turn
+Seat 7: Kabouter58 folded before Flop (didn't bet)
+Seat 8: SergeB1961 folded before Flop (didn't bet)
+Seat 9: #1frenchie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198995047269: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/04/06 16:08:43 ET
+Table '2579647645 5' 9-max Seat #4 is the button
+Seat 1: onezip (1500 in chips) 
+Seat 2: FPereira963 (1490 in chips) 
+Seat 3: edmalaco (2370 in chips) 
+Seat 4: Bellavistal987 (1080 in chips) 
+Seat 5: zio7777 (1700 in chips) 
+Seat 6: malumm25 (1380 in chips) 
+Seat 7: Kabouter58 (1300 in chips) 
+Seat 8: SergeB1961 (1400 in chips) 
+Seat 9: #1frenchie (1280 in chips) 
+zio7777: posts small blind 10
+malumm25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [2h Jd]
+Kabouter58: calls 20
+SergeB1961: calls 20
+#1frenchie: folds 
+onezip: folds 
+FPereira963: calls 20
+edmalaco: calls 20
+Bellavistal987: calls 20
+zio7777: calls 10
+malumm25: checks 
+*** FLOP *** [Qd 2s Ac]
+zio7777: checks 
+malumm25: checks 
+Kabouter58: checks 
+SergeB1961: checks 
+FPereira963: checks 
+edmalaco: bets 20
+Bellavistal987: folds 
+zio7777: calls 20
+malumm25: folds 
+Kabouter58: folds 
+SergeB1961: folds 
+FPereira963: folds 
+*** TURN *** [Qd 2s Ac] [Ts]
+zio7777: bets 100
+edmalaco: raises 100 to 200
+zio7777: calls 100
+*** RIVER *** [Qd 2s Ac Ts] [As]
+zio7777: checks 
+edmalaco: bets 2130 and is all-in
+zio7777: folds 
+Uncalled bet (2130) returned to edmalaco
+edmalaco collected 580 from pot
+edmalaco: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Qd 2s Ac Ts As]
+Seat 1: onezip folded before Flop (didn't bet)
+Seat 2: FPereira963 folded on the Flop
+Seat 3: edmalaco collected (580)
+Seat 4: Bellavistal987 (button) folded on the Flop
+Seat 5: zio7777 (small blind) folded on the River
+Seat 6: malumm25 (big blind) folded on the Flop
+Seat 7: Kabouter58 folded on the Flop
+Seat 8: SergeB1961 folded on the Flop
+Seat 9: #1frenchie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198995120865: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/04/06 16:10:23 ET
+Table '2579647645 5' 9-max Seat #5 is the button
+Seat 1: onezip (1500 in chips) 
+Seat 2: FPereira963 (1470 in chips) 
+Seat 3: edmalaco (2710 in chips) 
+Seat 4: Bellavistal987 (1060 in chips) 
+Seat 5: zio7777 (1460 in chips) 
+Seat 6: malumm25 (1360 in chips) 
+Seat 7: Kabouter58 (1280 in chips) 
+Seat 8: SergeB1961 (1380 in chips) 
+Seat 9: #1frenchie (1280 in chips) 
+malumm25: posts small blind 15
+Kabouter58: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [4h 8h]
+SergeB1961: calls 30
+#1frenchie: folds 
+onezip: calls 30
+FPereira963: folds 
+edmalaco: folds 
+Bellavistal987: raises 30 to 60
+zio7777: folds 
+malumm25: calls 45
+Kabouter58: calls 30
+SergeB1961: calls 30
+onezip: calls 30
+*** FLOP *** [5c 6d 4d]
+malumm25: bets 30
+Kabouter58: folds 
+SergeB1961: calls 30
+onezip: calls 30
+Bellavistal987: calls 30
+*** TURN *** [5c 6d 4d] [Js]
+malumm25: bets 30
+SergeB1961: calls 30
+onezip: calls 30
+Bellavistal987: raises 540 to 570
+malumm25: folds 
+SergeB1961: folds 
+onezip: folds 
+Uncalled bet (540) returned to Bellavistal987
+Bellavistal987 collected 540 from pot
+Bellavistal987: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [5c 6d 4d Js]
+Seat 1: onezip folded on the Turn
+Seat 2: FPereira963 folded before Flop (didn't bet)
+Seat 3: edmalaco folded before Flop (didn't bet)
+Seat 4: Bellavistal987 collected (540)
+Seat 5: zio7777 (button) folded before Flop (didn't bet)
+Seat 6: malumm25 (small blind) folded on the Turn
+Seat 7: Kabouter58 (big blind) folded on the Flop
+Seat 8: SergeB1961 folded on the Turn
+Seat 9: #1frenchie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198995184960: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/04/06 16:11:51 ET
+Table '2579647645 5' 9-max Seat #6 is the button
+Seat 2: FPereira963 (1470 in chips) 
+Seat 3: edmalaco (2710 in chips) 
+Seat 4: Bellavistal987 (1480 in chips) 
+Seat 5: zio7777 (1460 in chips) 
+Seat 6: malumm25 (1240 in chips) 
+Seat 7: Kabouter58 (1220 in chips) 
+Seat 8: SergeB1961 (1260 in chips) 
+Seat 9: #1frenchie (1280 in chips) 
+Kabouter58: posts small blind 15
+SergeB1961: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [4s 2s]
+#1frenchie: calls 30
+FPereira963: calls 30
+edmalaco: calls 30
+Bellavistal987: calls 30
+zio7777: calls 30
+malumm25: calls 30
+Kabouter58: folds 
+SergeB1961: checks 
+*** FLOP *** [Jh 9s 3s]
+SergeB1961: checks 
+#1frenchie: checks 
+FPereira963: checks 
+edmalaco: checks 
+Bellavistal987: checks 
+zio7777: bets 225
+malumm25: raises 225 to 450
+SergeB1961: calls 450
+#1frenchie: folds 
+FPereira963: folds 
+edmalaco: calls 450
+Bellavistal987: folds 
+zio7777: calls 225
+*** TURN *** [Jh 9s 3s] [Td]
+SergeB1961: checks 
+edmalaco: bets 300
+zio7777: folds 
+malumm25: raises 460 to 760 and is all-in
+SergeB1961: calls 760
+edmalaco: calls 460
+*** RIVER *** [Jh 9s 3s Td] [Th]
+SergeB1961: bets 20 and is all-in
+edmalaco: calls 20
+*** SHOW DOWN ***
+SergeB1961: shows [Js 7s] (two pair, Jacks and Tens)
+edmalaco: shows [3c 3d] (a full house, Threes full of Tens)
+edmalaco collected 40 from side pot
+malumm25: shows [7c Jc] (two pair, Jacks and Tens)
+edmalaco collected 4305 from main pot
+SergeB1961 finished the tournament in 37th place
+malumm25 finished the tournament in 38th place
+*** SUMMARY ***
+Total pot 4345 Main pot 4305. Side pot 40. | Rake 0 
+Board [Jh 9s 3s Td Th]
+Seat 2: FPereira963 folded on the Flop
+Seat 3: edmalaco showed [3c 3d] and won (4345) with a full house, Threes full of Tens
+Seat 4: Bellavistal987 folded on the Flop
+Seat 5: zio7777 folded on the Turn
+Seat 6: malumm25 (button) showed [7c Jc] and lost with two pair, Jacks and Tens
+Seat 7: Kabouter58 (small blind) folded before Flop
+Seat 8: SergeB1961 (big blind) showed [Js 7s] and lost with two pair, Jacks and Tens
+Seat 9: #1frenchie folded on the Flop
+
+
+
+PokerStars Hand #198995302319: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/06 16:14:33 ET
+Table '2579647645 2' 9-max Seat #4 is the button
+Seat 1: Nego.Braddock (3855 in chips) 
+Seat 2: zio7777 (980 in chips) 
+Seat 3: DRBUM63 (1305 in chips) 
+Seat 4: solares13 (1300 in chips) 
+Seat 5: dance doc (1400 in chips) 
+Seat 6: broke n bust (1560 in chips) 
+Seat 7: lilitogames (1305 in chips) 
+Seat 8: andresin111 (1145 in chips) 
+Seat 9: edmalaco (5795 in chips) 
+dance doc: posts small blind 25
+broke n bust: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [4d Kc]
+lilitogames: folds 
+andresin111: calls 50
+edmalaco: folds 
+Nego.Braddock: calls 50
+zio7777: folds 
+DRBUM63: folds 
+solares13: calls 50
+dance doc: calls 25
+broke n bust: checks 
+*** FLOP *** [3d Kd Qh]
+dance doc: bets 1350 and is all-in
+broke n bust: folds 
+andresin111: folds 
+Nego.Braddock: folds 
+solares13: calls 1250 and is all-in
+Uncalled bet (100) returned to dance doc
+*** TURN *** [3d Kd Qh] [Ad]
+*** RIVER *** [3d Kd Qh Ad] [Qs]
+*** SHOW DOWN ***
+dance doc: shows [7h Ks] (two pair, Kings and Queens)
+solares13: shows [Jh Ah] (two pair, Aces and Queens)
+solares13 collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | Rake 0 
+Board [3d Kd Qh Ad Qs]
+Seat 1: Nego.Braddock folded on the Flop
+Seat 2: zio7777 folded before Flop (didn't bet)
+Seat 3: DRBUM63 folded before Flop (didn't bet)
+Seat 4: solares13 (button) showed [Jh Ah] and won (2750) with two pair, Aces and Queens
+Seat 5: dance doc (small blind) showed [7h Ks] and lost with two pair, Kings and Queens
+Seat 6: broke n bust (big blind) folded on the Flop
+Seat 7: lilitogames folded before Flop (didn't bet)
+Seat 8: andresin111 folded on the Flop
+Seat 9: edmalaco folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198995348338: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/06 16:15:35 ET
+Table '2579647645 2' 9-max Seat #5 is the button
+Seat 1: Nego.Braddock (3805 in chips) 
+Seat 2: zio7777 (980 in chips) 
+Seat 3: DRBUM63 (1305 in chips) 
+Seat 4: solares13 (2750 in chips) 
+Seat 5: dance doc (100 in chips) 
+Seat 6: broke n bust (1510 in chips) 
+Seat 7: lilitogames (1305 in chips) 
+Seat 8: andresin111 (1095 in chips) 
+Seat 9: edmalaco (5795 in chips) 
+broke n bust: posts small blind 25
+lilitogames: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [As 9c]
+andresin111: calls 50
+edmalaco: calls 50
+Nego.Braddock: raises 150 to 200
+zio7777: folds 
+DRBUM63: folds 
+solares13: folds 
+dance doc: calls 100 and is all-in
+broke n bust: folds 
+lilitogames: raises 1105 to 1305 and is all-in
+andresin111: calls 1045 and is all-in
+edmalaco: calls 1255
+Nego.Braddock: folds 
+*** FLOP *** [3h Ad 3c]
+*** TURN *** [3h Ad 3c] [6c]
+*** RIVER *** [3h Ad 3c 6c] [5d]
+*** SHOW DOWN ***
+lilitogames: shows [4c 4h] (two pair, Fours and Threes)
+edmalaco: shows [6s Ts] (two pair, Sixes and Threes)
+edmalaco collected 420 from side pot-2 
+andresin111: shows [Td 9h] (a pair of Threes)
+edmalaco collected 3085 from side pot-1 
+dance doc: shows [7h 5s] (two pair, Fives and Threes)
+edmalaco collected 525 from main pot
+lilitogames finished the tournament in 32nd place
+andresin111 finished the tournament in 33rd place
+dance doc finished the tournament in 34th place
+*** SUMMARY ***
+Total pot 4030 Main pot 525. Side pot-1 3085. Side pot-2 420. | Rake 0 
+Board [3h Ad 3c 6c 5d]
+Seat 1: Nego.Braddock folded before Flop
+Seat 2: zio7777 folded before Flop (didn't bet)
+Seat 3: DRBUM63 folded before Flop (didn't bet)
+Seat 4: solares13 folded before Flop (didn't bet)
+Seat 5: dance doc (button) showed [7h 5s] and lost with two pair, Fives and Threes
+Seat 6: broke n bust (small blind) folded before Flop
+Seat 7: lilitogames (big blind) showed [4c 4h] and lost with two pair, Fours and Threes
+Seat 8: andresin111 showed [Td 9h] and lost with a pair of Threes
+Seat 9: edmalaco showed [6s Ts] and won (4030) with two pair, Sixes and Threes
+
+
+
+PokerStars Hand #198995398128: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/06 16:16:41 ET
+Table '2579647645 2' 9-max Seat #6 is the button
+Seat 1: Nego.Braddock (3605 in chips) 
+Seat 2: zio7777 (980 in chips) 
+Seat 3: DRBUM63 (1305 in chips) 
+Seat 4: solares13 (2750 in chips) 
+Seat 5: lharper (1295 in chips) 
+Seat 6: broke n bust (1485 in chips) 
+Seat 9: edmalaco (8520 in chips) 
+edmalaco: posts small blind 25
+Nego.Braddock: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [Ah 7h]
+zio7777: calls 50
+DRBUM63: folds 
+solares13: calls 50
+lharper: folds 
+broke n bust: folds 
+edmalaco: calls 25
+Nego.Braddock: checks 
+*** FLOP *** [Qc Qd Ks]
+edmalaco: checks 
+Nego.Braddock: bets 50
+zio7777: folds 
+solares13: raises 50 to 100
+edmalaco: folds 
+Nego.Braddock: calls 50
+*** TURN *** [Qc Qd Ks] [Kd]
+Nego.Braddock: checks 
+solares13: bets 100
+Nego.Braddock: raises 300 to 400
+solares13: raises 300 to 700
+Nego.Braddock: calls 300
+*** RIVER *** [Qc Qd Ks Kd] [6d]
+Nego.Braddock: checks 
+solares13: bets 750
+Nego.Braddock: raises 2005 to 2755 and is all-in
+solares13: calls 1150 and is all-in
+Uncalled bet (855) returned to Nego.Braddock
+*** SHOW DOWN ***
+Nego.Braddock: shows [Qh 9c] (a full house, Queens full of Kings)
+solares13: shows [Ac Kc] (a full house, Kings full of Queens)
+solares13 collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Board [Qc Qd Ks Kd 6d]
+Seat 1: Nego.Braddock (big blind) showed [Qh 9c] and lost with a full house, Queens full of Kings
+Seat 2: zio7777 folded on the Flop
+Seat 3: DRBUM63 folded before Flop (didn't bet)
+Seat 4: solares13 showed [Ac Kc] and won (5600) with a full house, Kings full of Queens
+Seat 5: lharper folded before Flop (didn't bet)
+Seat 6: broke n bust (button) folded before Flop (didn't bet)
+Seat 9: edmalaco (small blind) folded on the Flop
+
+
+
+PokerStars Hand #198995467812: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/06 16:18:14 ET
+Table '2579647645 2' 9-max Seat #9 is the button
+Seat 1: Nego.Braddock (855 in chips) 
+Seat 2: zio7777 (930 in chips) 
+Seat 3: DRBUM63 (1305 in chips) 
+Seat 4: solares13 (5600 in chips) 
+Seat 5: lharper (1295 in chips) 
+Seat 6: broke n bust (1485 in chips) 
+Seat 9: edmalaco (8470 in chips) 
+Nego.Braddock: posts small blind 25
+zio7777: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [3c 9d]
+DRBUM63: folds 
+solares13: calls 50
+lharper: folds 
+broke n bust: folds 
+edmalaco: calls 50
+Nego.Braddock: raises 805 to 855 and is all-in
+zio7777: folds 
+solares13: folds 
+edmalaco: calls 805
+*** FLOP *** [2h 7c 4h]
+*** TURN *** [2h 7c 4h] [Ah]
+*** RIVER *** [2h 7c 4h Ah] [5c]
+*** SHOW DOWN ***
+Nego.Braddock: shows [Qc Tc] (high card Ace)
+edmalaco: shows [3d Ad] (a straight, Ace to Five)
+edmalaco collected 1810 from pot
+Nego.Braddock finished the tournament in 31st place
+*** SUMMARY ***
+Total pot 1810 | Rake 0 
+Board [2h 7c 4h Ah 5c]
+Seat 1: Nego.Braddock (small blind) showed [Qc Tc] and lost with high card Ace
+Seat 2: zio7777 (big blind) folded before Flop
+Seat 3: DRBUM63 folded before Flop (didn't bet)
+Seat 4: solares13 folded before Flop
+Seat 5: lharper folded before Flop (didn't bet)
+Seat 6: broke n bust folded before Flop (didn't bet)
+Seat 9: edmalaco (button) showed [3d Ad] and won (1810) with a straight, Ace to Five
+
+
+
+PokerStars Hand #198995496029: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/06 16:18:51 ET
+Table '2579647645 2' 9-max Seat #2 is the button
+Seat 2: zio7777 (880 in chips) 
+Seat 3: DRBUM63 (1305 in chips) 
+Seat 4: solares13 (5550 in chips) 
+Seat 5: lharper (1295 in chips) 
+Seat 6: broke n bust (1485 in chips) 
+Seat 9: edmalaco (9425 in chips) 
+DRBUM63: posts small blind 25
+solares13: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [7c 9s]
+lharper: folds 
+broke n bust: folds 
+edmalaco: calls 50
+zio7777: folds 
+DRBUM63: calls 25
+solares13: checks 
+*** FLOP *** [Qc 3h 9h]
+DRBUM63: checks 
+solares13: bets 50
+edmalaco: calls 50
+DRBUM63: calls 50
+*** TURN *** [Qc 3h 9h] [5c]
+DRBUM63: checks 
+solares13: checks 
+edmalaco: checks 
+*** RIVER *** [Qc 3h 9h 5c] [6d]
+DRBUM63: checks 
+solares13: checks 
+edmalaco: checks 
+*** SHOW DOWN ***
+DRBUM63: shows [4h Kh] (high card King)
+solares13: shows [6h 9d] (two pair, Nines and Sixes)
+edmalaco: mucks hand 
+solares13 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qc 3h 9h 5c 6d]
+Seat 2: zio7777 (button) folded before Flop (didn't bet)
+Seat 3: DRBUM63 (small blind) showed [4h Kh] and lost with high card King
+Seat 4: solares13 (big blind) showed [6h 9d] and won (300) with two pair, Nines and Sixes
+Seat 5: lharper folded before Flop (didn't bet)
+Seat 6: broke n bust folded before Flop (didn't bet)
+Seat 9: edmalaco mucked [Ac 6c]
+
+
+
+PokerStars Hand #198995540664: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/04/06 16:19:50 ET
+Table '2579647645 2' 9-max Seat #3 is the button
+Seat 2: zio7777 (880 in chips) 
+Seat 3: DRBUM63 (1205 in chips) 
+Seat 4: solares13 (5750 in chips) 
+Seat 5: lharper (1295 in chips) 
+Seat 6: broke n bust (1485 in chips) 
+Seat 7: belyiy filin (1375 in chips) 
+Seat 9: edmalaco (9325 in chips) 
+solares13: posts small blind 50
+lharper: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [8s Th]
+broke n bust: folds 
+belyiy filin: folds 
+edmalaco: folds 
+zio7777: raises 780 to 880 and is all-in
+DRBUM63: folds 
+solares13: folds 
+lharper: folds 
+Uncalled bet (780) returned to zio7777
+zio7777 collected 250 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 2: zio7777 collected (250)
+Seat 3: DRBUM63 (button) folded before Flop (didn't bet)
+Seat 4: solares13 (small blind) folded before Flop
+Seat 5: lharper (big blind) folded before Flop
+Seat 6: broke n bust folded before Flop (didn't bet)
+Seat 7: belyiy filin folded before Flop (didn't bet)
+Seat 9: edmalaco folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198995564465: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/04/06 16:20:22 ET
+Table '2579647645 2' 9-max Seat #4 is the button
+Seat 2: zio7777 (1030 in chips) 
+Seat 3: DRBUM63 (1205 in chips) 
+Seat 4: solares13 (5700 in chips) 
+Seat 5: lharper (1195 in chips) 
+Seat 6: broke n bust (1485 in chips) 
+Seat 7: belyiy filin (1375 in chips) 
+Seat 9: edmalaco (9325 in chips) 
+lharper: posts small blind 50
+broke n bust: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [8c 7s]
+belyiy filin has timed out
+belyiy filin: folds 
+edmalaco: folds 
+zio7777: folds 
+DRBUM63: calls 100
+solares13: calls 100
+lharper: folds 
+broke n bust: checks 
+*** FLOP *** [Qc 3s 4d]
+broke n bust: bets 100
+DRBUM63: calls 100
+solares13: calls 100
+*** TURN *** [Qc 3s 4d] [3h]
+broke n bust: bets 100
+DRBUM63: calls 100
+solares13: folds 
+*** RIVER *** [Qc 3s 4d 3h] [6h]
+broke n bust: bets 100
+DRBUM63: raises 100 to 200
+broke n bust: calls 100
+*** SHOW DOWN ***
+DRBUM63: shows [Qd As] (two pair, Queens and Threes)
+broke n bust: shows [Qh 4c] (two pair, Queens and Fours)
+broke n bust collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Qc 3s 4d 3h 6h]
+Seat 2: zio7777 folded before Flop (didn't bet)
+Seat 3: DRBUM63 showed [Qd As] and lost with two pair, Queens and Threes
+Seat 4: solares13 (button) folded on the Turn
+Seat 5: lharper (small blind) folded before Flop
+Seat 6: broke n bust (big blind) showed [Qh 4c] and won (1250) with two pair, Queens and Fours
+Seat 7: belyiy filin folded before Flop (didn't bet)
+Seat 9: edmalaco folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198995618254: Tournament #2579647645, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/04/06 16:21:33 ET
+Table '2579647645 2' 9-max Seat #5 is the button
+Seat 2: zio7777 (1030 in chips) 
+Seat 3: DRBUM63 (705 in chips) 
+Seat 4: solares13 (5500 in chips) 
+Seat 5: lharper (1145 in chips) 
+Seat 6: broke n bust (2235 in chips) 
+Seat 7: belyiy filin (1375 in chips) is sitting out
+Seat 9: edmalaco (9325 in chips) 
+broke n bust: posts small blind 50
+belyiy filin: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd Jh]
+edmalaco: folds 
+zio7777: calls 100
+DRBUM63: folds 
+solares13: calls 100
+lharper: calls 100
+broke n bust: calls 50
+belyiy filin: folds 
+*** FLOP *** [Kh 2d 7s]
+broke n bust: checks 
+zio7777: bets 250
+solares13: folds 
+lharper: calls 250
+broke n bust: folds 
+*** TURN *** [Kh 2d 7s] [9s]
+zio7777: bets 680 and is all-in
+lharper: calls 680
+*** RIVER *** [Kh 2d 7s 9s] [As]
+*** SHOW DOWN ***
+zio7777: shows [Jd Jh] (a pair of Jacks)
+lharper: shows [Ks Qd] (a pair of Kings)
+lharper collected 2360 from pot
+zio7777 finished the tournament in 28th place
+*** SUMMARY ***
+Total pot 2360 | Rake 0 
+Board [Kh 2d 7s 9s As]
+Seat 2: zio7777 showed [Jd Jh] and lost with a pair of Jacks
+Seat 3: DRBUM63 folded before Flop (didn't bet)
+Seat 4: solares13 folded on the Flop
+Seat 5: lharper (button) showed [Ks Qd] and won (2360) with a pair of Kings
+Seat 6: broke n bust (small blind) folded on the Flop
+Seat 7: belyiy filin (big blind) folded before Flop
+Seat 9: edmalaco folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,2098 @@
+﻿PokerStars Hand #198842989121: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level I (10/20) - 2019/04/02 14:50:01 ET
+Table '2573013629 7' 9-max Seat #1 is the button
+Seat 1: behoward1 (5000 in chips) 
+Seat 2: silva47 (5000 in chips) 
+Seat 3: zio7777 (5000 in chips) 
+Seat 4: Petrichaur (5000 in chips) 
+Seat 5: rumor24 (5000 in chips) 
+Seat 6: gerard0007 (5000 in chips) 
+Seat 7: prymachel333 (5000 in chips) 
+Seat 9: ChrissyM52 (5000 in chips) 
+silva47: posts small blind 10
+zio7777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [Kc 6d]
+Petrichaur: folds 
+rumor24: folds 
+gerard0007: calls 20
+prymachel333: calls 20
+ChrissyM52: calls 20
+behoward1: calls 20
+silva47 has timed out
+silva47: folds 
+zio7777: checks 
+*** FLOP *** [Th 5h 9c]
+zio7777: checks 
+gerard0007: checks 
+prymachel333: checks 
+ChrissyM52: checks 
+behoward1: checks 
+*** TURN *** [Th 5h 9c] [2h]
+zio7777: checks 
+gerard0007: checks 
+prymachel333: checks 
+ChrissyM52: checks 
+behoward1: checks 
+*** RIVER *** [Th 5h 9c 2h] [5c]
+zio7777: checks 
+gerard0007: checks 
+prymachel333: checks 
+ChrissyM52: bets 55
+behoward1: calls 55
+zio7777: folds 
+gerard0007: folds 
+prymachel333: calls 55
+*** SHOW DOWN ***
+ChrissyM52: shows [5s 7c] (three of a kind, Fives)
+behoward1: mucks hand 
+prymachel333: mucks hand 
+ChrissyM52 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Board [Th 5h 9c 2h 5c]
+Seat 1: behoward1 (button) mucked [2s Qc]
+Seat 2: silva47 (small blind) folded before Flop
+Seat 3: zio7777 (big blind) folded on the River
+Seat 4: Petrichaur folded before Flop (didn't bet)
+Seat 5: rumor24 folded before Flop (didn't bet)
+Seat 6: gerard0007 folded on the River
+Seat 7: prymachel333 mucked [2d Kd]
+Seat 9: ChrissyM52 showed [5s 7c] and won (275) with three of a kind, Fives
+
+
+
+PokerStars Hand #198843065275: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level I (10/20) - 2019/04/02 14:51:46 ET
+Table '2573013629 7' 9-max Seat #2 is the button
+Seat 1: behoward1 (4925 in chips) 
+Seat 2: silva47 (4990 in chips) 
+Seat 3: zio7777 (4980 in chips) 
+Seat 4: Petrichaur (5000 in chips) 
+Seat 5: rumor24 (5000 in chips) 
+Seat 6: gerard0007 (4980 in chips) 
+Seat 7: prymachel333 (4925 in chips) 
+Seat 8: onhego (5000 in chips) 
+Seat 9: ChrissyM52 (5200 in chips) 
+zio7777: posts small blind 10
+Petrichaur: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [9s 3d]
+rumor24: folds 
+gerard0007: calls 20
+prymachel333: calls 20
+onhego: calls 20
+ChrissyM52: calls 20
+behoward1: calls 20
+silva47: folds 
+zio7777: calls 10
+Petrichaur: checks 
+*** FLOP *** [2h 7d 9h]
+zio7777: bets 100
+Petrichaur: folds 
+gerard0007: calls 100
+prymachel333: calls 100
+onhego: calls 100
+ChrissyM52: folds 
+behoward1: calls 100
+*** TURN *** [2h 7d 9h] [Qs]
+zio7777: bets 300
+gerard0007: folds 
+prymachel333: folds 
+onhego: calls 300
+behoward1: calls 300
+*** RIVER *** [2h 7d 9h Qs] [As]
+zio7777: checks 
+onhego: checks 
+behoward1: checks 
+*** SHOW DOWN ***
+zio7777: shows [9s 3d] (a pair of Nines)
+onhego: shows [Kc 9d] (a pair of Nines - Ace+King kicker)
+behoward1: mucks hand 
+onhego collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [2h 7d 9h Qs As]
+Seat 1: behoward1 mucked [2s 3s]
+Seat 2: silva47 (button) folded before Flop (didn't bet)
+Seat 3: zio7777 (small blind) showed [9s 3d] and lost with a pair of Nines
+Seat 4: Petrichaur (big blind) folded on the Flop
+Seat 5: rumor24 folded before Flop (didn't bet)
+Seat 6: gerard0007 folded on the Turn
+Seat 7: prymachel333 folded on the Turn
+Seat 8: onhego showed [Kc 9d] and won (1540) with a pair of Nines
+Seat 9: ChrissyM52 folded on the Flop
+
+
+
+PokerStars Hand #198843125788: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level I (10/20) - 2019/04/02 14:53:11 ET
+Table '2573013629 7' 9-max Seat #3 is the button
+Seat 1: behoward1 (4505 in chips) 
+Seat 3: zio7777 (4560 in chips) 
+Seat 4: Petrichaur (4980 in chips) 
+Seat 5: rumor24 (5000 in chips) 
+Seat 6: gerard0007 (4860 in chips) 
+Seat 7: prymachel333 (4805 in chips) 
+Seat 8: onhego (6120 in chips) 
+Seat 9: ChrissyM52 (5180 in chips) 
+Petrichaur: posts small blind 10
+rumor24: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [2d 6s]
+gerard0007: calls 20
+prymachel333: raises 20 to 40
+onhego: folds 
+ChrissyM52: calls 40
+behoward1: calls 40
+zio7777: folds 
+Petrichaur: folds 
+rumor24: calls 20
+gerard0007: calls 20
+*** FLOP *** [Jd 9d 8s]
+rumor24: checks 
+gerard0007: checks 
+prymachel333: bets 380
+ChrissyM52: folds 
+behoward1: calls 380
+rumor24: folds 
+gerard0007: folds 
+*** TURN *** [Jd 9d 8s] [7d]
+prymachel333: bets 360
+behoward1: calls 360
+*** RIVER *** [Jd 9d 8s 7d] [Qs]
+prymachel333: bets 360
+behoward1: calls 360
+*** SHOW DOWN ***
+prymachel333: shows [9c Kh] (a pair of Nines)
+behoward1: shows [3d Ts] (a straight, Eight to Queen)
+behoward1 collected 2410 from pot
+*** SUMMARY ***
+Total pot 2410 | Rake 0 
+Board [Jd 9d 8s 7d Qs]
+Seat 1: behoward1 showed [3d Ts] and won (2410) with a straight, Eight to Queen
+Seat 3: zio7777 (button) folded before Flop (didn't bet)
+Seat 4: Petrichaur (small blind) folded before Flop
+Seat 5: rumor24 (big blind) folded on the Flop
+Seat 6: gerard0007 folded on the Flop
+Seat 7: prymachel333 showed [9c Kh] and lost with a pair of Nines
+Seat 8: onhego folded before Flop (didn't bet)
+Seat 9: ChrissyM52 folded on the Flop
+
+
+
+PokerStars Hand #198843197014: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level I (10/20) - 2019/04/02 14:54:51 ET
+Table '2573013629 7' 9-max Seat #4 is the button
+Seat 1: behoward1 (5775 in chips) 
+Seat 2: RRRRRickya (5000 in chips) 
+Seat 3: zio7777 (4560 in chips) 
+Seat 4: Petrichaur (4970 in chips) 
+Seat 5: rumor24 (4960 in chips) 
+Seat 6: gerard0007 (4820 in chips) 
+Seat 7: prymachel333 (3665 in chips) 
+Seat 8: onhego (6120 in chips) 
+Seat 9: ChrissyM52 (5140 in chips) 
+rumor24: posts small blind 10
+gerard0007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [Qh Ad]
+prymachel333: raises 1240 to 1260
+onhego: folds 
+ChrissyM52: folds 
+behoward1: folds 
+RRRRRickya: folds 
+zio7777: folds 
+Petrichaur: folds 
+rumor24: folds 
+gerard0007: folds 
+Uncalled bet (1240) returned to prymachel333
+prymachel333 collected 50 from pot
+prymachel333: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: behoward1 folded before Flop (didn't bet)
+Seat 2: RRRRRickya folded before Flop (didn't bet)
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: Petrichaur (button) folded before Flop (didn't bet)
+Seat 5: rumor24 (small blind) folded before Flop
+Seat 6: gerard0007 (big blind) folded before Flop
+Seat 7: prymachel333 collected (50)
+Seat 8: onhego folded before Flop (didn't bet)
+Seat 9: ChrissyM52 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198843437966: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level I (10/20) - 2019/04/02 15:01:47 ET
+Table '2573013629 7' 9-max Seat #6 is the button
+Seat 1: behoward1 (5775 in chips) 
+Seat 2: RRRRRickya (5000 in chips) 
+Seat 3: zio7777 (4560 in chips) 
+Seat 4: Dauerpluss (5000 in chips) 
+Seat 6: gerard0007 (4800 in chips) 
+Seat 8: onhego (6120 in chips) 
+Seat 9: ChrissyM52 (5140 in chips) 
+onhego: posts small blind 10
+ChrissyM52: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [5c 3h]
+behoward1 has timed out while disconnected
+behoward1: folds 
+RRRRRickya: folds 
+zio7777: folds 
+Dauerpluss: calls 20
+gerard0007: folds 
+onhego has timed out
+onhego: folds 
+ChrissyM52: checks 
+*** FLOP *** [7d Jd 3d]
+ChrissyM52: checks 
+Dauerpluss: bets 20
+ChrissyM52: calls 20
+*** TURN *** [7d Jd 3d] [Ad]
+ChrissyM52: checks 
+Dauerpluss: checks 
+*** RIVER *** [7d Jd 3d Ad] [Kc]
+ChrissyM52: checks 
+Dauerpluss: checks 
+*** SHOW DOWN ***
+ChrissyM52: shows [As 3c] (two pair, Aces and Threes)
+Dauerpluss: mucks hand 
+ChrissyM52 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7d Jd 3d Ad Kc]
+Seat 1: behoward1 folded before Flop (didn't bet)
+Seat 2: RRRRRickya folded before Flop (didn't bet)
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: Dauerpluss mucked [7s 8s]
+Seat 6: gerard0007 (button) folded before Flop (didn't bet)
+Seat 8: onhego (small blind) folded before Flop
+Seat 9: ChrissyM52 (big blind) showed [As 3c] and won (90) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #198843494473: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level II (15/30) - 2019/04/02 15:03:04 ET
+Table '2573013629 7' 9-max Seat #8 is the button
+Seat 1: behoward1 (5775 in chips) is sitting out
+Seat 2: RRRRRickya (5000 in chips) 
+Seat 3: zio7777 (4560 in chips) 
+Seat 4: Dauerpluss (4960 in chips) 
+Seat 6: gerard0007 (4800 in chips) 
+Seat 7: jjsimons (5000 in chips) 
+Seat 8: onhego (6110 in chips) is sitting out
+Seat 9: ChrissyM52 (5190 in chips) 
+ChrissyM52: posts small blind 15
+behoward1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Td As]
+RRRRRickya: folds 
+zio7777: raises 60 to 90
+Dauerpluss: calls 90
+gerard0007: folds 
+jjsimons: folds 
+onhego: folds 
+ChrissyM52: calls 75
+behoward1: folds 
+*** FLOP *** [Qs 4d 6h]
+ChrissyM52: checks 
+zio7777: bets 210
+Dauerpluss: folds 
+ChrissyM52: calls 210
+*** TURN *** [Qs 4d 6h] [Js]
+ChrissyM52: checks 
+gerard0007 is disconnected 
+zio7777: checks 
+*** RIVER *** [Qs 4d 6h Js] [Tc]
+ChrissyM52: checks 
+zio7777: bets 240
+ChrissyM52: folds 
+Uncalled bet (240) returned to zio7777
+zio7777 collected 720 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Qs 4d 6h Js Tc]
+Seat 1: behoward1 (big blind) folded before Flop
+Seat 2: RRRRRickya folded before Flop (didn't bet)
+Seat 3: zio7777 collected (720)
+Seat 4: Dauerpluss folded on the Flop
+Seat 6: gerard0007 folded before Flop (didn't bet)
+Seat 7: jjsimons folded before Flop (didn't bet)
+Seat 8: onhego (button) folded before Flop (didn't bet)
+Seat 9: ChrissyM52 (small blind) folded on the River
+
+
+
+PokerStars Hand #198843536174: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level II (15/30) - 2019/04/02 15:04:00 ET
+Table '2573013629 7' 9-max Seat #9 is the button
+Seat 1: behoward1 (5745 in chips) is sitting out
+Seat 2: RRRRRickya (5000 in chips) 
+Seat 3: zio7777 (4980 in chips) 
+Seat 4: Dauerpluss (4870 in chips) 
+Seat 6: gerard0007 (4800 in chips) 
+Seat 7: jjsimons (5000 in chips) 
+Seat 8: onhego (6110 in chips) is sitting out
+Seat 9: ChrissyM52 (4890 in chips) 
+behoward1: posts small blind 15
+RRRRRickya: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd 5h]
+zio7777: folds 
+Dauerpluss: folds 
+gerard0007: folds 
+jjsimons: calls 30
+onhego: folds 
+ChrissyM52: folds 
+behoward1: folds 
+RRRRRickya: checks 
+*** FLOP *** [5c 3c Ad]
+RRRRRickya: checks 
+jjsimons: bets 630
+RRRRRickya: folds 
+Uncalled bet (630) returned to jjsimons
+jjsimons collected 75 from pot
+jjsimons: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [5c 3c Ad]
+Seat 1: behoward1 (small blind) folded before Flop
+Seat 2: RRRRRickya (big blind) folded on the Flop
+Seat 3: zio7777 folded before Flop (didn't bet)
+Seat 4: Dauerpluss folded before Flop (didn't bet)
+Seat 6: gerard0007 folded before Flop (didn't bet)
+Seat 7: jjsimons collected (75)
+Seat 8: onhego folded before Flop (didn't bet)
+Seat 9: ChrissyM52 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198843572446: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level II (15/30) - 2019/04/02 15:04:48 ET
+Table '2573013629 14' 9-max Seat #1 is the button
+Seat 1: zio7777 (4980 in chips) 
+Seat 2: grisandd (5030 in chips) 
+Seat 3: MANSUR 661 (6545 in chips) 
+Seat 4: jerome7624 (9965 in chips) 
+Seat 7: IGARA555 (5000 in chips) 
+Seat 9: va4eko (5000 in chips) 
+grisandd: posts small blind 15
+MANSUR 661: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Jc 5s]
+jerome7624: calls 30
+IGARA555: calls 30
+va4eko: calls 30
+zio7777: calls 30
+grisandd: calls 15
+MANSUR 661: checks 
+*** FLOP *** [2h 5c 6h]
+grisandd: checks 
+MANSUR 661: bets 210
+jerome7624: calls 210
+IGARA555: raises 810 to 1020
+va4eko: folds 
+zio7777: folds 
+grisandd: folds 
+MANSUR 661: folds 
+jerome7624: calls 810
+*** TURN *** [2h 5c 6h] [Ts]
+jerome7624: checks 
+IGARA555: bets 3950 and is all-in
+jerome7624: folds 
+Uncalled bet (3950) returned to IGARA555
+IGARA555 collected 2430 from pot
+IGARA555: doesn't show hand 
+*** SUMMARY ***
+Total pot 2430 | Rake 0 
+Board [2h 5c 6h Ts]
+Seat 1: zio7777 (button) folded on the Flop
+Seat 2: grisandd (small blind) folded on the Flop
+Seat 3: MANSUR 661 (big blind) folded on the Flop
+Seat 4: jerome7624 folded on the Turn
+Seat 7: IGARA555 collected (2430)
+Seat 9: va4eko folded on the Flop
+
+
+
+PokerStars Hand #198843639874: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level II (15/30) - 2019/04/02 15:06:16 ET
+Table '2573013629 14' 9-max Seat #2 is the button
+Seat 1: zio7777 (4950 in chips) 
+Seat 2: grisandd (5000 in chips) 
+Seat 3: MANSUR 661 (6305 in chips) 
+Seat 4: jerome7624 (8915 in chips) 
+Seat 5: gerard0007 (4800 in chips) 
+Seat 6: YoYoMan415 (16340 in chips) 
+Seat 7: IGARA555 (6380 in chips) 
+Seat 8: Eule7456 (5000 in chips) 
+Seat 9: va4eko (4970 in chips) 
+MANSUR 661: posts small blind 15
+jerome7624: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [2h Qd]
+gerard0007: calls 30
+YoYoMan415: folds 
+IGARA555: calls 30
+Eule7456: calls 30
+va4eko: folds 
+zio7777: folds 
+grisandd: raises 90 to 120
+MANSUR 661: folds 
+jerome7624: folds 
+gerard0007: calls 90
+IGARA555: folds 
+Eule7456: folds 
+*** FLOP *** [7h 4h 6s]
+gerard0007: checks 
+grisandd: bets 330
+gerard0007: calls 330
+*** TURN *** [7h 4h 6s] [8h]
+gerard0007: checks 
+grisandd: bets 990
+gerard0007: raises 990 to 1980
+grisandd: raises 2570 to 4550 and is all-in
+gerard0007: calls 2370 and is all-in
+Uncalled bet (200) returned to grisandd
+*** RIVER *** [7h 4h 6s 8h] [3d]
+*** SHOW DOWN ***
+gerard0007: shows [5s Kh] (a straight, Four to Eight)
+grisandd: shows [9c 9h] (a pair of Nines)
+gerard0007 collected 9705 from pot
+*** SUMMARY ***
+Total pot 9705 | Rake 0 
+Board [7h 4h 6s 8h 3d]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: grisandd (button) showed [9c 9h] and lost with a pair of Nines
+Seat 3: MANSUR 661 (small blind) folded before Flop
+Seat 4: jerome7624 (big blind) folded before Flop
+Seat 5: gerard0007 showed [5s Kh] and won (9705) with a straight, Four to Eight
+Seat 6: YoYoMan415 folded before Flop (didn't bet)
+Seat 7: IGARA555 folded before Flop
+Seat 8: Eule7456 folded before Flop
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198843699985: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level III (25/50) - 2019/04/02 15:07:35 ET
+Table '2573013629 14' 9-max Seat #3 is the button
+Seat 1: zio7777 (4950 in chips) 
+Seat 2: grisandd (200 in chips) 
+Seat 3: MANSUR 661 (6290 in chips) 
+Seat 4: jerome7624 (8885 in chips) 
+Seat 5: gerard0007 (9705 in chips) 
+Seat 6: YoYoMan415 (16340 in chips) 
+Seat 7: IGARA555 (6350 in chips) 
+Seat 8: Eule7456 (4970 in chips) 
+Seat 9: va4eko (4970 in chips) 
+jerome7624: posts small blind 25
+gerard0007: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [6d Qh]
+YoYoMan415: raises 200 to 250
+IGARA555: calls 250
+Eule7456: calls 250
+va4eko: folds 
+zio7777: folds 
+grisandd has timed out
+grisandd: folds 
+MANSUR 661: folds 
+jerome7624: calls 225
+gerard0007: folds 
+*** FLOP *** [Td 2c 9c]
+jerome7624: checks 
+YoYoMan415: checks 
+IGARA555: checks 
+Eule7456: checks 
+*** TURN *** [Td 2c 9c] [3d]
+jerome7624: checks 
+YoYoMan415: checks 
+IGARA555: checks 
+Eule7456: checks 
+*** RIVER *** [Td 2c 9c 3d] [2s]
+jerome7624: checks 
+YoYoMan415: checks 
+IGARA555: checks 
+gerard0007 is disconnected 
+Eule7456: checks 
+*** SHOW DOWN ***
+jerome7624: shows [4s 4d] (two pair, Fours and Deuces)
+YoYoMan415: mucks hand 
+IGARA555: mucks hand 
+Eule7456: mucks hand 
+jerome7624 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Td 2c 9c 3d 2s]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: MANSUR 661 (button) folded before Flop (didn't bet)
+Seat 4: jerome7624 (small blind) showed [4s 4d] and won (1050) with two pair, Fours and Deuces
+Seat 5: gerard0007 (big blind) folded before Flop
+Seat 6: YoYoMan415 mucked [Jh Ah]
+Seat 7: IGARA555 mucked [Kh 5h]
+Seat 8: Eule7456 mucked [Qc Ad]
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198843798195: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level III (25/50) - 2019/04/02 15:09:43 ET
+Table '2573013629 14' 9-max Seat #4 is the button
+Seat 1: zio7777 (4950 in chips) 
+Seat 2: grisandd (200 in chips) is sitting out
+Seat 3: MANSUR 661 (6290 in chips) 
+Seat 4: jerome7624 (9685 in chips) 
+Seat 5: gerard0007 (9655 in chips) 
+Seat 6: YoYoMan415 (16090 in chips) 
+Seat 7: IGARA555 (6100 in chips) 
+Seat 8: Eule7456 (4720 in chips) 
+Seat 9: va4eko (4970 in chips) 
+gerard0007: posts small blind 25
+YoYoMan415: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [Td As]
+IGARA555: calls 50
+Eule7456: calls 50
+va4eko: calls 50
+zio7777: calls 50
+grisandd: folds 
+MANSUR 661: raises 700 to 750
+jerome7624: calls 750
+gerard0007: folds 
+YoYoMan415: folds 
+IGARA555: folds 
+Eule7456: folds 
+va4eko: folds 
+zio7777: folds 
+*** FLOP *** [2h 5s 6c]
+MANSUR 661: bets 1775
+jerome7624: folds 
+Uncalled bet (1775) returned to MANSUR 661
+MANSUR 661 collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | Rake 0 
+Board [2h 5s 6c]
+Seat 1: zio7777 folded before Flop
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: MANSUR 661 collected (1775)
+Seat 4: jerome7624 (button) folded on the Flop
+Seat 5: gerard0007 (small blind) folded before Flop
+Seat 6: YoYoMan415 (big blind) folded before Flop
+Seat 7: IGARA555 folded before Flop
+Seat 8: Eule7456 folded before Flop
+Seat 9: va4eko folded before Flop
+
+
+
+PokerStars Hand #198843835241: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level III (25/50) - 2019/04/02 15:10:32 ET
+Table '2573013629 14' 9-max Seat #5 is the button
+Seat 1: zio7777 (4900 in chips) 
+Seat 2: grisandd (200 in chips) is sitting out
+Seat 3: MANSUR 661 (7315 in chips) 
+Seat 4: jerome7624 (8935 in chips) 
+Seat 5: gerard0007 (9630 in chips) 
+Seat 6: YoYoMan415 (16040 in chips) 
+Seat 7: IGARA555 (6050 in chips) 
+Seat 8: Eule7456 (4670 in chips) 
+Seat 9: va4eko (4920 in chips) 
+YoYoMan415: posts small blind 25
+IGARA555: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [9h 7c]
+Eule7456: folds 
+va4eko: calls 50
+zio7777: folds 
+grisandd: folds 
+MANSUR 661: folds 
+jerome7624: folds 
+gerard0007: calls 50
+YoYoMan415: calls 25
+IGARA555: checks 
+*** FLOP *** [8s 3s 4h]
+YoYoMan415: checks 
+IGARA555: checks 
+va4eko: checks 
+gerard0007: bets 150
+YoYoMan415: folds 
+IGARA555: calls 150
+va4eko: folds 
+*** TURN *** [8s 3s 4h] [8d]
+IGARA555: checks 
+gerard0007: bets 50
+IGARA555: calls 50
+*** RIVER *** [8s 3s 4h 8d] [9d]
+IGARA555: checks 
+gerard0007: bets 450
+IGARA555: folds 
+Uncalled bet (450) returned to gerard0007
+gerard0007 collected 600 from pot
+gerard0007: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [8s 3s 4h 8d 9d]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: MANSUR 661 folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 (button) collected (600)
+Seat 6: YoYoMan415 (small blind) folded on the Flop
+Seat 7: IGARA555 (big blind) folded on the River
+Seat 8: Eule7456 folded before Flop (didn't bet)
+Seat 9: va4eko folded on the Flop
+
+
+
+PokerStars Hand #198843876169: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level III (25/50) - 2019/04/02 15:11:25 ET
+Table '2573013629 14' 9-max Seat #6 is the button
+Seat 1: zio7777 (4900 in chips) 
+Seat 2: grisandd (200 in chips) is sitting out
+Seat 3: MANSUR 661 (7315 in chips) 
+Seat 4: jerome7624 (8935 in chips) 
+Seat 5: gerard0007 (9980 in chips) 
+Seat 6: YoYoMan415 (15990 in chips) 
+Seat 7: IGARA555 (5800 in chips) 
+Seat 8: Eule7456 (4670 in chips) 
+Seat 9: va4eko (4870 in chips) 
+IGARA555: posts small blind 25
+Eule7456: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [Ks Js]
+va4eko: folds 
+zio7777: raises 81 to 131
+grisandd: folds 
+MANSUR 661: calls 131
+jerome7624: folds 
+gerard0007: calls 131
+YoYoMan415: folds 
+IGARA555: folds 
+Eule7456: calls 81
+*** FLOP *** [Kc 8s As]
+Eule7456: checks 
+zio7777: bets 450
+MANSUR 661: calls 450
+gerard0007: calls 450
+Eule7456: folds 
+*** TURN *** [Kc 8s As] [Ts]
+zio7777: bets 1150
+MANSUR 661: folds 
+gerard0007: folds 
+Uncalled bet (1150) returned to zio7777
+zio7777 collected 1899 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 1899 | Rake 0 
+Board [Kc 8s As Ts]
+Seat 1: zio7777 collected (1899)
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: MANSUR 661 folded on the Turn
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 folded on the Turn
+Seat 6: YoYoMan415 (button) folded before Flop (didn't bet)
+Seat 7: IGARA555 (small blind) folded before Flop
+Seat 8: Eule7456 (big blind) folded on the Flop
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198843936472: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level IV (50/100) - 2019/04/02 15:12:44 ET
+Table '2573013629 14' 9-max Seat #7 is the button
+Seat 1: zio7777 (6218 in chips) 
+Seat 2: grisandd (200 in chips) is sitting out
+Seat 3: MANSUR 661 (6734 in chips) 
+Seat 4: jerome7624 (8935 in chips) 
+Seat 5: gerard0007 (9399 in chips) 
+Seat 6: YoYoMan415 (15990 in chips) 
+Seat 7: IGARA555 (5775 in chips) 
+Seat 8: Eule7456 (4539 in chips) 
+Seat 9: va4eko (4870 in chips) 
+Eule7456: posts small blind 50
+va4eko: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [6s 3s]
+zio7777: folds 
+grisandd: folds 
+MANSUR 661: folds 
+jerome7624: folds 
+gerard0007: folds 
+YoYoMan415: calls 100
+IGARA555: calls 100
+Eule7456: calls 50
+va4eko: checks 
+*** FLOP *** [8h Ts 3c]
+Eule7456: bets 100
+va4eko: folds 
+YoYoMan415: folds 
+IGARA555: folds 
+Uncalled bet (100) returned to Eule7456
+Eule7456 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [8h Ts 3c]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: MANSUR 661 folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 folded on the Flop
+Seat 7: IGARA555 (button) folded on the Flop
+Seat 8: Eule7456 (small blind) collected (400)
+Seat 9: va4eko (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198843965556: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level IV (50/100) - 2019/04/02 15:13:22 ET
+Table '2573013629 14' 9-max Seat #8 is the button
+Seat 1: zio7777 (6218 in chips) 
+Seat 2: grisandd (200 in chips) is sitting out
+Seat 3: MANSUR 661 (6734 in chips) 
+Seat 4: jerome7624 (8935 in chips) 
+Seat 5: gerard0007 (9399 in chips) 
+Seat 6: YoYoMan415 (15890 in chips) 
+Seat 7: IGARA555 (5675 in chips) 
+Seat 8: Eule7456 (4839 in chips) 
+Seat 9: va4eko (4770 in chips) 
+va4eko: posts small blind 50
+zio7777: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [8d 3h]
+grisandd: folds 
+MANSUR 661: calls 100
+jerome7624: calls 100
+gerard0007: folds 
+YoYoMan415: calls 100
+IGARA555: calls 100
+Eule7456: calls 100
+va4eko: calls 50
+zio7777: checks 
+*** FLOP *** [Ks 9h 5d]
+va4eko: checks 
+zio7777: checks 
+MANSUR 661: checks 
+jerome7624: checks 
+YoYoMan415: bets 100
+IGARA555: calls 100
+Eule7456: folds 
+va4eko: folds 
+zio7777: folds 
+MANSUR 661: folds 
+jerome7624: folds 
+*** TURN *** [Ks 9h 5d] [Td]
+YoYoMan415: bets 100
+IGARA555: folds 
+Uncalled bet (100) returned to YoYoMan415
+YoYoMan415 collected 900 from pot
+YoYoMan415: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Ks 9h 5d Td]
+Seat 1: zio7777 (big blind) folded on the Flop
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: MANSUR 661 folded on the Flop
+Seat 4: jerome7624 folded on the Flop
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 collected (900)
+Seat 7: IGARA555 folded on the Turn
+Seat 8: Eule7456 (button) folded on the Flop
+Seat 9: va4eko (small blind) folded on the Flop
+
+
+
+PokerStars Hand #198844026095: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level IV (50/100) - 2019/04/02 15:14:41 ET
+Table '2573013629 14' 9-max Seat #9 is the button
+Seat 1: zio7777 (6118 in chips) 
+Seat 2: grisandd (200 in chips) is sitting out
+Seat 3: MANSUR 661 (6634 in chips) 
+Seat 4: jerome7624 (8835 in chips) 
+Seat 5: gerard0007 (9399 in chips) 
+Seat 6: YoYoMan415 (16590 in chips) 
+Seat 7: IGARA555 (5475 in chips) 
+Seat 8: Eule7456 (4739 in chips) 
+Seat 9: va4eko (4670 in chips) 
+zio7777: posts small blind 50
+grisandd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [Js 6s]
+MANSUR 661: folds 
+jerome7624: calls 100
+gerard0007: folds 
+YoYoMan415: calls 100
+IGARA555: raises 375 to 475
+Eule7456: folds 
+va4eko: folds 
+zio7777: folds 
+grisandd: folds 
+jerome7624: calls 375
+YoYoMan415: calls 375
+*** FLOP *** [Kd 7s Jc]
+jerome7624: bets 100
+YoYoMan415: calls 100
+IGARA555: calls 100
+*** TURN *** [Kd 7s Jc] [Jd]
+jerome7624: bets 100
+YoYoMan415: folds 
+IGARA555: calls 100
+*** RIVER *** [Kd 7s Jc Jd] [5s]
+jerome7624: bets 100
+IGARA555: calls 100
+*** SHOW DOWN ***
+jerome7624: shows [7d Ts] (two pair, Jacks and Sevens)
+IGARA555: mucks hand 
+jerome7624 collected 2275 from pot
+*** SUMMARY ***
+Total pot 2275 | Rake 0 
+Board [Kd 7s Jc Jd 5s]
+Seat 1: zio7777 (small blind) folded before Flop
+Seat 2: grisandd (big blind) folded before Flop
+Seat 3: MANSUR 661 folded before Flop (didn't bet)
+Seat 4: jerome7624 showed [7d Ts] and won (2275) with two pair, Jacks and Sevens
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 folded on the Turn
+Seat 7: IGARA555 mucked [6c 6h]
+Seat 8: Eule7456 folded before Flop (didn't bet)
+Seat 9: va4eko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844071825: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level IV (50/100) - 2019/04/02 15:15:40 ET
+Table '2573013629 14' 9-max Seat #1 is the button
+Seat 1: zio7777 (6068 in chips) 
+Seat 2: grisandd (100 in chips) is sitting out
+Seat 4: jerome7624 (10335 in chips) 
+Seat 5: gerard0007 (9399 in chips) 
+Seat 6: YoYoMan415 (16015 in chips) 
+Seat 7: IGARA555 (4700 in chips) 
+Seat 8: Eule7456 (4739 in chips) 
+Seat 9: va4eko (4670 in chips) 
+grisandd: posts small blind 50
+jerome7624: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [Td 2s]
+gerard0007: folds 
+YoYoMan415: calls 100
+IGARA555: calls 100
+Eule7456: folds 
+va4eko: raises 200 to 300
+zio7777: folds 
+grisandd: folds 
+jerome7624: calls 200
+YoYoMan415: calls 200
+IGARA555: calls 200
+*** FLOP *** [5d 7h Ah]
+jerome7624: checks 
+YoYoMan415: bets 625
+IGARA555: folds 
+va4eko: calls 625
+jerome7624: folds 
+*** TURN *** [5d 7h Ah] [2c]
+YoYoMan415: bets 500
+va4eko: calls 500
+*** RIVER *** [5d 7h Ah 2c] [8d]
+YoYoMan415: bets 500
+va4eko: raises 2745 to 3245 and is all-in
+YoYoMan415: calls 2745
+*** SHOW DOWN ***
+va4eko: shows [4s 6s] (a straight, Four to Eight)
+YoYoMan415: shows [8h 2h] (two pair, Eights and Deuces)
+va4eko collected 9990 from pot
+*** SUMMARY ***
+Total pot 9990 | Rake 0 
+Board [5d 7h Ah 2c 8d]
+Seat 1: zio7777 (button) folded before Flop (didn't bet)
+Seat 2: grisandd (small blind) folded before Flop
+Seat 4: jerome7624 (big blind) folded on the Flop
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 showed [8h 2h] and lost with two pair, Eights and Deuces
+Seat 7: IGARA555 folded on the Flop
+Seat 8: Eule7456 folded before Flop (didn't bet)
+Seat 9: va4eko showed [4s 6s] and won (9990) with a straight, Four to Eight
+
+
+
+PokerStars Hand #198844122687: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level IV (50/100) - 2019/04/02 15:16:45 ET
+Table '2573013629 14' 9-max Seat #2 is the button
+Seat 1: zio7777 (6068 in chips) 
+Seat 2: grisandd (50 in chips) is sitting out
+Seat 4: jerome7624 (10035 in chips) 
+Seat 5: gerard0007 (9399 in chips) 
+Seat 6: YoYoMan415 (11345 in chips) 
+Seat 7: IGARA555 (4400 in chips) 
+Seat 8: Eule7456 (4739 in chips) 
+Seat 9: va4eko (9990 in chips) 
+jerome7624: posts small blind 50
+gerard0007: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [6c 2c]
+YoYoMan415: calls 100
+IGARA555: calls 100
+Eule7456: calls 100
+va4eko: raises 200 to 300
+zio7777: folds 
+grisandd: folds 
+jerome7624: folds 
+gerard0007: calls 200
+YoYoMan415: calls 200
+IGARA555: calls 200
+Eule7456: folds 
+*** FLOP *** [Js 8s 3d]
+gerard0007: bets 1350
+YoYoMan415: calls 1350
+IGARA555: calls 1350
+va4eko: folds 
+*** TURN *** [Js 8s 3d] [Th]
+gerard0007: bets 5400
+YoYoMan415: folds 
+IGARA555: calls 2750 and is all-in
+Uncalled bet (2650) returned to gerard0007
+*** RIVER *** [Js 8s 3d Th] [Qh]
+*** SHOW DOWN ***
+gerard0007: shows [Ks Kh] (a pair of Kings)
+IGARA555: shows [8c 7h] (a pair of Eights)
+gerard0007 collected 10900 from pot
+gerard0007 wins the 20000 bounty for eliminating IGARA555
+IGARA555 finished the tournament
+*** SUMMARY ***
+Total pot 10900 | Rake 0 
+Board [Js 8s 3d Th Qh]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: grisandd (button) folded before Flop (didn't bet)
+Seat 4: jerome7624 (small blind) folded before Flop
+Seat 5: gerard0007 (big blind) showed [Ks Kh] and won (10900) with a pair of Kings
+Seat 6: YoYoMan415 folded on the Turn
+Seat 7: IGARA555 showed [8c 7h] and lost with a pair of Eights
+Seat 8: Eule7456 folded before Flop
+Seat 9: va4eko folded on the Flop
+
+
+
+PokerStars Hand #198844169111: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level V (75/150) - 2019/04/02 15:17:45 ET
+Table '2573013629 14' 9-max Seat #4 is the button
+Seat 1: zio7777 (6068 in chips) 
+Seat 2: grisandd (50 in chips) is sitting out
+Seat 4: jerome7624 (9985 in chips) 
+Seat 5: gerard0007 (15899 in chips) 
+Seat 6: YoYoMan415 (9695 in chips) 
+Seat 8: Eule7456 (4639 in chips) 
+Seat 9: va4eko (9690 in chips) 
+gerard0007: posts small blind 75
+YoYoMan415: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [5h 3d]
+Eule7456: calls 150
+va4eko: calls 150
+zio7777: folds 
+grisandd: folds 
+jerome7624: raises 3750 to 3900
+gerard0007: folds 
+YoYoMan415: folds 
+Eule7456: folds 
+va4eko: folds 
+Uncalled bet (3750) returned to jerome7624
+jerome7624 collected 675 from pot
+jerome7624: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 4: jerome7624 (button) collected (675)
+Seat 5: gerard0007 (small blind) folded before Flop
+Seat 6: YoYoMan415 (big blind) folded before Flop
+Seat 8: Eule7456 folded before Flop
+Seat 9: va4eko folded before Flop
+
+
+
+PokerStars Hand #198844206494: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level V (75/150) - 2019/04/02 15:18:34 ET
+Table '2573013629 14' 9-max Seat #5 is the button
+Seat 1: zio7777 (6068 in chips) 
+Seat 2: grisandd (50 in chips) is sitting out
+Seat 3: mamamarii (7153 in chips) 
+Seat 4: jerome7624 (10510 in chips) 
+Seat 5: gerard0007 (15824 in chips) 
+Seat 6: YoYoMan415 (9545 in chips) 
+Seat 8: Eule7456 (4489 in chips) 
+Seat 9: va4eko (9540 in chips) 
+YoYoMan415: posts small blind 75
+Eule7456: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [5d Kd]
+va4eko: folds 
+zio7777: folds 
+grisandd: folds 
+mamamarii: folds 
+jerome7624: calls 150
+gerard0007: folds 
+YoYoMan415: folds 
+Eule7456: checks 
+*** FLOP *** [Qh 3d Td]
+Eule7456: bets 150
+jerome7624: calls 150
+*** TURN *** [Qh 3d Td] [4s]
+Eule7456: checks 
+jerome7624: checks 
+*** RIVER *** [Qh 3d Td 4s] [Ks]
+Eule7456: checks 
+jerome7624: bets 150
+Eule7456: calls 150
+*** SHOW DOWN ***
+jerome7624: shows [9s 8d] (high card King)
+Eule7456: shows [Th 8c] (a pair of Tens)
+Eule7456 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [Qh 3d Td 4s Ks]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 showed [9s 8d] and lost with high card King
+Seat 5: gerard0007 (button) folded before Flop (didn't bet)
+Seat 6: YoYoMan415 (small blind) folded before Flop
+Seat 8: Eule7456 (big blind) showed [Th 8c] and won (975) with a pair of Tens
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844255579: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level V (75/150) - 2019/04/02 15:19:37 ET
+Table '2573013629 14' 9-max Seat #6 is the button
+Seat 1: zio7777 (6068 in chips) 
+Seat 2: grisandd (50 in chips) is sitting out
+Seat 3: mamamarii (7153 in chips) 
+Seat 4: jerome7624 (10060 in chips) 
+Seat 5: gerard0007 (15824 in chips) 
+Seat 6: YoYoMan415 (9470 in chips) 
+Seat 8: Eule7456 (5014 in chips) 
+Seat 9: va4eko (9540 in chips) 
+Eule7456: posts small blind 75
+va4eko: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [7s 5s]
+zio7777: folds 
+grisandd: folds 
+mamamarii: calls 150
+jerome7624: calls 150
+gerard0007: folds 
+YoYoMan415: folds 
+Eule7456: folds 
+va4eko: checks 
+*** FLOP *** [Ad Qd 9d]
+va4eko: checks 
+mamamarii: checks 
+jerome7624: checks 
+*** TURN *** [Ad Qd 9d] [3h]
+va4eko: bets 158
+mamamarii: calls 158
+jerome7624: folds 
+*** RIVER *** [Ad Qd 9d 3h] [Jc]
+va4eko: checks 
+mamamarii: bets 841
+va4eko: calls 841
+*** SHOW DOWN ***
+mamamarii: shows [Qs Jh] (two pair, Queens and Jacks)
+va4eko: mucks hand 
+mamamarii collected 2523 from pot
+*** SUMMARY ***
+Total pot 2523 | Rake 0 
+Board [Ad Qd 9d 3h Jc]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: mamamarii showed [Qs Jh] and won (2523) with two pair, Queens and Jacks
+Seat 4: jerome7624 folded on the Turn
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 (button) folded before Flop (didn't bet)
+Seat 8: Eule7456 (small blind) folded before Flop
+Seat 9: va4eko (big blind) mucked [Qh 4d]
+
+
+
+PokerStars Hand #198844305937: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level V (75/150) - 2019/04/02 15:20:43 ET
+Table '2573013629 14' 9-max Seat #8 is the button
+Seat 1: zio7777 (6068 in chips) 
+Seat 2: grisandd (50 in chips) is sitting out
+Seat 3: mamamarii (8527 in chips) 
+Seat 4: jerome7624 (9910 in chips) 
+Seat 5: gerard0007 (15824 in chips) 
+Seat 6: YoYoMan415 (9470 in chips) 
+Seat 8: Eule7456 (4939 in chips) 
+Seat 9: va4eko (8391 in chips) 
+va4eko: posts small blind 75
+zio7777: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 5h]
+grisandd: folds 
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: calls 150
+YoYoMan415: raises 300 to 450
+Eule7456: folds 
+va4eko: folds 
+zio7777: folds 
+gerard0007: calls 300
+*** FLOP *** [5d 4s 7d]
+gerard0007: checks 
+YoYoMan415: checks 
+*** TURN *** [5d 4s 7d] [2d]
+gerard0007: bets 1125
+YoYoMan415: folds 
+Uncalled bet (1125) returned to gerard0007
+gerard0007 collected 1125 from pot
+gerard0007: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [5d 4s 7d 2d]
+Seat 1: zio7777 (big blind) folded before Flop
+Seat 2: grisandd folded before Flop (didn't bet)
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 collected (1125)
+Seat 6: YoYoMan415 folded on the Turn
+Seat 8: Eule7456 (button) folded before Flop (didn't bet)
+Seat 9: va4eko (small blind) folded before Flop
+
+
+
+PokerStars Hand #198844347645: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level V (75/150) - 2019/04/02 15:21:37 ET
+Table '2573013629 14' 9-max Seat #9 is the button
+Seat 1: zio7777 (5918 in chips) 
+Seat 2: grisandd (50 in chips) is sitting out
+Seat 3: mamamarii (8527 in chips) 
+Seat 4: jerome7624 (9910 in chips) 
+Seat 5: gerard0007 (16499 in chips) 
+Seat 6: YoYoMan415 (9020 in chips) 
+Seat 7: stam6945 (5000 in chips) 
+Seat 8: Eule7456 (4939 in chips) 
+Seat 9: va4eko (8316 in chips) 
+zio7777: posts small blind 75
+grisandd: posts big blind 50 and is all-in
+*** HOLE CARDS ***
+Dealt to zio7777 [Kd 2s]
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: calls 150
+YoYoMan415: folds 
+stam6945: folds 
+Eule7456: folds 
+va4eko: folds 
+zio7777: calls 75
+grisandd: folds 
+*** FLOP *** [Jd 8d 8h]
+zio7777: bets 350
+gerard0007: calls 350
+*** TURN *** [Jd 8d 8h] [4d]
+zio7777: checks 
+gerard0007: bets 1050
+zio7777: folds 
+Uncalled bet (1050) returned to gerard0007
+gerard0007 collected 1050 from pot
+gerard0007 wins the 20000 bounty for eliminating grisandd
+grisandd finished the tournament
+gerard0007: doesn't show hand 
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Jd 8d 8h 4d]
+Seat 1: zio7777 (small blind) folded on the Turn
+Seat 2: grisandd (big blind) folded before Flop
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 collected (1050)
+Seat 6: YoYoMan415 folded before Flop (didn't bet)
+Seat 7: stam6945 folded before Flop (didn't bet)
+Seat 8: Eule7456 folded before Flop (didn't bet)
+Seat 9: va4eko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844392761: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VI (100/200) - 2019/04/02 15:22:36 ET
+Table '2573013629 14' 9-max Seat #1 is the button
+Seat 1: zio7777 (5418 in chips) 
+Seat 3: mamamarii (8527 in chips) 
+Seat 4: jerome7624 (9910 in chips) 
+Seat 5: gerard0007 (17049 in chips) 
+Seat 6: YoYoMan415 (9020 in chips) 
+Seat 7: stam6945 (5000 in chips) 
+Seat 8: Eule7456 (4939 in chips) 
+Seat 9: va4eko (8316 in chips) 
+mamamarii: posts small blind 100
+jerome7624: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [7c 5h]
+gerard0007: folds 
+YoYoMan415: calls 200
+stam6945: calls 200
+Eule7456: raises 4739 to 4939 and is all-in
+va4eko: folds 
+zio7777: folds 
+mamamarii: folds 
+jerome7624: folds 
+YoYoMan415: folds 
+stam6945: folds 
+Uncalled bet (4739) returned to Eule7456
+Eule7456 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: zio7777 (button) folded before Flop (didn't bet)
+Seat 3: mamamarii (small blind) folded before Flop
+Seat 4: jerome7624 (big blind) folded before Flop
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 folded before Flop
+Seat 7: stam6945 folded before Flop
+Seat 8: Eule7456 collected (900)
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844418015: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VI (100/200) - 2019/04/02 15:23:09 ET
+Table '2573013629 14' 9-max Seat #3 is the button
+Seat 1: zio7777 (5418 in chips) 
+Seat 2: Peki1000 (5000 in chips) 
+Seat 3: mamamarii (8427 in chips) 
+Seat 4: jerome7624 (9710 in chips) 
+Seat 5: gerard0007 (17049 in chips) 
+Seat 6: YoYoMan415 (8820 in chips) 
+Seat 7: stam6945 (4800 in chips) 
+Seat 8: Eule7456 (5639 in chips) 
+Seat 9: va4eko (8316 in chips) 
+jerome7624: posts small blind 100
+gerard0007: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [2c Kc]
+YoYoMan415: raises 600 to 800
+stam6945: folds 
+Eule7456: folds 
+va4eko: folds 
+zio7777: folds 
+Peki1000: folds 
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: calls 600
+*** FLOP *** [Jc Qd Td]
+gerard0007: checks 
+YoYoMan415: checks 
+*** TURN *** [Jc Qd Td] [9h]
+gerard0007: bets 400
+YoYoMan415: calls 400
+*** RIVER *** [Jc Qd Td 9h] [5s]
+gerard0007: bets 1200
+YoYoMan415: raises 1200 to 2400
+gerard0007: calls 1200
+*** SHOW DOWN ***
+YoYoMan415: shows [Kd Qs] (a straight, Nine to King)
+gerard0007: mucks hand 
+YoYoMan415 collected 7300 from pot
+*** SUMMARY ***
+Total pot 7300 | Rake 0 
+Board [Jc Qd Td 9h 5s]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: Peki1000 folded before Flop (didn't bet)
+Seat 3: mamamarii (button) folded before Flop (didn't bet)
+Seat 4: jerome7624 (small blind) folded before Flop
+Seat 5: gerard0007 (big blind) mucked [Qc As]
+Seat 6: YoYoMan415 showed [Kd Qs] and won (7300) with a straight, Nine to King
+Seat 7: stam6945 folded before Flop (didn't bet)
+Seat 8: Eule7456 folded before Flop (didn't bet)
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844490489: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VI (100/200) - 2019/04/02 15:24:43 ET
+Table '2573013629 14' 9-max Seat #4 is the button
+Seat 1: zio7777 (5418 in chips) 
+Seat 2: Peki1000 (5000 in chips) 
+Seat 3: mamamarii (8427 in chips) 
+Seat 4: jerome7624 (9610 in chips) 
+Seat 5: gerard0007 (13449 in chips) 
+Seat 6: YoYoMan415 (12520 in chips) 
+Seat 7: stam6945 (4800 in chips) 
+Seat 8: Eule7456 (5639 in chips) 
+Seat 9: va4eko (8316 in chips) 
+gerard0007: posts small blind 100
+YoYoMan415: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [3s Ks]
+stam6945: folds 
+Eule7456: folds 
+va4eko: folds 
+zio7777: folds 
+Peki1000: calls 200
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: calls 100
+YoYoMan415: checks 
+*** FLOP *** [7d Ts Qs]
+gerard0007: bets 600
+YoYoMan415: folds 
+Peki1000: calls 600
+*** TURN *** [7d Ts Qs] [6s]
+gerard0007: bets 1800
+Peki1000: calls 1800
+*** RIVER *** [7d Ts Qs 6s] [6h]
+gerard0007: bets 200
+Peki1000: raises 2200 to 2400 and is all-in
+gerard0007: calls 2200
+*** SHOW DOWN ***
+Peki1000: shows [7s 8s] (a flush, Queen high)
+gerard0007: shows [Jd Qd] (two pair, Queens and Sixes)
+Peki1000 collected 10200 from pot
+*** SUMMARY ***
+Total pot 10200 | Rake 0 
+Board [7d Ts Qs 6s 6h]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: Peki1000 showed [7s 8s] and won (10200) with a flush, Queen high
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 (button) folded before Flop (didn't bet)
+Seat 5: gerard0007 (small blind) showed [Jd Qd] and lost with two pair, Queens and Sixes
+Seat 6: YoYoMan415 (big blind) folded on the Flop
+Seat 7: stam6945 folded before Flop (didn't bet)
+Seat 8: Eule7456 folded before Flop (didn't bet)
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844527825: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VI (100/200) - 2019/04/02 15:25:32 ET
+Table '2573013629 14' 9-max Seat #5 is the button
+Seat 1: zio7777 (5418 in chips) 
+Seat 3: mamamarii (8427 in chips) 
+Seat 4: jerome7624 (9610 in chips) 
+Seat 5: gerard0007 (8449 in chips) 
+Seat 6: YoYoMan415 (12320 in chips) 
+Seat 7: stam6945 (4800 in chips) 
+Seat 8: Eule7456 (5639 in chips) 
+Seat 9: va4eko (8316 in chips) 
+YoYoMan415: posts small blind 100
+stam6945: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Qs 2d]
+Eule7456: folds 
+va4eko: folds 
+zio7777: folds 
+mamamarii: folds 
+jerome7624: calls 200
+gerard0007: calls 200
+YoYoMan415: raises 800 to 1000
+stam6945: folds 
+jerome7624: calls 800
+gerard0007: folds 
+*** FLOP *** [9d 5s 4c]
+YoYoMan415: bets 2400
+jerome7624: folds 
+Uncalled bet (2400) returned to YoYoMan415
+YoYoMan415 collected 2400 from pot
+YoYoMan415: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [9d 5s 4c]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded on the Flop
+Seat 5: gerard0007 (button) folded before Flop
+Seat 6: YoYoMan415 (small blind) collected (2400)
+Seat 7: stam6945 (big blind) folded before Flop
+Seat 8: Eule7456 folded before Flop (didn't bet)
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844571086: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VI (100/200) - 2019/04/02 15:26:29 ET
+Table '2573013629 14' 9-max Seat #6 is the button
+Seat 1: zio7777 (5418 in chips) 
+Seat 3: mamamarii (8427 in chips) 
+Seat 4: jerome7624 (8610 in chips) 
+Seat 5: gerard0007 (8249 in chips) 
+Seat 6: YoYoMan415 (13720 in chips) 
+Seat 7: stam6945 (4600 in chips) 
+Seat 8: Eule7456 (5639 in chips) 
+Seat 9: va4eko (8316 in chips) 
+stam6945: posts small blind 100
+Eule7456: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Qd 9d]
+va4eko: folds 
+zio7777: folds 
+mamamarii: folds 
+jerome7624: calls 200
+gerard0007: folds 
+YoYoMan415: calls 200
+stam6945: folds 
+Eule7456: checks 
+*** FLOP *** [3h 2s Th]
+Eule7456: checks 
+jerome7624: checks 
+YoYoMan415: bets 200
+Eule7456: folds 
+jerome7624: folds 
+Uncalled bet (200) returned to YoYoMan415
+YoYoMan415 collected 700 from pot
+YoYoMan415: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [3h 2s Th]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded on the Flop
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 (button) collected (700)
+Seat 7: stam6945 (small blind) folded before Flop
+Seat 8: Eule7456 (big blind) folded on the Flop
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844616906: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VII (125/250) - 2019/04/02 15:27:28 ET
+Table '2573013629 14' 9-max Seat #7 is the button
+Seat 1: zio7777 (5418 in chips) 
+Seat 3: mamamarii (8427 in chips) 
+Seat 4: jerome7624 (8410 in chips) 
+Seat 5: gerard0007 (8249 in chips) 
+Seat 6: YoYoMan415 (14220 in chips) 
+Seat 7: stam6945 (4500 in chips) 
+Seat 8: Eule7456 (5439 in chips) 
+Seat 9: va4eko (8316 in chips) 
+zio7777: posts the ante 25
+mamamarii: posts the ante 25
+jerome7624: posts the ante 25
+gerard0007: posts the ante 25
+YoYoMan415: posts the ante 25
+stam6945: posts the ante 25
+Eule7456: posts the ante 25
+va4eko: posts the ante 25
+Eule7456: posts small blind 125
+va4eko: posts big blind 250
+*** HOLE CARDS ***
+Dealt to zio7777 [5d 6c]
+zio7777: folds 
+mamamarii: folds 
+jerome7624: calls 250
+gerard0007: folds 
+YoYoMan415: calls 250
+stam6945: raises 750 to 1000
+Eule7456: raises 4414 to 5414 and is all-in
+va4eko: folds 
+jerome7624: folds 
+YoYoMan415: folds 
+stam6945: calls 3475 and is all-in
+Uncalled bet (939) returned to Eule7456
+*** FLOP *** [2d 9d 7h]
+*** TURN *** [2d 9d 7h] [5c]
+*** RIVER *** [2d 9d 7h 5c] [2s]
+*** SHOW DOWN ***
+Eule7456: shows [Kh Ah] (a pair of Deuces)
+stam6945: shows [Qs Qd] (two pair, Queens and Deuces)
+stam6945 collected 9900 from pot
+*** SUMMARY ***
+Total pot 9900 | Rake 0 
+Board [2d 9d 7h 5c 2s]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 folded before Flop
+Seat 7: stam6945 (button) showed [Qs Qd] and won (9900) with two pair, Queens and Deuces
+Seat 8: Eule7456 (small blind) showed [Kh Ah] and lost with a pair of Deuces
+Seat 9: va4eko (big blind) folded before Flop
+
+
+
+PokerStars Hand #198844654824: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VII (125/250) - 2019/04/02 15:28:18 ET
+Table '2573013629 14' 9-max Seat #8 is the button
+Seat 1: zio7777 (5393 in chips) 
+Seat 3: mamamarii (8402 in chips) 
+Seat 4: jerome7624 (8135 in chips) 
+Seat 5: gerard0007 (8224 in chips) 
+Seat 6: YoYoMan415 (13945 in chips) 
+Seat 7: stam6945 (9900 in chips) 
+Seat 8: Eule7456 (939 in chips) 
+Seat 9: va4eko (8041 in chips) 
+zio7777: posts the ante 25
+mamamarii: posts the ante 25
+jerome7624: posts the ante 25
+gerard0007: posts the ante 25
+YoYoMan415: posts the ante 25
+stam6945: posts the ante 25
+Eule7456: posts the ante 25
+va4eko: posts the ante 25
+va4eko: posts small blind 125
+zio7777: posts big blind 250
+*** HOLE CARDS ***
+Dealt to zio7777 [5s 7c]
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: calls 250
+YoYoMan415: calls 250
+stam6945: calls 250
+Eule7456: raises 664 to 914 and is all-in
+va4eko: calls 789
+zio7777: folds 
+gerard0007: calls 664
+YoYoMan415: calls 664
+stam6945: calls 664
+*** FLOP *** [8c 3c Jc]
+va4eko: checks 
+gerard0007: bets 750
+YoYoMan415: folds 
+stam6945: folds 
+va4eko: raises 1956 to 2706
+gerard0007: calls 1956
+*** TURN *** [8c 3c Jc] [9h]
+va4eko: bets 4396 and is all-in
+gerard0007: folds 
+Uncalled bet (4396) returned to va4eko
+*** RIVER *** [8c 3c Jc 9h] [Ac]
+*** SHOW DOWN ***
+va4eko: shows [Qh Qc] (a flush, Ace high)
+va4eko collected 5412 from side pot
+Eule7456: shows [As 9d] (two pair, Aces and Nines)
+va4eko collected 5020 from main pot
+va4eko wins the 20000 bounty for eliminating Eule7456
+Eule7456 finished the tournament
+*** SUMMARY ***
+Total pot 10432 Main pot 5020. Side pot 5412. | Rake 0 
+Board [8c 3c Jc 9h Ac]
+Seat 1: zio7777 (big blind) folded before Flop
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 folded on the Turn
+Seat 6: YoYoMan415 folded on the Flop
+Seat 7: stam6945 folded on the Flop
+Seat 8: Eule7456 (button) showed [As 9d] and lost with two pair, Aces and Nines
+Seat 9: va4eko (small blind) showed [Qh Qc] and won (10432) with a flush, Ace high
+
+
+
+PokerStars Hand #198844699712: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VII (125/250) - 2019/04/02 15:29:16 ET
+Table '2573013629 14' 9-max Seat #9 is the button
+Seat 1: zio7777 (5118 in chips) 
+Seat 2: Jari021 (5000 in chips) 
+Seat 3: mamamarii (8377 in chips) 
+Seat 4: jerome7624 (8110 in chips) 
+Seat 5: gerard0007 (4579 in chips) 
+Seat 6: YoYoMan415 (13006 in chips) 
+Seat 7: stam6945 (8961 in chips) 
+Seat 9: va4eko (14828 in chips) 
+zio7777: posts the ante 25
+Jari021: posts the ante 25
+mamamarii: posts the ante 25
+jerome7624: posts the ante 25
+gerard0007: posts the ante 25
+YoYoMan415: posts the ante 25
+stam6945: posts the ante 25
+va4eko: posts the ante 25
+zio7777: posts small blind 125
+Jari021: posts big blind 250
+*** HOLE CARDS ***
+Dealt to zio7777 [Jc 6c]
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: folds 
+YoYoMan415: folds 
+stam6945: calls 250
+va4eko: calls 250
+zio7777: calls 125
+Jari021: raises 500 to 750
+stam6945: calls 500
+va4eko: calls 500
+zio7777: calls 500
+*** FLOP *** [7c Qh Kh]
+zio7777: checks 
+Jari021: bets 4225 and is all-in
+stam6945: calls 4225
+va4eko: folds 
+zio7777: folds 
+*** TURN *** [7c Qh Kh] [5d]
+*** RIVER *** [7c Qh Kh 5d] [9d]
+*** SHOW DOWN ***
+Jari021: shows [Ah Ts] (high card Ace)
+stam6945: shows [Jh 3h] (high card King)
+Jari021 collected 11650 from pot
+*** SUMMARY ***
+Total pot 11650 | Rake 0 
+Board [7c Qh Kh 5d 9d]
+Seat 1: zio7777 (small blind) folded on the Flop
+Seat 2: Jari021 (big blind) showed [Ah Ts] and won (11650) with high card Ace
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 folded before Flop (didn't bet)
+Seat 7: stam6945 showed [Jh 3h] and lost with high card King
+Seat 9: va4eko (button) folded on the Flop
+
+
+
+PokerStars Hand #198844742267: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VII (125/250) - 2019/04/02 15:30:11 ET
+Table '2573013629 14' 9-max Seat #1 is the button
+Seat 1: zio7777 (4343 in chips) 
+Seat 2: Jari021 (11650 in chips) 
+Seat 3: mamamarii (8352 in chips) 
+Seat 4: jerome7624 (8085 in chips) 
+Seat 5: gerard0007 (4554 in chips) 
+Seat 6: YoYoMan415 (12981 in chips) 
+Seat 7: stam6945 (3961 in chips) 
+Seat 8: Solomon704 (5000 in chips) 
+Seat 9: va4eko (14053 in chips) 
+zio7777: posts the ante 25
+Jari021: posts the ante 25
+mamamarii: posts the ante 25
+jerome7624: posts the ante 25
+gerard0007: posts the ante 25
+YoYoMan415: posts the ante 25
+stam6945: posts the ante 25
+Solomon704: posts the ante 25
+va4eko: posts the ante 25
+Jari021: posts small blind 125
+mamamarii: posts big blind 250
+*** HOLE CARDS ***
+Dealt to zio7777 [6h 8s]
+jerome7624: folds 
+gerard0007: folds 
+YoYoMan415 has timed out
+YoYoMan415: folds 
+stam6945: calls 250
+Solomon704: calls 250
+va4eko: calls 250
+zio7777: folds 
+Jari021: raises 1000 to 1250
+mamamarii: folds 
+stam6945: calls 1000
+Solomon704 is disconnected 
+Solomon704 has timed out while disconnected
+Solomon704: folds 
+va4eko: calls 1000
+*** FLOP *** [Jc 2h 3c]
+Jari021: bets 2750
+stam6945: folds 
+va4eko: calls 2750
+*** TURN *** [Jc 2h 3c] [6d]
+Jari021: bets 7625 and is all-in
+va4eko: calls 7625
+*** RIVER *** [Jc 2h 3c 6d] [9s]
+*** SHOW DOWN ***
+Jari021: shows [Ac Kc] (high card Ace)
+va4eko: shows [7c 9c] (a pair of Nines)
+va4eko collected 25225 from pot
+va4eko wins the 20000 bounty for eliminating Jari021
+Jari021 finished the tournament
+*** SUMMARY ***
+Total pot 25225 | Rake 0 
+Board [Jc 2h 3c 6d 9s]
+Seat 1: zio7777 (button) folded before Flop (didn't bet)
+Seat 2: Jari021 (small blind) showed [Ac Kc] and lost with high card Ace
+Seat 3: mamamarii (big blind) folded before Flop
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 folded before Flop (didn't bet)
+Seat 7: stam6945 folded on the Flop
+Seat 8: Solomon704 folded before Flop
+Seat 9: va4eko showed [7c 9c] and won (25225) with a pair of Nines
+
+
+
+PokerStars Hand #198844811797: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VII (125/250) - 2019/04/02 15:31:42 ET
+Table '2573013629 14' 9-max Seat #3 is the button
+Seat 1: zio7777 (4318 in chips) 
+Seat 3: mamamarii (8077 in chips) 
+Seat 4: jerome7624 (8060 in chips) 
+Seat 5: gerard0007 (4529 in chips) 
+Seat 6: YoYoMan415 (12956 in chips) 
+Seat 7: stam6945 (2686 in chips) 
+Seat 8: Solomon704 (4725 in chips) 
+Seat 9: va4eko (27628 in chips) 
+zio7777: posts the ante 25
+mamamarii: posts the ante 25
+jerome7624: posts the ante 25
+gerard0007: posts the ante 25
+YoYoMan415: posts the ante 25
+stam6945: posts the ante 25
+Solomon704: posts the ante 25
+va4eko: posts the ante 25
+jerome7624: posts small blind 125
+gerard0007: posts big blind 250
+*** HOLE CARDS ***
+Dealt to zio7777 [Qh Jh]
+YoYoMan415: folds 
+stam6945: folds 
+Solomon704: calls 250
+va4eko: folds 
+zio7777: calls 250
+mamamarii: folds 
+jerome7624: calls 125
+gerard0007: checks 
+*** FLOP *** [9h 5c 3d]
+jerome7624: checks 
+gerard0007: checks 
+Solomon704: checks 
+zio7777: checks 
+*** TURN *** [9h 5c 3d] [Qc]
+jerome7624: checks 
+gerard0007: checks 
+Solomon704: checks 
+zio7777: bets 669
+jerome7624: folds 
+gerard0007: folds 
+Solomon704: calls 669
+*** RIVER *** [9h 5c 3d Qc] [8d]
+Solomon704: bets 500
+zio7777: calls 500
+*** SHOW DOWN ***
+Solomon704: shows [6h 7h] (a straight, Five to Nine)
+zio7777: mucks hand 
+Solomon704 collected 3538 from pot
+*** SUMMARY ***
+Total pot 3538 | Rake 0 
+Board [9h 5c 3d Qc 8d]
+Seat 1: zio7777 mucked [Qh Jh]
+Seat 3: mamamarii (button) folded before Flop (didn't bet)
+Seat 4: jerome7624 (small blind) folded on the Turn
+Seat 5: gerard0007 (big blind) folded on the Turn
+Seat 6: YoYoMan415 folded before Flop (didn't bet)
+Seat 7: stam6945 folded before Flop (didn't bet)
+Seat 8: Solomon704 showed [6h 7h] and won (3538) with a straight, Five to Nine
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844897687: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VIII (150/300) - 2019/04/02 15:33:34 ET
+Table '2573013629 14' 9-max Seat #4 is the button
+Seat 1: zio7777 (2874 in chips) 
+Seat 2: ComptonVl (5000 in chips) 
+Seat 3: mamamarii (8052 in chips) 
+Seat 4: jerome7624 (7785 in chips) 
+Seat 5: gerard0007 (4254 in chips) 
+Seat 6: YoYoMan415 (12931 in chips) 
+Seat 7: stam6945 (2661 in chips) 
+Seat 8: Solomon704 (6819 in chips) 
+Seat 9: va4eko (27603 in chips) 
+zio7777: posts the ante 25
+ComptonVl: posts the ante 25
+mamamarii: posts the ante 25
+jerome7624: posts the ante 25
+gerard0007: posts the ante 25
+YoYoMan415: posts the ante 25
+stam6945: posts the ante 25
+Solomon704: posts the ante 25
+va4eko: posts the ante 25
+gerard0007: posts small blind 150
+YoYoMan415: posts big blind 300
+*** HOLE CARDS ***
+Dealt to zio7777 [Jh Ks]
+stam6945: folds 
+Solomon704: calls 300
+va4eko: folds 
+zio7777: raises 2549 to 2849 and is all-in
+ComptonVl: folds 
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: folds 
+YoYoMan415: folds 
+Solomon704: folds 
+Uncalled bet (2549) returned to zio7777
+zio7777 collected 1275 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Seat 1: zio7777 collected (1275)
+Seat 2: ComptonVl folded before Flop (didn't bet)
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 (button) folded before Flop (didn't bet)
+Seat 5: gerard0007 (small blind) folded before Flop
+Seat 6: YoYoMan415 (big blind) folded before Flop
+Seat 7: stam6945 folded before Flop (didn't bet)
+Seat 8: Solomon704 folded before Flop
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844929771: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VIII (150/300) - 2019/04/02 15:34:15 ET
+Table '2573013629 14' 9-max Seat #5 is the button
+Seat 1: zio7777 (3824 in chips) 
+Seat 2: ComptonVl (4975 in chips) 
+Seat 3: mamamarii (8027 in chips) 
+Seat 4: jerome7624 (7760 in chips) 
+Seat 5: gerard0007 (4079 in chips) 
+Seat 6: YoYoMan415 (12606 in chips) 
+Seat 7: stam6945 (2636 in chips) 
+Seat 8: Solomon704 (6494 in chips) 
+Seat 9: va4eko (27578 in chips) 
+zio7777: posts the ante 25
+ComptonVl: posts the ante 25
+mamamarii: posts the ante 25
+jerome7624: posts the ante 25
+gerard0007: posts the ante 25
+YoYoMan415: posts the ante 25
+stam6945: posts the ante 25
+Solomon704: posts the ante 25
+va4eko: posts the ante 25
+YoYoMan415: posts small blind 150
+stam6945: posts big blind 300
+*** HOLE CARDS ***
+Dealt to zio7777 [2c Kc]
+Solomon704: calls 300
+va4eko: folds 
+zio7777: folds 
+ComptonVl: calls 300
+mamamarii: calls 300
+jerome7624: folds 
+gerard0007: folds 
+YoYoMan415: calls 150
+stam6945: checks 
+*** FLOP *** [9s Qc 9h]
+YoYoMan415: checks 
+stam6945: checks 
+Solomon704: checks 
+ComptonVl: checks 
+mamamarii: bets 863
+YoYoMan415: folds 
+stam6945: folds 
+Solomon704: calls 863
+ComptonVl: folds 
+*** TURN *** [9s Qc 9h] [Ad]
+Solomon704: checks 
+mamamarii: checks 
+*** RIVER *** [9s Qc 9h Ad] [Ks]
+Solomon704: checks 
+mamamarii: checks 
+*** SHOW DOWN ***
+Solomon704: shows [7d Qh] (two pair, Queens and Nines)
+mamamarii: mucks hand 
+Solomon704 collected 3451 from pot
+*** SUMMARY ***
+Total pot 3451 | Rake 0 
+Board [9s Qc 9h Ad Ks]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: ComptonVl folded on the Flop
+Seat 3: mamamarii mucked [7h 7s]
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 (button) folded before Flop (didn't bet)
+Seat 6: YoYoMan415 (small blind) folded on the Flop
+Seat 7: stam6945 (big blind) folded on the Flop
+Seat 8: Solomon704 showed [7d Qh] and won (3451) with two pair, Queens and Nines
+Seat 9: va4eko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198844980817: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level VIII (150/300) - 2019/04/02 15:35:21 ET
+Table '2573013629 14' 9-max Seat #6 is the button
+Seat 1: zio7777 (3799 in chips) 
+Seat 2: ComptonVl (4650 in chips) 
+Seat 3: mamamarii (6839 in chips) 
+Seat 4: jerome7624 (7735 in chips) 
+Seat 5: gerard0007 (4054 in chips) 
+Seat 6: YoYoMan415 (12281 in chips) 
+Seat 7: stam6945 (2311 in chips) 
+Seat 8: Solomon704 (8757 in chips) 
+Seat 9: va4eko (27553 in chips) 
+zio7777: posts the ante 25
+ComptonVl: posts the ante 25
+mamamarii: posts the ante 25
+jerome7624: posts the ante 25
+gerard0007: posts the ante 25
+YoYoMan415: posts the ante 25
+stam6945: posts the ante 25
+Solomon704: posts the ante 25
+va4eko: posts the ante 25
+stam6945: posts small blind 150
+Solomon704: posts big blind 300
+*** HOLE CARDS ***
+Dealt to zio7777 [3d 2d]
+va4eko: raises 600 to 900
+zio7777: folds 
+ComptonVl: calls 900
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: folds 
+YoYoMan415: calls 900
+stam6945: calls 750
+Solomon704: calls 600
+*** FLOP *** [Ac 4s 5s]
+stam6945: checks 
+Solomon704: checks 
+va4eko: bets 1418
+ComptonVl: folds 
+YoYoMan415: calls 1418
+stam6945: folds 
+Solomon704: folds 
+*** TURN *** [Ac 4s 5s] [4d]
+va4eko: checks 
+YoYoMan415: checks 
+*** RIVER *** [Ac 4s 5s 4d] [8h]
+va4eko: bets 25210 and is all-in
+YoYoMan415: folds 
+Uncalled bet (25210) returned to va4eko
+va4eko collected 7561 from pot
+va4eko: doesn't show hand 
+*** SUMMARY ***
+Total pot 7561 | Rake 0 
+Board [Ac 4s 5s 4d 8h]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: ComptonVl folded on the Flop
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 (button) folded on the River
+Seat 7: stam6945 (small blind) folded on the Flop
+Seat 8: Solomon704 (big blind) folded on the Flop
+Seat 9: va4eko collected (7561)
+
+
+
+PokerStars Hand #198845061018: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level IX (200/400) - 2019/04/02 15:37:05 ET
+Table '2573013629 14' 9-max Seat #7 is the button
+Seat 1: zio7777 (3774 in chips) 
+Seat 2: ComptonVl (3725 in chips) 
+Seat 3: mamamarii (6814 in chips) 
+Seat 4: jerome7624 (7710 in chips) 
+Seat 5: gerard0007 (4029 in chips) 
+Seat 6: YoYoMan415 (9938 in chips) 
+Seat 7: stam6945 (1386 in chips) 
+Seat 8: Solomon704 (7832 in chips) 
+Seat 9: va4eko (32771 in chips) 
+zio7777: posts the ante 50
+ComptonVl: posts the ante 50
+mamamarii: posts the ante 50
+jerome7624: posts the ante 50
+gerard0007: posts the ante 50
+YoYoMan415: posts the ante 50
+stam6945: posts the ante 50
+Solomon704: posts the ante 50
+va4eko: posts the ante 50
+Solomon704: posts small blind 200
+va4eko: posts big blind 400
+*** HOLE CARDS ***
+Dealt to zio7777 [3s Kh]
+zio7777: folds 
+ComptonVl: folds 
+mamamarii: folds 
+jerome7624: calls 400
+gerard0007: folds 
+YoYoMan415: folds 
+stam6945: calls 400
+Solomon704: calls 200
+va4eko: checks 
+*** FLOP *** [8d 7c Jh]
+Solomon704: checks 
+va4eko: checks 
+jerome7624: bets 1200
+stam6945: calls 936 and is all-in
+Solomon704: folds 
+va4eko: calls 1200
+*** TURN *** [8d 7c Jh] [Ts]
+va4eko: checks 
+jerome7624: checks 
+*** RIVER *** [8d 7c Jh Ts] [3d]
+va4eko: bets 31121 and is all-in
+jerome7624: folds 
+Uncalled bet (31121) returned to va4eko
+*** SHOW DOWN ***
+va4eko: shows [8s 4d] (a pair of Eights)
+va4eko collected 528 from side pot
+stam6945: shows [6s 9d] (a straight, Seven to Jack)
+stam6945 collected 4858 from main pot
+*** SUMMARY ***
+Total pot 5386 Main pot 4858. Side pot 528. | Rake 0 
+Board [8d 7c Jh Ts 3d]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: ComptonVl folded before Flop (didn't bet)
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded on the River
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 folded before Flop (didn't bet)
+Seat 7: stam6945 (button) showed [6s 9d] and won (4858) with a straight, Seven to Jack
+Seat 8: Solomon704 (small blind) folded on the Flop
+Seat 9: va4eko (big blind) showed [8s 4d] and won (528) with a pair of Eights
+
+
+
+PokerStars Hand #198845110409: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level IX (200/400) - 2019/04/02 15:38:09 ET
+Table '2573013629 14' 9-max Seat #8 is the button
+Seat 1: zio7777 (3724 in chips) 
+Seat 2: ComptonVl (3675 in chips) 
+Seat 3: mamamarii (6764 in chips) 
+Seat 4: jerome7624 (6060 in chips) 
+Seat 5: gerard0007 (3979 in chips) 
+Seat 6: YoYoMan415 (9888 in chips) 
+Seat 7: stam6945 (4858 in chips) 
+Seat 8: Solomon704 (7382 in chips) 
+Seat 9: va4eko (31649 in chips) 
+zio7777: posts the ante 50
+ComptonVl: posts the ante 50
+mamamarii: posts the ante 50
+jerome7624: posts the ante 50
+gerard0007: posts the ante 50
+YoYoMan415: posts the ante 50
+stam6945: posts the ante 50
+Solomon704: posts the ante 50
+va4eko: posts the ante 50
+va4eko: posts small blind 200
+zio7777: posts big blind 400
+*** HOLE CARDS ***
+Dealt to zio7777 [6s 3d]
+ComptonVl: raises 3225 to 3625 and is all-in
+mamamarii: folds 
+jerome7624: folds 
+gerard0007: folds 
+YoYoMan415: folds 
+stam6945: folds 
+Solomon704: folds 
+va4eko: folds 
+zio7777: folds 
+Uncalled bet (3225) returned to ComptonVl
+ComptonVl collected 1450 from pot
+ComptonVl: doesn't show hand 
+*** SUMMARY ***
+Total pot 1450 | Rake 0 
+Seat 1: zio7777 (big blind) folded before Flop
+Seat 2: ComptonVl collected (1450)
+Seat 3: mamamarii folded before Flop (didn't bet)
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 folded before Flop (didn't bet)
+Seat 7: stam6945 folded before Flop (didn't bet)
+Seat 8: Solomon704 (button) folded before Flop (didn't bet)
+Seat 9: va4eko (small blind) folded before Flop
+
+
+
+PokerStars Hand #198845140127: Tournament #2573013629, 67000+20000+13000 Hold'em No Limit - Level IX (200/400) - 2019/04/02 15:38:48 ET
+Table '2573013629 14' 9-max Seat #9 is the button
+Seat 1: zio7777 (3274 in chips) 
+Seat 3: mamamarii (6714 in chips) 
+Seat 4: jerome7624 (6010 in chips) 
+Seat 5: gerard0007 (3929 in chips) 
+Seat 6: YoYoMan415 (9838 in chips) 
+Seat 7: stam6945 (4808 in chips) 
+Seat 8: Solomon704 (7332 in chips) 
+Seat 9: va4eko (31399 in chips) 
+zio7777: posts the ante 50
+mamamarii: posts the ante 50
+jerome7624: posts the ante 50
+gerard0007: posts the ante 50
+YoYoMan415: posts the ante 50
+stam6945: posts the ante 50
+Solomon704: posts the ante 50
+va4eko: posts the ante 50
+zio7777: posts small blind 200
+mamamarii: posts big blind 400
+*** HOLE CARDS ***
+Dealt to zio7777 [Js Kd]
+jerome7624: folds 
+gerard0007: folds 
+YoYoMan415: raises 800 to 1200
+stam6945: folds 
+Solomon704: folds 
+va4eko: folds 
+zio7777: raises 2024 to 3224 and is all-in
+mamamarii: folds 
+YoYoMan415: calls 2024
+*** FLOP *** [2h Jc 8s]
+*** TURN *** [2h Jc 8s] [4d]
+*** RIVER *** [2h Jc 8s 4d] [6h]
+*** SHOW DOWN ***
+zio7777: shows [Js Kd] (a pair of Jacks)
+YoYoMan415: shows [Qc Qd] (a pair of Queens)
+YoYoMan415 collected 7248 from pot
+YoYoMan415 wins the 20000 bounty for eliminating zio7777
+zio7777 finished the tournament
+*** SUMMARY ***
+Total pot 7248 | Rake 0 
+Board [2h Jc 8s 4d 6h]
+Seat 1: zio7777 (small blind) showed [Js Kd] and lost with a pair of Jacks
+Seat 3: mamamarii (big blind) folded before Flop
+Seat 4: jerome7624 folded before Flop (didn't bet)
+Seat 5: gerard0007 folded before Flop (didn't bet)
+Seat 6: YoYoMan415 showed [Qc Qd] and won (7248) with a pair of Queens
+Seat 7: stam6945 folded before Flop (didn't bet)
+Seat 8: Solomon704 folded before Flop (didn't bet)
+Seat 9: va4eko (button) folded before Flop (didn't bet)
+
+
+

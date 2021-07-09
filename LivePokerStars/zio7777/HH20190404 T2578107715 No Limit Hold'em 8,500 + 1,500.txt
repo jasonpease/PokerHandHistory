@@ -1,0 +1,342 @@
+﻿PokerStars Hand #198924109631: Tournament #2578107715, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 17:51:11 ET
+Table '2578107715 1' 9-max Seat #1 is the button
+Seat 1: Martiniko25 (500 in chips) 
+Seat 2: MiltonDP (500 in chips) 
+Seat 3: moeda negra (500 in chips) 
+Seat 4: Sybron Death (500 in chips) 
+Seat 5: sondaris1 (500 in chips) 
+Seat 6: farinato69 (500 in chips) 
+Seat 7: zio7777 (500 in chips) 
+Seat 8: vogelmuur (500 in chips) 
+Seat 9: drm0705 (500 in chips) 
+Martiniko25: posts the ante 2
+MiltonDP: posts the ante 2
+moeda negra: posts the ante 2
+Sybron Death: posts the ante 2
+sondaris1: posts the ante 2
+farinato69: posts the ante 2
+zio7777: posts the ante 2
+vogelmuur: posts the ante 2
+drm0705: posts the ante 2
+MiltonDP: posts small blind 10
+moeda negra: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [5c Ac]
+Sybron Death: calls 20
+sondaris1: calls 20
+farinato69: raises 20 to 40
+zio7777: calls 40
+vogelmuur: calls 40
+drm0705: folds 
+Martiniko25: raises 20 to 60
+MiltonDP: folds 
+moeda negra: folds 
+Sybron Death: calls 40
+sondaris1: calls 40
+farinato69: raises 438 to 498 and is all-in
+zio7777: folds 
+vogelmuur: calls 458 and is all-in
+Martiniko25: calls 438 and is all-in
+Sybron Death: folds 
+sondaris1: folds 
+*** FLOP *** [8d Kd 7d]
+*** TURN *** [8d Kd 7d] [Qd]
+*** RIVER *** [8d Kd 7d Qd] [Qc]
+*** SHOW DOWN ***
+farinato69: shows [As 9c] (a pair of Queens)
+vogelmuur: shows [Kc 4c] (two pair, Kings and Queens)
+Martiniko25: shows [Th Ts] (two pair, Queens and Tens)
+vogelmuur collected 1702 from pot
+vogelmuur wins the 4250 bounty for eliminating Martiniko25
+vogelmuur wins the 4250 bounty for eliminating farinato69
+Martiniko25 finished the tournament in 8th place
+farinato69 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1702 | Rake 0 
+Board [8d Kd 7d Qd Qc]
+Seat 1: Martiniko25 (button) showed [Th Ts] and lost with two pair, Queens and Tens
+Seat 2: MiltonDP (small blind) folded before Flop
+Seat 3: moeda negra (big blind) folded before Flop
+Seat 4: Sybron Death folded before Flop
+Seat 5: sondaris1 folded before Flop
+Seat 6: farinato69 showed [As 9c] and lost with a pair of Queens
+Seat 7: zio7777 folded before Flop
+Seat 8: vogelmuur showed [Kc 4c] and won (1702) with two pair, Kings and Queens
+Seat 9: drm0705 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924147592: Tournament #2578107715, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 17:52:11 ET
+Table '2578107715 1' 9-max Seat #2 is the button
+Seat 2: MiltonDP (488 in chips) 
+Seat 3: moeda negra (478 in chips) 
+Seat 4: Sybron Death (438 in chips) 
+Seat 5: sondaris1 (438 in chips) 
+Seat 7: zio7777 (458 in chips) 
+Seat 8: vogelmuur (1702 in chips) 
+Seat 9: drm0705 (498 in chips) 
+MiltonDP: posts the ante 2
+moeda negra: posts the ante 2
+Sybron Death: posts the ante 2
+sondaris1: posts the ante 2
+zio7777: posts the ante 2
+vogelmuur: posts the ante 2
+drm0705: posts the ante 2
+moeda negra: posts small blind 10
+Sybron Death: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [Kd 7s]
+sondaris1: calls 20
+zio7777: folds 
+vogelmuur: folds 
+drm0705: raises 20 to 40
+MiltonDP: calls 40
+moeda negra: folds 
+Sybron Death: calls 20
+sondaris1: calls 20
+*** FLOP *** [Jd 3h 4h]
+Sybron Death: checks 
+sondaris1: checks 
+drm0705: checks 
+MiltonDP: checks 
+*** TURN *** [Jd 3h 4h] [8c]
+Sybron Death: checks 
+sondaris1: checks 
+drm0705: bets 456 and is all-in
+MiltonDP: folds 
+Sybron Death: folds 
+sondaris1: folds 
+Uncalled bet (456) returned to drm0705
+drm0705 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0 
+Board [Jd 3h 4h 8c]
+Seat 2: MiltonDP (button) folded on the Turn
+Seat 3: moeda negra (small blind) folded before Flop
+Seat 4: Sybron Death (big blind) folded on the Turn
+Seat 5: sondaris1 folded on the Turn
+Seat 7: zio7777 folded before Flop (didn't bet)
+Seat 8: vogelmuur folded before Flop (didn't bet)
+Seat 9: drm0705 collected (184)
+
+
+
+PokerStars Hand #198924192194: Tournament #2578107715, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 17:53:21 ET
+Table '2578107715 1' 9-max Seat #3 is the button
+Seat 2: MiltonDP (446 in chips) 
+Seat 3: moeda negra (466 in chips) 
+Seat 4: Sybron Death (396 in chips) 
+Seat 5: sondaris1 (396 in chips) 
+Seat 7: zio7777 (456 in chips) 
+Seat 8: vogelmuur (1700 in chips) 
+Seat 9: drm0705 (640 in chips) 
+MiltonDP: posts the ante 3
+moeda negra: posts the ante 3
+Sybron Death: posts the ante 3
+sondaris1: posts the ante 3
+zio7777: posts the ante 3
+vogelmuur: posts the ante 3
+drm0705: posts the ante 3
+Sybron Death: posts small blind 15
+sondaris1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [6d 2s]
+zio7777: folds 
+vogelmuur: folds 
+drm0705: folds 
+MiltonDP: calls 30
+moeda negra: folds 
+Sybron Death: calls 15
+sondaris1: checks 
+*** FLOP *** [As 4d 6s]
+Sybron Death: checks 
+sondaris1: checks 
+MiltonDP: checks 
+*** TURN *** [As 4d 6s] [2c]
+Sybron Death: checks 
+sondaris1: checks 
+MiltonDP: checks 
+*** RIVER *** [As 4d 6s 2c] [3d]
+Sybron Death: checks 
+sondaris1: checks 
+MiltonDP: bets 111
+Sybron Death: folds 
+sondaris1: folds 
+Uncalled bet (111) returned to MiltonDP
+MiltonDP collected 111 from pot
+MiltonDP: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Board [As 4d 6s 2c 3d]
+Seat 2: MiltonDP collected (111)
+Seat 3: moeda negra (button) folded before Flop (didn't bet)
+Seat 4: Sybron Death (small blind) folded on the River
+Seat 5: sondaris1 (big blind) folded on the River
+Seat 7: zio7777 folded before Flop (didn't bet)
+Seat 8: vogelmuur folded before Flop (didn't bet)
+Seat 9: drm0705 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924227877: Tournament #2578107715, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 17:54:17 ET
+Table '2578107715 1' 9-max Seat #4 is the button
+Seat 2: MiltonDP (524 in chips) 
+Seat 3: moeda negra (463 in chips) 
+Seat 4: Sybron Death (363 in chips) 
+Seat 5: sondaris1 (363 in chips) 
+Seat 7: zio7777 (453 in chips) 
+Seat 8: vogelmuur (1697 in chips) 
+Seat 9: drm0705 (637 in chips) 
+MiltonDP: posts the ante 3
+moeda negra: posts the ante 3
+Sybron Death: posts the ante 3
+sondaris1: posts the ante 3
+zio7777: posts the ante 3
+vogelmuur: posts the ante 3
+drm0705: posts the ante 3
+sondaris1: posts small blind 15
+zio7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [4s Ah]
+vogelmuur: folds 
+drm0705: folds 
+MiltonDP: folds 
+moeda negra: folds 
+Sybron Death: calls 30
+sondaris1: calls 15
+zio7777: raises 90 to 120
+Sybron Death: calls 90
+sondaris1: calls 90
+*** FLOP *** [Kc 4c 8s]
+sondaris1: checks 
+zio7777: bets 330 and is all-in
+Sybron Death: calls 240 and is all-in
+sondaris1: folds 
+Uncalled bet (90) returned to zio7777
+*** TURN *** [Kc 4c 8s] [Ts]
+*** RIVER *** [Kc 4c 8s Ts] [9s]
+*** SHOW DOWN ***
+zio7777: shows [4s Ah] (a pair of Fours)
+Sybron Death: shows [Ac Kd] (a pair of Kings)
+Sybron Death collected 861 from pot
+*** SUMMARY ***
+Total pot 861 | Rake 0 
+Board [Kc 4c 8s Ts 9s]
+Seat 2: MiltonDP folded before Flop (didn't bet)
+Seat 3: moeda negra folded before Flop (didn't bet)
+Seat 4: Sybron Death (button) showed [Ac Kd] and won (861) with a pair of Kings
+Seat 5: sondaris1 (small blind) folded on the Flop
+Seat 7: zio7777 (big blind) showed [4s Ah] and lost with a pair of Fours
+Seat 8: vogelmuur folded before Flop (didn't bet)
+Seat 9: drm0705 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924257628: Tournament #2578107715, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 17:55:04 ET
+Table '2578107715 1' 9-max Seat #5 is the button
+Seat 2: MiltonDP (521 in chips) 
+Seat 3: moeda negra (460 in chips) 
+Seat 4: Sybron Death (861 in chips) 
+Seat 5: sondaris1 (240 in chips) 
+Seat 7: zio7777 (90 in chips) 
+Seat 8: vogelmuur (1694 in chips) 
+Seat 9: drm0705 (634 in chips) 
+MiltonDP: posts the ante 3
+moeda negra: posts the ante 3
+Sybron Death: posts the ante 3
+sondaris1: posts the ante 3
+zio7777: posts the ante 3
+vogelmuur: posts the ante 3
+drm0705: posts the ante 3
+zio7777: posts small blind 15
+vogelmuur: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [7c 9s]
+drm0705: folds 
+MiltonDP: folds 
+moeda negra: raises 30 to 60
+Sybron Death: folds 
+sondaris1: folds 
+zio7777: folds 
+vogelmuur: calls 30
+*** FLOP *** [5h 2s Qd]
+vogelmuur: checks 
+moeda negra: bets 30
+vogelmuur: calls 30
+*** TURN *** [5h 2s Qd] [5d]
+vogelmuur: checks 
+moeda negra: bets 60
+vogelmuur: folds 
+Uncalled bet (60) returned to moeda negra
+moeda negra collected 216 from pot
+moeda negra: doesn't show hand 
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [5h 2s Qd 5d]
+Seat 2: MiltonDP folded before Flop (didn't bet)
+Seat 3: moeda negra collected (216)
+Seat 4: Sybron Death folded before Flop (didn't bet)
+Seat 5: sondaris1 (button) folded before Flop (didn't bet)
+Seat 7: zio7777 (small blind) folded before Flop
+Seat 8: vogelmuur (big blind) folded on the Turn
+Seat 9: drm0705 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924278113: Tournament #2578107715, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/04 17:55:46 ET
+Table '2578107715 1' 9-max Seat #7 is the button
+Seat 2: MiltonDP (518 in chips) 
+Seat 3: moeda negra (583 in chips) 
+Seat 4: Sybron Death (858 in chips) 
+Seat 5: sondaris1 (237 in chips) 
+Seat 7: zio7777 (72 in chips) 
+Seat 8: vogelmuur (1601 in chips) 
+Seat 9: drm0705 (631 in chips) 
+MiltonDP: posts the ante 4
+moeda negra: posts the ante 4
+Sybron Death: posts the ante 4
+sondaris1: posts the ante 4
+zio7777: posts the ante 4
+vogelmuur: posts the ante 4
+drm0705: posts the ante 4
+vogelmuur: posts small blind 20
+drm0705: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [Tc Jc]
+MiltonDP: calls 40
+moeda negra: folds 
+Sybron Death: calls 40
+sondaris1: calls 40
+zio7777: raises 28 to 68 and is all-in
+vogelmuur: calls 48
+drm0705: raises 559 to 627 and is all-in
+MiltonDP: folds 
+Sybron Death: calls 587
+sondaris1: folds 
+vogelmuur: folds 
+*** FLOP *** [5c Ts Qc]
+*** TURN *** [5c Ts Qc] [8s]
+*** RIVER *** [5c Ts Qc 8s] [4d]
+*** SHOW DOWN ***
+drm0705: shows [5d Ah] (a pair of Fives)
+Sybron Death: shows [Kh Kc] (a pair of Kings)
+Sybron Death collected 1118 from side pot
+zio7777: shows [Tc Jc] (a pair of Tens)
+Sybron Death collected 380 from main pot
+Sybron Death wins the 4250 bounty for eliminating zio7777
+Sybron Death wins the 4250 bounty for eliminating drm0705
+drm0705 finished the tournament in 6th place
+zio7777 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1498 Main pot 380. Side pot 1118. | Rake 0 
+Board [5c Ts Qc 8s 4d]
+Seat 2: MiltonDP folded before Flop
+Seat 3: moeda negra folded before Flop (didn't bet)
+Seat 4: Sybron Death showed [Kh Kc] and won (1498) with a pair of Kings
+Seat 5: sondaris1 folded before Flop
+Seat 7: zio7777 (button) showed [Tc Jc] and lost with a pair of Tens
+Seat 8: vogelmuur (small blind) folded before Flop
+Seat 9: drm0705 (big blind) showed [5d Ah] and lost with a pair of Fives
+
+
+

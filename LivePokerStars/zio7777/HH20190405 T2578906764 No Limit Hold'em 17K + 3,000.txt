@@ -1,0 +1,3277 @@
+﻿PokerStars Hand #198960291707: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/04/05 17:45:12 ET
+Table '2578906764 1' 9-max Seat #1 is the button
+Seat 1: zio7777 (1500 in chips) 
+Seat 2: 79cbx (1500 in chips) 
+Seat 3: HuronHolmes (1500 in chips) 
+Seat 4: BoiKid208 (1500 in chips) 
+Seat 5: 9042005 (1500 in chips) 
+Seat 6: oudievan (1500 in chips) 
+Seat 7: pipo100 (1500 in chips) 
+Seat 8: rastatui (1500 in chips) 
+Seat 9: kublikhan (1500 in chips) 
+79cbx: posts small blind 10
+HuronHolmes: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [4h Qh]
+BoiKid208: calls 20
+9042005: folds 
+oudievan: calls 20
+pipo100: calls 20
+rastatui: calls 20
+kublikhan: folds 
+zio7777: calls 20
+79cbx: raises 380 to 400
+HuronHolmes: calls 380
+BoiKid208: folds 
+oudievan: folds 
+pipo100: calls 380
+rastatui: folds 
+zio7777: folds 
+*** FLOP *** [Qs 9c 2h]
+79cbx: bets 400
+HuronHolmes: raises 675 to 1075
+pipo100: folds 
+79cbx: raises 25 to 1100 and is all-in
+HuronHolmes: calls 25 and is all-in
+*** TURN *** [Qs 9c 2h] [3s]
+*** RIVER *** [Qs 9c 2h 3s] [Ad]
+*** SHOW DOWN ***
+79cbx: shows [6s 7c] (high card Ace)
+HuronHolmes: shows [As 5s] (a pair of Aces)
+HuronHolmes collected 3480 from pot
+79cbx finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 3480 | Rake 0 
+Board [Qs 9c 2h 3s Ad]
+Seat 1: zio7777 (button) folded before Flop
+Seat 2: 79cbx (small blind) showed [6s 7c] and lost with high card Ace
+Seat 3: HuronHolmes (big blind) showed [As 5s] and won (3480) with a pair of Aces
+Seat 4: BoiKid208 folded before Flop
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 6: oudievan folded before Flop
+Seat 7: pipo100 folded on the Flop
+Seat 8: rastatui folded before Flop
+Seat 9: kublikhan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198960365766: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/04/05 17:47:02 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 1: zio7777 (1480 in chips) 
+Seat 3: HuronHolmes (3480 in chips) 
+Seat 4: BoiKid208 (1480 in chips) 
+Seat 5: 9042005 (1500 in chips) 
+Seat 6: oudievan (1480 in chips) 
+Seat 7: pipo100 (1100 in chips) 
+Seat 8: rastatui (1480 in chips) 
+Seat 9: kublikhan (1500 in chips) 
+BoiKid208: posts small blind 10
+9042005: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [6d Qs]
+oudievan: folds 
+pipo100: folds 
+rastatui: calls 20
+kublikhan: folds 
+zio7777: folds 
+HuronHolmes: calls 20
+BoiKid208: calls 10
+9042005: raises 160 to 180
+rastatui: calls 160
+HuronHolmes: calls 160
+BoiKid208: folds 
+*** FLOP *** [8h 7d 8c]
+9042005: checks 
+rastatui: checks 
+HuronHolmes: checks 
+*** TURN *** [8h 7d 8c] [Jd]
+9042005: checks 
+rastatui: checks 
+HuronHolmes: bets 375
+9042005: folds 
+rastatui: raises 395 to 770
+HuronHolmes: calls 395
+*** RIVER *** [8h 7d 8c Jd] [4c]
+rastatui: bets 530 and is all-in
+HuronHolmes: calls 530
+*** SHOW DOWN ***
+rastatui: shows [Kh 6h] (a pair of Eights)
+HuronHolmes: shows [3s Jh] (two pair, Jacks and Eights)
+HuronHolmes collected 3160 from pot
+rastatui finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 3160 | Rake 0 
+Board [8h 7d 8c Jd 4c]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: HuronHolmes (button) showed [3s Jh] and won (3160) with two pair, Jacks and Eights
+Seat 4: BoiKid208 (small blind) folded before Flop
+Seat 5: 9042005 (big blind) folded on the Turn
+Seat 6: oudievan folded before Flop (didn't bet)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: rastatui showed [Kh 6h] and lost with a pair of Eights
+Seat 9: kublikhan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198960418840: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/04/05 17:48:21 ET
+Table '2578906764 1' 9-max Seat #4 is the button
+Seat 1: zio7777 (1480 in chips) 
+Seat 3: HuronHolmes (5160 in chips) 
+Seat 4: BoiKid208 (1460 in chips) 
+Seat 5: 9042005 (1320 in chips) 
+Seat 6: oudievan (1480 in chips) 
+Seat 7: pipo100 (1100 in chips) 
+Seat 9: kublikhan (1500 in chips) 
+9042005: posts small blind 10
+oudievan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [4d 9c]
+pipo100: calls 20
+kublikhan: calls 20
+zio7777: folds 
+HuronHolmes: folds 
+BoiKid208: calls 20
+9042005: calls 10
+oudievan: checks 
+*** FLOP *** [5h 8c Qs]
+9042005: checks 
+oudievan: checks 
+pipo100: bets 40
+kublikhan: folds 
+BoiKid208: calls 40
+9042005: calls 40
+oudievan: folds 
+*** TURN *** [5h 8c Qs] [Qc]
+9042005: checks 
+pipo100: checks 
+BoiKid208: checks 
+*** RIVER *** [5h 8c Qs Qc] [3s]
+9042005: checks 
+pipo100: checks 
+BoiKid208: bets 80
+9042005: folds 
+pipo100: folds 
+Uncalled bet (80) returned to BoiKid208
+BoiKid208 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [5h 8c Qs Qc 3s]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded before Flop (didn't bet)
+Seat 4: BoiKid208 (button) collected (220)
+Seat 5: 9042005 (small blind) folded on the River
+Seat 6: oudievan (big blind) folded on the Flop
+Seat 7: pipo100 folded on the River
+Seat 9: kublikhan folded on the Flop
+
+
+
+PokerStars Hand #198960469725: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/04/05 17:49:38 ET
+Table '2578906764 1' 9-max Seat #5 is the button
+Seat 1: zio7777 (1480 in chips) 
+Seat 3: HuronHolmes (5160 in chips) 
+Seat 4: BoiKid208 (1620 in chips) 
+Seat 5: 9042005 (1260 in chips) 
+Seat 6: oudievan (1460 in chips) 
+Seat 7: pipo100 (1040 in chips) 
+Seat 9: kublikhan (1480 in chips) 
+oudievan: posts small blind 10
+pipo100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [9h 4s]
+kublikhan: folds 
+zio7777: folds 
+HuronHolmes: calls 20
+BoiKid208: calls 20
+9042005: calls 20
+oudievan: calls 10
+pipo100: checks 
+*** FLOP *** [7s 9c 7c]
+oudievan: checks 
+pipo100: bets 120
+HuronHolmes: folds 
+BoiKid208: calls 120
+9042005: folds 
+oudievan: folds 
+*** TURN *** [7s 9c 7c] [Qc]
+pipo100: bets 900 and is all-in
+BoiKid208: folds 
+Uncalled bet (900) returned to pipo100
+pipo100 collected 340 from pot
+pipo100: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [7s 9c 7c Qc]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded on the Flop
+Seat 4: BoiKid208 folded on the Turn
+Seat 5: 9042005 (button) folded on the Flop
+Seat 6: oudievan (small blind) folded on the Flop
+Seat 7: pipo100 (big blind) collected (340)
+Seat 9: kublikhan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198960521677: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/04/05 17:50:56 ET
+Table '2578906764 1' 9-max Seat #6 is the button
+Seat 1: zio7777 (1480 in chips) 
+Seat 3: HuronHolmes (5140 in chips) 
+Seat 4: BoiKid208 (1480 in chips) 
+Seat 5: 9042005 (1240 in chips) 
+Seat 6: oudievan (1440 in chips) 
+Seat 7: pipo100 (1240 in chips) 
+Seat 9: kublikhan (1480 in chips) 
+pipo100: posts small blind 15
+kublikhan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [7s Ac]
+zio7777: calls 30
+HuronHolmes: calls 30
+BoiKid208: calls 30
+9042005: calls 30
+oudievan: calls 30
+pipo100: calls 15
+kublikhan: checks 
+*** FLOP *** [9s 7d 9c]
+pipo100: checks 
+kublikhan: checks 
+zio7777: bets 150
+HuronHolmes: calls 150
+BoiKid208: folds 
+9042005: calls 150
+oudievan: folds 
+pipo100: folds 
+kublikhan: folds 
+*** TURN *** [9s 7d 9c] [Ad]
+zio7777: checks 
+HuronHolmes: bets 275
+9042005: calls 275
+zio7777: calls 275
+*** RIVER *** [9s 7d 9c Ad] [3d]
+zio7777: checks 
+HuronHolmes: checks 
+9042005: checks 
+*** SHOW DOWN ***
+zio7777: shows [7s Ac] (two pair, Aces and Nines)
+HuronHolmes: shows [9h 4h] (three of a kind, Nines)
+9042005: mucks hand 
+HuronHolmes collected 1485 from pot
+*** SUMMARY ***
+Total pot 1485 | Rake 0 
+Board [9s 7d 9c Ad 3d]
+Seat 1: zio7777 showed [7s Ac] and lost with two pair, Aces and Nines
+Seat 3: HuronHolmes showed [9h 4h] and won (1485) with three of a kind, Nines
+Seat 4: BoiKid208 folded on the Flop
+Seat 5: 9042005 mucked [Ts 8s]
+Seat 6: oudievan (button) folded on the Flop
+Seat 7: pipo100 (small blind) folded on the Flop
+Seat 9: kublikhan (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198960622938: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/04/05 17:53:31 ET
+Table '2578906764 2' 9-max Seat #1 is the button
+Seat 1: ttwerpp (4580 in chips) 
+Seat 4: Evi-Berlin (2340 in chips) 
+Seat 5: zio7777 (1025 in chips) 
+Seat 6: Argentum736 (3390 in chips) 
+Seat 7: lusope50 (1630 in chips) 
+Seat 9: TDV61 (1560 in chips) 
+Evi-Berlin: posts small blind 15
+zio7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [3h 5d]
+Argentum736: folds 
+lusope50: calls 30
+TDV61: folds 
+ttwerpp: calls 30
+Evi-Berlin: calls 15
+zio7777: checks 
+*** FLOP *** [6c 3s 7s]
+Evi-Berlin: checks 
+zio7777: checks 
+lusope50: checks 
+ttwerpp: checks 
+*** TURN *** [6c 3s 7s] [5s]
+Evi-Berlin: checks 
+zio7777: bets 120
+lusope50: calls 120
+ttwerpp: folds 
+Evi-Berlin: calls 120
+*** RIVER *** [6c 3s 7s 5s] [Qs]
+Evi-Berlin: checks 
+zio7777: checks 
+lusope50: checks 
+*** SHOW DOWN ***
+Evi-Berlin: shows [9s Kh] (a flush, Queen high)
+zio7777: mucks hand 
+lusope50: mucks hand 
+Evi-Berlin collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [6c 3s 7s 5s Qs]
+Seat 1: ttwerpp (button) folded on the Turn
+Seat 4: Evi-Berlin (small blind) showed [9s Kh] and won (480) with a flush, Queen high
+Seat 5: zio7777 (big blind) mucked [3h 5d]
+Seat 6: Argentum736 folded before Flop (didn't bet)
+Seat 7: lusope50 mucked [8s 4s]
+Seat 9: TDV61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198960665973: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/04/05 17:54:37 ET
+Table '2578906764 2' 9-max Seat #4 is the button
+Seat 1: ttwerpp (4550 in chips) 
+Seat 4: Evi-Berlin (2670 in chips) 
+Seat 5: zio7777 (875 in chips) 
+Seat 6: Argentum736 (3390 in chips) 
+Seat 7: lusope50 (1480 in chips) 
+Seat 9: TDV61 (1560 in chips) 
+zio7777: posts small blind 15
+Argentum736: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Qd Ah]
+lusope50: calls 30
+TDV61: calls 30
+ttwerpp: raises 30 to 60
+Evi-Berlin: folds 
+zio7777: raises 90 to 150
+Argentum736: calls 120
+lusope50: calls 120
+TDV61: calls 120
+ttwerpp: raises 270 to 420
+zio7777: raises 455 to 875 and is all-in
+Argentum736: folds 
+lusope50: folds 
+TDV61: folds 
+ttwerpp: calls 455
+*** FLOP *** [As 8c 4h]
+*** TURN *** [As 8c 4h] [Ac]
+*** RIVER *** [As 8c 4h Ac] [4d]
+*** SHOW DOWN ***
+zio7777: shows [Qd Ah] (a full house, Aces full of Fours)
+ttwerpp: shows [9s 9h] (two pair, Aces and Nines)
+zio7777 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [As 8c 4h Ac 4d]
+Seat 1: ttwerpp showed [9s 9h] and lost with two pair, Aces and Nines
+Seat 4: Evi-Berlin (button) folded before Flop (didn't bet)
+Seat 5: zio7777 (small blind) showed [Qd Ah] and won (2200) with a full house, Aces full of Fours
+Seat 6: Argentum736 (big blind) folded before Flop
+Seat 7: lusope50 folded before Flop
+Seat 9: TDV61 folded before Flop
+
+
+
+PokerStars Hand #198960707980: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/05 17:55:51 ET
+Table '2578906764 2' 9-max Seat #5 is the button
+Seat 1: ttwerpp (3675 in chips) 
+Seat 4: Evi-Berlin (2670 in chips) 
+Seat 5: zio7777 (2200 in chips) 
+Seat 6: Argentum736 (3240 in chips) 
+Seat 7: lusope50 (1330 in chips) 
+Seat 9: TDV61 (1410 in chips) 
+Argentum736: posts small blind 25
+lusope50: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [5d Qd]
+TDV61: folds 
+ttwerpp: folds 
+Evi-Berlin: folds 
+zio7777: calls 50
+Argentum736: raises 100 to 150
+lusope50: calls 100
+zio7777: calls 100
+*** FLOP *** [4d 5c 9s]
+Argentum736: bets 100
+lusope50: calls 100
+zio7777: calls 100
+*** TURN *** [4d 5c 9s] [Qh]
+Argentum736: checks 
+lusope50: checks 
+zio7777: bets 350
+Argentum736: calls 350
+lusope50: folds 
+*** RIVER *** [4d 5c 9s Qh] [3c]
+Argentum736: checks 
+zio7777: bets 750
+Argentum736: raises 1890 to 2640 and is all-in
+zio7777: calls 850 and is all-in
+Uncalled bet (1040) returned to Argentum736
+*** SHOW DOWN ***
+Argentum736: shows [Qc 3h] (two pair, Queens and Threes)
+zio7777: shows [5d Qd] (two pair, Queens and Fives)
+zio7777 collected 4650 from pot
+*** SUMMARY ***
+Total pot 4650 | Rake 0 
+Board [4d 5c 9s Qh 3c]
+Seat 1: ttwerpp folded before Flop (didn't bet)
+Seat 4: Evi-Berlin folded before Flop (didn't bet)
+Seat 5: zio7777 (button) showed [5d Qd] and won (4650) with two pair, Queens and Fives
+Seat 6: Argentum736 (small blind) showed [Qc 3h] and lost with two pair, Queens and Threes
+Seat 7: lusope50 (big blind) folded on the Turn
+Seat 9: TDV61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198960750471: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/05 17:57:13 ET
+Table '2578906764 2' 9-max Seat #6 is the button
+Seat 1: ttwerpp (3675 in chips) 
+Seat 4: Evi-Berlin (2670 in chips) 
+Seat 5: zio7777 (4650 in chips) 
+Seat 6: Argentum736 (1040 in chips) 
+Seat 7: lusope50 (1080 in chips) 
+Seat 9: TDV61 (1410 in chips) 
+lusope50: posts small blind 25
+TDV61: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [Ah 6c]
+ttwerpp: folds 
+Evi-Berlin: calls 50
+zio7777: calls 50
+Argentum736: raises 100 to 150
+lusope50: calls 125
+TDV61: calls 100
+Evi-Berlin: calls 100
+zio7777: calls 100
+*** FLOP *** [Kd 8d 6d]
+lusope50: checks 
+TDV61: checks 
+Evi-Berlin: checks 
+zio7777: bets 101
+Argentum736: folds 
+lusope50: calls 101
+TDV61: folds 
+Evi-Berlin: calls 101
+*** TURN *** [Kd 8d 6d] [4h]
+lusope50: checks 
+Evi-Berlin: checks 
+zio7777: checks 
+*** RIVER *** [Kd 8d 6d 4h] [Ac]
+lusope50: bets 829 and is all-in
+Evi-Berlin: folds 
+zio7777: calls 829
+*** SHOW DOWN ***
+lusope50: shows [Qd Td] (a flush, King high)
+zio7777: shows [Ah 6c] (two pair, Aces and Sixes)
+lusope50 collected 2711 from pot
+*** SUMMARY ***
+Total pot 2711 | Rake 0 
+Board [Kd 8d 6d 4h Ac]
+Seat 1: ttwerpp folded before Flop (didn't bet)
+Seat 4: Evi-Berlin folded on the River
+Seat 5: zio7777 showed [Ah 6c] and lost with two pair, Aces and Sixes
+Seat 6: Argentum736 (button) folded on the Flop
+Seat 7: lusope50 (small blind) showed [Qd Td] and won (2711) with a flush, King high
+Seat 9: TDV61 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198960795579: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/05 17:58:39 ET
+Table '2578906764 2' 9-max Seat #7 is the button
+Seat 1: ttwerpp (3675 in chips) 
+Seat 4: Evi-Berlin (2419 in chips) 
+Seat 5: zio7777 (3570 in chips) 
+Seat 6: Argentum736 (890 in chips) 
+Seat 7: lusope50 (2711 in chips) 
+Seat 9: TDV61 (1260 in chips) 
+TDV61: posts small blind 25
+ttwerpp: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [Kc 3d]
+Evi-Berlin: folds 
+zio7777: folds 
+Argentum736: folds 
+lusope50: folds 
+TDV61: calls 25
+ttwerpp: checks 
+*** FLOP *** [5d 3h 9s]
+TDV61: checks 
+ttwerpp: bets 200
+TDV61: folds 
+Uncalled bet (200) returned to ttwerpp
+ttwerpp collected 100 from pot
+ttwerpp: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5d 3h 9s]
+Seat 1: ttwerpp (big blind) collected (100)
+Seat 4: Evi-Berlin folded before Flop (didn't bet)
+Seat 5: zio7777 folded before Flop (didn't bet)
+Seat 6: Argentum736 folded before Flop (didn't bet)
+Seat 7: lusope50 (button) folded before Flop (didn't bet)
+Seat 9: TDV61 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #198960811266: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/05 17:59:10 ET
+Table '2578906764 2' 9-max Seat #9 is the button
+Seat 1: ttwerpp (3725 in chips) 
+Seat 4: Evi-Berlin (2419 in chips) 
+Seat 5: zio7777 (3570 in chips) 
+Seat 6: Argentum736 (890 in chips) 
+Seat 7: lusope50 (2711 in chips) 
+Seat 9: TDV61 (1210 in chips) 
+ttwerpp: posts small blind 25
+Evi-Berlin: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [7d Qs]
+zio7777: folds 
+Argentum736: folds 
+lusope50: folds 
+TDV61: folds 
+ttwerpp: raises 50 to 100
+Evi-Berlin: calls 50
+*** FLOP *** [6d 6c 2c]
+ttwerpp: bets 200
+Evi-Berlin: folds 
+Uncalled bet (200) returned to ttwerpp
+ttwerpp collected 200 from pot
+ttwerpp: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6d 6c 2c]
+Seat 1: ttwerpp (small blind) collected (200)
+Seat 4: Evi-Berlin (big blind) folded on the Flop
+Seat 5: zio7777 folded before Flop (didn't bet)
+Seat 6: Argentum736 folded before Flop (didn't bet)
+Seat 7: lusope50 folded before Flop (didn't bet)
+Seat 9: TDV61 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198960825196: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/04/05 17:59:36 ET
+Table '2578906764 2' 9-max Seat #1 is the button
+Seat 1: ttwerpp (3825 in chips) 
+Seat 4: Evi-Berlin (2319 in chips) 
+Seat 5: zio7777 (3570 in chips) 
+Seat 6: Argentum736 (890 in chips) 
+Seat 7: lusope50 (2711 in chips) 
+Seat 9: TDV61 (1210 in chips) 
+Evi-Berlin: posts small blind 25
+zio7777: posts big blind 50
+*** HOLE CARDS ***
+Dealt to zio7777 [5s 9d]
+Argentum736: raises 100 to 150
+lusope50: folds 
+TDV61: calls 150
+ttwerpp: calls 150
+Evi-Berlin: folds 
+zio7777: calls 100
+*** FLOP *** [4c 3d 8d]
+zio7777: checks 
+Argentum736: checks 
+TDV61: bets 625
+ttwerpp: folds 
+zio7777: folds 
+Argentum736: raises 115 to 740 and is all-in
+TDV61: calls 115
+*** TURN *** [4c 3d 8d] [Jd]
+*** RIVER *** [4c 3d 8d Jd] [Ts]
+*** SHOW DOWN ***
+Argentum736: shows [8s 8h] (three of a kind, Eights)
+TDV61: shows [8c As] (a pair of Eights)
+Argentum736 collected 2105 from pot
+*** SUMMARY ***
+Total pot 2105 | Rake 0 
+Board [4c 3d 8d Jd Ts]
+Seat 1: ttwerpp (button) folded on the Flop
+Seat 4: Evi-Berlin (small blind) folded before Flop
+Seat 5: zio7777 (big blind) folded on the Flop
+Seat 6: Argentum736 showed [8s 8h] and won (2105) with three of a kind, Eights
+Seat 7: lusope50 folded before Flop (didn't bet)
+Seat 9: TDV61 showed [8c As] and lost with a pair of Eights
+
+
+
+PokerStars Hand #198960876282: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/04/05 18:01:10 ET
+Table '2578906764 2' 9-max Seat #4 is the button
+Seat 4: Evi-Berlin (2294 in chips) 
+Seat 5: zio7777 (3420 in chips) 
+Seat 6: Argentum736 (2105 in chips) 
+Seat 7: lusope50 (2711 in chips) 
+Seat 9: TDV61 (320 in chips) 
+zio7777: posts small blind 50
+Argentum736: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [5d Kd]
+lusope50: folds 
+TDV61: folds 
+Evi-Berlin: calls 100
+zio7777: calls 50
+Argentum736: checks 
+*** FLOP *** [9d 6h 7h]
+zio7777: checks 
+Argentum736: checks 
+Evi-Berlin: checks 
+*** TURN *** [9d 6h 7h] [5h]
+zio7777: bets 100
+Argentum736: calls 100
+Evi-Berlin: raises 100 to 200
+zio7777: folds 
+Argentum736: calls 100
+*** RIVER *** [9d 6h 7h 5h] [5s]
+Argentum736: checks 
+Evi-Berlin: bets 800
+Argentum736: folds 
+Uncalled bet (800) returned to Evi-Berlin
+Evi-Berlin collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [9d 6h 7h 5h 5s]
+Seat 4: Evi-Berlin (button) collected (800)
+Seat 5: zio7777 (small blind) folded on the Turn
+Seat 6: Argentum736 (big blind) folded on the River
+Seat 7: lusope50 folded before Flop (didn't bet)
+Seat 9: TDV61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198960909897: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/04/05 18:02:05 ET
+Table '2578906764 2' 9-max Seat #5 is the button
+Seat 4: Evi-Berlin (2794 in chips) 
+Seat 5: zio7777 (3220 in chips) 
+Seat 6: Argentum736 (1805 in chips) 
+Seat 7: lusope50 (2711 in chips) 
+Seat 9: TDV61 (320 in chips) 
+Argentum736: posts small blind 50
+lusope50: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [2h 3s]
+TDV61: folds 
+Evi-Berlin: folds 
+zio7777: calls 100
+Argentum736: folds 
+lusope50 has timed out
+lusope50: checks 
+*** FLOP *** [5d Qs 5c]
+lusope50 has timed out
+lusope50: checks 
+zio7777: checks 
+*** TURN *** [5d Qs 5c] [Js]
+lusope50: checks 
+zio7777: bets 200
+lusope50: folds 
+Uncalled bet (200) returned to zio7777
+zio7777 collected 250 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [5d Qs 5c Js]
+Seat 4: Evi-Berlin folded before Flop (didn't bet)
+Seat 5: zio7777 (button) collected (250)
+Seat 6: Argentum736 (small blind) folded before Flop
+Seat 7: lusope50 (big blind) folded on the Turn
+Seat 9: TDV61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198960976321: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/04/05 18:03:48 ET
+Table '2578906764 2' 9-max Seat #6 is the button
+Seat 4: Evi-Berlin (2794 in chips) 
+Seat 5: zio7777 (3370 in chips) 
+Seat 6: Argentum736 (1755 in chips) 
+Seat 7: lusope50 (2611 in chips) 
+Seat 9: TDV61 (320 in chips) 
+lusope50: posts small blind 50
+TDV61: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [8h 5d]
+Evi-Berlin: folds 
+zio7777: folds 
+Argentum736: folds 
+lusope50: folds 
+Uncalled bet (50) returned to TDV61
+TDV61 collected 100 from pot
+TDV61: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 4: Evi-Berlin folded before Flop (didn't bet)
+Seat 5: zio7777 folded before Flop (didn't bet)
+Seat 6: Argentum736 (button) folded before Flop (didn't bet)
+Seat 7: lusope50 (small blind) folded before Flop
+Seat 9: TDV61 (big blind) collected (100)
+
+
+
+PokerStars Hand #198960991430: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/04/05 18:04:11 ET
+Table '2578906764 2' 9-max Seat #7 is the button
+Seat 4: Evi-Berlin (2794 in chips) 
+Seat 5: zio7777 (3370 in chips) 
+Seat 6: Argentum736 (1755 in chips) 
+Seat 7: lusope50 (2561 in chips) 
+Seat 9: TDV61 (370 in chips) 
+TDV61: posts small blind 50
+Evi-Berlin: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [2h 2c]
+zio7777: calls 100
+Argentum736: raises 1655 to 1755 and is all-in
+lusope50: folds 
+TDV61: calls 320 and is all-in
+Evi-Berlin: folds 
+zio7777: folds 
+Uncalled bet (1385) returned to Argentum736
+*** FLOP *** [2s 6d Th]
+*** TURN *** [2s 6d Th] [Qs]
+*** RIVER *** [2s 6d Th Qs] [3d]
+*** SHOW DOWN ***
+TDV61: shows [Ks Jd] (high card King)
+Argentum736: shows [8c Ad] (high card Ace)
+Argentum736 collected 940 from pot
+TDV61 finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [2s 6d Th Qs 3d]
+Seat 4: Evi-Berlin (big blind) folded before Flop
+Seat 5: zio7777 folded before Flop
+Seat 6: Argentum736 showed [8c Ad] and won (940) with high card Ace
+Seat 7: lusope50 (button) folded before Flop (didn't bet)
+Seat 9: TDV61 (small blind) showed [Ks Jd] and lost with high card King
+
+
+
+PokerStars Hand #198961056509: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/04/05 18:05:52 ET
+Table '2578906764 1' 9-max Seat #1 is the button
+Seat 1: ttwerpp (2975 in chips) 
+Seat 2: lusope50 (2761 in chips) 
+Seat 3: HuronHolmes (4575 in chips) 
+Seat 4: BoiKid208 (3995 in chips) 
+Seat 5: 9042005 (1095 in chips) 
+Seat 6: Evi-Berlin (2594 in chips) 
+Seat 7: pipo100 (3410 in chips) 
+Seat 8: Argentum736 (2325 in chips) 
+Seat 9: zio7777 (3270 in chips) 
+lusope50: posts small blind 75
+HuronHolmes: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [7d 4s]
+BoiKid208: folds 
+9042005: calls 150
+Evi-Berlin: folds 
+pipo100: folds 
+Argentum736: raises 2175 to 2325 and is all-in
+zio7777: folds 
+ttwerpp: folds 
+lusope50: folds 
+HuronHolmes: folds 
+9042005: folds 
+Uncalled bet (2175) returned to Argentum736
+Argentum736 collected 525 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: ttwerpp (button) folded before Flop (didn't bet)
+Seat 2: lusope50 (small blind) folded before Flop
+Seat 3: HuronHolmes (big blind) folded before Flop
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 folded before Flop
+Seat 6: Evi-Berlin folded before Flop (didn't bet)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 collected (525)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961074571: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/04/05 18:06:20 ET
+Table '2578906764 1' 9-max Seat #2 is the button
+Seat 1: ttwerpp (2975 in chips) 
+Seat 2: lusope50 (2686 in chips) 
+Seat 3: HuronHolmes (4425 in chips) 
+Seat 4: BoiKid208 (3995 in chips) 
+Seat 5: 9042005 (945 in chips) 
+Seat 6: Evi-Berlin (2594 in chips) 
+Seat 7: pipo100 (3410 in chips) 
+Seat 8: Argentum736 (2700 in chips) 
+Seat 9: zio7777 (3270 in chips) 
+HuronHolmes: posts small blind 75
+BoiKid208: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Kh Th]
+9042005: calls 150
+Evi-Berlin: folds 
+pipo100: folds 
+Argentum736: folds 
+zio7777: calls 150
+ttwerpp: calls 150
+lusope50: folds 
+HuronHolmes: calls 75
+BoiKid208: checks 
+*** FLOP *** [8d Qs 5c]
+HuronHolmes: checks 
+BoiKid208: checks 
+9042005: bets 795 and is all-in
+zio7777: folds 
+ttwerpp: calls 795
+HuronHolmes: folds 
+BoiKid208: folds 
+*** TURN *** [8d Qs 5c] [7h]
+*** RIVER *** [8d Qs 5c 7h] [7c]
+*** SHOW DOWN ***
+9042005: shows [Qd Ah] (two pair, Queens and Sevens)
+ttwerpp: shows [Qh 5h] (two pair, Queens and Sevens - lower kicker)
+9042005 collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | Rake 0 
+Board [8d Qs 5c 7h 7c]
+Seat 1: ttwerpp showed [Qh 5h] and lost with two pair, Queens and Sevens
+Seat 2: lusope50 (button) folded before Flop (didn't bet)
+Seat 3: HuronHolmes (small blind) folded on the Flop
+Seat 4: BoiKid208 (big blind) folded on the Flop
+Seat 5: 9042005 showed [Qd Ah] and won (2340) with two pair, Queens and Sevens
+Seat 6: Evi-Berlin folded before Flop (didn't bet)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded on the Flop
+
+
+
+PokerStars Hand #198961109009: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/04/05 18:07:14 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 1: ttwerpp (2030 in chips) 
+Seat 2: lusope50 (2686 in chips) 
+Seat 3: HuronHolmes (4275 in chips) 
+Seat 4: BoiKid208 (3845 in chips) 
+Seat 5: 9042005 (2340 in chips) 
+Seat 6: Evi-Berlin (2594 in chips) 
+Seat 7: pipo100 (3410 in chips) 
+Seat 8: Argentum736 (2700 in chips) 
+Seat 9: zio7777 (3120 in chips) 
+BoiKid208: posts small blind 75
+9042005: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 8d]
+BoiKid208 said, "oof"
+Evi-Berlin: folds 
+pipo100: folds 
+Argentum736: raises 150 to 300
+zio7777: folds 
+ttwerpp: calls 300
+BoiKid208 said, "7777"
+lusope50 has timed out
+lusope50: folds 
+HuronHolmes: folds 
+BoiKid208: folds 
+zio7777 said, "my cat wants to wish you all a happy Friday night"
+9042005: calls 150
+*** FLOP *** [3c Jd Td]
+9042005: checks 
+Argentum736: checks 
+BoiKid208 said, ":)"
+ttwerpp: bets 1730 and is all-in
+9042005: folds 
+Argentum736: calls 1730
+*** TURN *** [3c Jd Td] [5d]
+*** RIVER *** [3c Jd Td 5d] [As]
+*** SHOW DOWN ***
+Argentum736: shows [7d Kd] (a flush, King high)
+ttwerpp: shows [8h 7s] (high card Ace)
+BoiKid208 said, "whats her/his name"
+Argentum736 collected 4435 from pot
+ttwerpp finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 4435 | Rake 0 
+Board [3c Jd Td 5d As]
+Seat 1: ttwerpp showed [8h 7s] and lost with high card Ace
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes (button) folded before Flop (didn't bet)
+Seat 4: BoiKid208 (small blind) folded before Flop
+Seat 5: 9042005 (big blind) folded on the Flop
+Seat 6: Evi-Berlin folded before Flop (didn't bet)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 showed [7d Kd] and won (4435) with a flush, King high
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961149391: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/04/05 18:08:17 ET
+Table '2578906764 1' 9-max Seat #4 is the button
+Seat 2: lusope50 (2686 in chips) is sitting out
+Seat 3: HuronHolmes (4275 in chips) 
+Seat 4: BoiKid208 (3770 in chips) 
+Seat 5: 9042005 (2040 in chips) 
+Seat 6: Evi-Berlin (2594 in chips) 
+Seat 7: pipo100 (3410 in chips) 
+Seat 8: Argentum736 (5105 in chips) 
+Seat 9: zio7777 (3120 in chips) 
+9042005: posts small blind 75
+Evi-Berlin: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [3h Ah]
+pipo100: folds 
+Argentum736: folds 
+zio7777: calls 150
+lusope50: folds 
+HuronHolmes: calls 150
+BoiKid208: folds 
+9042005: calls 75
+zio7777 said, "mario the cat"
+Evi-Berlin: checks 
+*** FLOP *** [5d As Kd]
+9042005: checks 
+Evi-Berlin: checks 
+zio7777: bets 475
+BoiKid208 said, "cool"
+HuronHolmes: folds 
+9042005: folds 
+Evi-Berlin: folds 
+Uncalled bet (475) returned to zio7777
+zio7777 collected 600 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [5d As Kd]
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded on the Flop
+Seat 4: BoiKid208 (button) folded before Flop (didn't bet)
+Seat 5: 9042005 (small blind) folded on the Flop
+Seat 6: Evi-Berlin (big blind) folded on the Flop
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 collected (600)
+
+
+
+PokerStars Hand #198961177331: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/04/05 18:09:02 ET
+Table '2578906764 1' 9-max Seat #5 is the button
+Seat 2: lusope50 (2686 in chips) is sitting out
+Seat 3: HuronHolmes (4125 in chips) 
+Seat 4: BoiKid208 (3770 in chips) 
+Seat 5: 9042005 (1890 in chips) 
+Seat 6: Evi-Berlin (2444 in chips) 
+Seat 7: pipo100 (3410 in chips) 
+Seat 8: Argentum736 (5105 in chips) 
+Seat 9: zio7777 (3570 in chips) 
+Evi-Berlin: posts small blind 75
+pipo100: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [6h Ts]
+Argentum736: folds 
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: calls 150
+BoiKid208: calls 150
+9042005: folds 
+Evi-Berlin: calls 75
+pipo100: checks 
+*** FLOP *** [Qc 3s Ks]
+Evi-Berlin: checks 
+pipo100: bets 150
+HuronHolmes: folds 
+BoiKid208: calls 150
+Evi-Berlin: folds 
+*** TURN *** [Qc 3s Ks] [5h]
+pipo100: bets 150
+BoiKid208: raises 250 to 400
+pipo100: calls 250
+*** RIVER *** [Qc 3s Ks 5h] [9h]
+pipo100: checks 
+BoiKid208: bets 750
+pipo100: calls 750
+*** SHOW DOWN ***
+BoiKid208: shows [Th Jh] (a straight, Nine to King)
+pipo100: mucks hand 
+BoiKid208 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Board [Qc 3s Ks 5h 9h]
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded on the Flop
+Seat 4: BoiKid208 showed [Th Jh] and won (3200) with a straight, Nine to King
+Seat 5: 9042005 (button) folded before Flop (didn't bet)
+Seat 6: Evi-Berlin (small blind) folded on the Flop
+Seat 7: pipo100 (big blind) mucked [4d Kh]
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961212665: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/04/05 18:09:59 ET
+Table '2578906764 1' 9-max Seat #6 is the button
+Seat 2: lusope50 (2686 in chips) 
+Seat 3: HuronHolmes (3975 in chips) 
+Seat 4: BoiKid208 (5520 in chips) 
+Seat 5: 9042005 (1890 in chips) 
+Seat 6: Evi-Berlin (2294 in chips) 
+Seat 7: pipo100 (1960 in chips) 
+Seat 8: Argentum736 (5105 in chips) 
+Seat 9: zio7777 (3570 in chips) 
+pipo100: posts small blind 75
+Argentum736: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 3h]
+zio7777: folds 
+lusope50: calls 150
+HuronHolmes: calls 150
+BoiKid208: calls 150
+9042005: folds 
+Evi-Berlin: calls 150
+pipo100: calls 75
+Argentum736: checks 
+*** FLOP *** [2c 8c 7c]
+pipo100: checks 
+Argentum736: checks 
+lusope50: checks 
+HuronHolmes: checks 
+BoiKid208: bets 150
+Evi-Berlin: calls 150
+pipo100: folds 
+Argentum736: folds 
+lusope50: calls 150
+HuronHolmes: raises 3625 to 3775
+BoiKid208: folds 
+Evi-Berlin: calls 1994 and is all-in
+lusope50: folds 
+Uncalled bet (1631) returned to HuronHolmes
+*** TURN *** [2c 8c 7c] [8h]
+*** RIVER *** [2c 8c 7c 8h] [2d]
+*** SHOW DOWN ***
+HuronHolmes: shows [7h 2h] (a full house, Deuces full of Eights)
+Evi-Berlin: shows [Kc 5c] (a flush, King high)
+HuronHolmes collected 5488 from pot
+Evi-Berlin finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 5488 | Rake 0 
+Board [2c 8c 7c 8h 2d]
+Seat 2: lusope50 folded on the Flop
+Seat 3: HuronHolmes showed [7h 2h] and won (5488) with a full house, Deuces full of Eights
+Seat 4: BoiKid208 folded on the Flop
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 6: Evi-Berlin (button) showed [Kc 5c] and lost with a flush, King high
+Seat 7: pipo100 (small blind) folded on the Flop
+Seat 8: Argentum736 (big blind) folded on the Flop
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961266524: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2019/04/05 18:11:24 ET
+Table '2578906764 1' 9-max Seat #7 is the button
+Seat 2: lusope50 (2386 in chips) 
+Seat 3: HuronHolmes (7169 in chips) 
+Seat 4: BoiKid208 (5220 in chips) 
+Seat 5: 9042005 (1890 in chips) 
+Seat 7: pipo100 (1810 in chips) 
+Seat 8: Argentum736 (4955 in chips) 
+Seat 9: zio7777 (3570 in chips) 
+Argentum736: posts small blind 100
+zio7777: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Qd Js]
+lusope50: folds 
+HuronHolmes: calls 200
+BoiKid208: raises 5020 to 5220 and is all-in
+9042005 has timed out
+9042005: folds 
+pipo100: folds 
+Argentum736: folds 
+zio7777: folds 
+HuronHolmes: folds 
+Uncalled bet (5020) returned to BoiKid208
+BoiKid208 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded before Flop
+Seat 4: BoiKid208 collected (700)
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 7: pipo100 (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) folded before Flop
+Seat 9: zio7777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198961295289: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2019/04/05 18:12:09 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 2: lusope50 (2386 in chips) 
+Seat 3: HuronHolmes (6969 in chips) 
+Seat 4: BoiKid208 (5720 in chips) 
+Seat 5: 9042005 (1890 in chips) is sitting out
+Seat 7: pipo100 (1810 in chips) 
+Seat 8: Argentum736 (4855 in chips) 
+Seat 9: zio7777 (3370 in chips) 
+zio7777: posts small blind 100
+lusope50: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [6c Jh]
+HuronHolmes: folds 
+BoiKid208: folds 
+9042005: folds 
+pipo100: folds 
+Argentum736: raises 400 to 600
+zio7777: folds 
+lusope50: folds 
+Uncalled bet (400) returned to Argentum736
+Argentum736 collected 500 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: lusope50 (big blind) folded before Flop
+Seat 3: HuronHolmes folded before Flop (didn't bet)
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 (button) collected (500)
+Seat 9: zio7777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198961309300: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2019/04/05 18:12:31 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 2: lusope50 (2186 in chips) 
+Seat 3: HuronHolmes (6969 in chips) 
+Seat 4: BoiKid208 (5720 in chips) 
+Seat 5: 9042005 (1890 in chips) is sitting out
+Seat 7: pipo100 (1810 in chips) 
+Seat 8: Argentum736 (5155 in chips) 
+Seat 9: zio7777 (3270 in chips) 
+lusope50: posts small blind 100
+HuronHolmes: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [2h Th]
+BoiKid208: folds 
+9042005: folds 
+pipo100: folds 
+Argentum736: raises 400 to 600
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: folds 
+Uncalled bet (400) returned to Argentum736
+Argentum736 collected 500 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: lusope50 (small blind) folded before Flop
+Seat 3: HuronHolmes (big blind) folded before Flop
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 collected (500)
+Seat 9: zio7777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961322016: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2019/04/05 18:12:51 ET
+Table '2578906764 1' 9-max Seat #2 is the button
+Seat 2: lusope50 (2086 in chips) 
+Seat 3: HuronHolmes (6769 in chips) 
+Seat 4: BoiKid208 (5720 in chips) 
+Seat 5: 9042005 (1890 in chips) is sitting out
+Seat 7: pipo100 (1810 in chips) 
+Seat 8: Argentum736 (5455 in chips) 
+Seat 9: zio7777 (3270 in chips) 
+HuronHolmes: posts small blind 100
+BoiKid208: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Td 3h]
+9042005: folds 
+pipo100: calls 200
+Argentum736: folds 
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: calls 100
+BoiKid208: checks 
+*** FLOP *** [Jd 7d As]
+HuronHolmes: checks 
+BoiKid208: checks 
+pipo100: checks 
+*** TURN *** [Jd 7d As] [6s]
+HuronHolmes: checks 
+BoiKid208: checks 
+pipo100: checks 
+*** RIVER *** [Jd 7d As 6s] [8s]
+HuronHolmes: checks 
+BoiKid208: checks 
+pipo100: checks 
+*** SHOW DOWN ***
+HuronHolmes: shows [9d 6d] (a pair of Sixes)
+BoiKid208: mucks hand 
+pipo100: shows [Ah Kh] (a pair of Aces)
+pipo100 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Jd 7d As 6s 8s]
+Seat 2: lusope50 (button) folded before Flop (didn't bet)
+Seat 3: HuronHolmes (small blind) showed [9d 6d] and lost with a pair of Sixes
+Seat 4: BoiKid208 (big blind) mucked [Qc 5h]
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 7: pipo100 showed [Ah Kh] and won (600) with a pair of Aces
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961365634: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2019/04/05 18:14:01 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 2: lusope50 (2086 in chips) 
+Seat 3: HuronHolmes (6569 in chips) 
+Seat 4: BoiKid208 (5520 in chips) 
+Seat 5: 9042005 (1890 in chips) 
+Seat 7: pipo100 (2210 in chips) 
+Seat 8: Argentum736 (5455 in chips) 
+Seat 9: zio7777 (3270 in chips) 
+BoiKid208: posts small blind 100
+9042005: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Td As]
+pipo100: folds 
+Argentum736: raises 200 to 400
+zio7777: raises 2870 to 3270 and is all-in
+lusope50: folds 
+HuronHolmes: folds 
+BoiKid208: folds 
+9042005: folds 
+Argentum736: folds 
+Uncalled bet (2870) returned to zio7777
+zio7777 collected 1100 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes (button) folded before Flop (didn't bet)
+Seat 4: BoiKid208 (small blind) folded before Flop
+Seat 5: 9042005 (big blind) folded before Flop
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 folded before Flop
+Seat 9: zio7777 collected (1100)
+
+
+
+PokerStars Hand #198961383754: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2019/04/05 18:14:30 ET
+Table '2578906764 1' 9-max Seat #4 is the button
+Seat 2: lusope50 (2086 in chips) 
+Seat 3: HuronHolmes (6569 in chips) 
+Seat 4: BoiKid208 (5420 in chips) 
+Seat 5: 9042005 (1690 in chips) 
+Seat 7: pipo100 (2210 in chips) 
+Seat 8: Argentum736 (5055 in chips) 
+Seat 9: zio7777 (3970 in chips) 
+9042005: posts small blind 100
+pipo100: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd 6s]
+Argentum736: folds 
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: calls 200
+BoiKid208: calls 200
+9042005: calls 100
+pipo100: checks 
+*** FLOP *** [7h 6h Js]
+9042005: checks 
+pipo100: checks 
+HuronHolmes: checks 
+BoiKid208: checks 
+*** TURN *** [7h 6h Js] [8h]
+9042005: checks 
+pipo100: checks 
+HuronHolmes: checks 
+BoiKid208: checks 
+*** RIVER *** [7h 6h Js 8h] [9d]
+9042005: bets 200
+pipo100: folds 
+HuronHolmes: calls 200
+BoiKid208: raises 600 to 800
+9042005: folds 
+HuronHolmes: folds 
+Uncalled bet (600) returned to BoiKid208
+BoiKid208 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [7h 6h Js 8h 9d]
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded on the River
+Seat 4: BoiKid208 (button) collected (1400)
+Seat 5: 9042005 (small blind) folded on the River
+Seat 7: pipo100 (big blind) folded on the River
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961437723: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2019/04/05 18:15:56 ET
+Table '2578906764 1' 9-max Seat #5 is the button
+Seat 2: lusope50 (2086 in chips) 
+Seat 3: HuronHolmes (6169 in chips) 
+Seat 4: BoiKid208 (6420 in chips) 
+Seat 5: 9042005 (1290 in chips) 
+Seat 7: pipo100 (2010 in chips) 
+Seat 8: Argentum736 (5055 in chips) 
+Seat 9: zio7777 (3970 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+pipo100: posts small blind 100
+Argentum736: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [7s Ts]
+zio7777: folds 
+lusope50 has timed out
+lusope50: folds 
+HuronHolmes: calls 200
+BoiKid208: folds 
+9042005: calls 200
+pipo100: calls 100
+Argentum736: checks 
+*** FLOP *** [4d 4s 5h]
+pipo100: checks 
+Argentum736: checks 
+HuronHolmes: checks 
+9042005: bets 200
+pipo100: folds 
+Argentum736: calls 200
+HuronHolmes: calls 200
+*** TURN *** [4d 4s 5h] [3c]
+Argentum736: checks 
+HuronHolmes: checks 
+9042005: bets 200
+Argentum736: calls 200
+HuronHolmes: calls 200
+*** RIVER *** [4d 4s 5h 3c] [Qc]
+Argentum736: checks 
+HuronHolmes: checks 
+9042005: checks 
+*** SHOW DOWN ***
+Argentum736: shows [6s 8h] (a pair of Fours)
+HuronHolmes: shows [Kh Jh] (a pair of Fours - King kicker)
+9042005: shows [7c 5d] (two pair, Fives and Fours)
+9042005 collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | Rake 0 
+Board [4d 4s 5h 3c Qc]
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes showed [Kh Jh] and lost with a pair of Fours
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 (button) showed [7c 5d] and won (2175) with two pair, Fives and Fours
+Seat 7: pipo100 (small blind) folded on the Flop
+Seat 8: Argentum736 (big blind) showed [6s 8h] and lost with a pair of Fours
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961486878: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2019/04/05 18:17:14 ET
+Table '2578906764 1' 9-max Seat #7 is the button
+Seat 2: lusope50 (2061 in chips) 
+Seat 3: HuronHolmes (5544 in chips) 
+Seat 4: BoiKid208 (6395 in chips) 
+Seat 5: 9042005 (2840 in chips) 
+Seat 7: pipo100 (1785 in chips) 
+Seat 8: Argentum736 (4430 in chips) 
+Seat 9: zio7777 (3945 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+Argentum736: posts small blind 100
+zio7777: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc Js]
+lusope50: folds 
+HuronHolmes: calls 200
+BoiKid208: calls 200
+9042005: calls 200
+pipo100: folds 
+Argentum736: calls 100
+zio7777: checks 
+*** FLOP *** [Ac Td 7c]
+Argentum736: checks 
+zio7777: checks 
+HuronHolmes: checks 
+BoiKid208: checks 
+9042005: checks 
+*** TURN *** [Ac Td 7c] [6c]
+Argentum736: checks 
+zio7777: bets 529
+HuronHolmes: calls 529
+BoiKid208: folds 
+9042005: folds 
+Argentum736: folds 
+*** RIVER *** [Ac Td 7c 6c] [6h]
+zio7777: checks 
+HuronHolmes: checks 
+*** SHOW DOWN ***
+zio7777: shows [Qc Js] (a pair of Sixes)
+HuronHolmes: shows [2s Kc] (a pair of Sixes - Ace+King kicker)
+HuronHolmes collected 2233 from pot
+*** SUMMARY ***
+Total pot 2233 | Rake 0 
+Board [Ac Td 7c 6c 6h]
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes showed [2s Kc] and won (2233) with a pair of Sixes
+Seat 4: BoiKid208 folded on the Turn
+Seat 5: 9042005 folded on the Turn
+Seat 7: pipo100 (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) folded on the Turn
+Seat 9: zio7777 (big blind) showed [Qc Js] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #198961536456: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2019/04/05 18:18:34 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 2: lusope50 (2036 in chips) 
+Seat 3: HuronHolmes (7023 in chips) 
+Seat 4: BoiKid208 (6170 in chips) 
+Seat 5: 9042005 (2615 in chips) 
+Seat 7: pipo100 (1760 in chips) 
+Seat 8: Argentum736 (4205 in chips) 
+Seat 9: zio7777 (3191 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+zio7777: posts small blind 100
+lusope50: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Qs 6h]
+BoiKid208 said, "wow"
+HuronHolmes: calls 200
+BoiKid208: folds 
+9042005: folds 
+pipo100: folds 
+Argentum736: folds 
+zio7777: calls 100
+lusope50: checks 
+*** FLOP *** [8s 5c Qc]
+zio7777: checks 
+lusope50: checks 
+HuronHolmes: checks 
+*** TURN *** [8s 5c Qc] [Ah]
+zio7777: checks 
+lusope50: checks 
+HuronHolmes: bets 375
+zio7777: folds 
+lusope50: folds 
+Uncalled bet (375) returned to HuronHolmes
+HuronHolmes collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [8s 5c Qc Ah]
+Seat 2: lusope50 (big blind) folded on the Turn
+Seat 3: HuronHolmes collected (775)
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 (button) folded before Flop (didn't bet)
+Seat 9: zio7777 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #198961584418: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2019/04/05 18:19:46 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 2: lusope50 (1811 in chips) 
+Seat 3: HuronHolmes (7573 in chips) 
+Seat 4: BoiKid208 (6145 in chips) 
+Seat 5: 9042005 (2590 in chips) 
+Seat 7: pipo100 (1735 in chips) 
+Seat 8: Argentum736 (4180 in chips) 
+Seat 9: zio7777 (2966 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+lusope50: posts small blind 100
+HuronHolmes: posts big blind 200
+*** HOLE CARDS ***
+Dealt to zio7777 [Jh 8h]
+BoiKid208: folds 
+9042005: calls 200
+pipo100: folds 
+Argentum736: raises 400 to 600
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: folds 
+9042005: calls 400
+*** FLOP *** [7c 5c 9h]
+9042005: checks 
+Argentum736: bets 400
+9042005: calls 400
+*** TURN *** [7c 5c 9h] [6s]
+9042005: checks 
+Argentum736: bets 600
+9042005: calls 600
+*** RIVER *** [7c 5c 9h 6s] [7h]
+9042005: checks 
+Argentum736: bets 2555 and is all-in
+9042005: folds 
+Uncalled bet (2555) returned to Argentum736
+Argentum736 collected 3675 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 3675 | Rake 0 
+Board [7c 5c 9h 6s 7h]
+Seat 2: lusope50 (small blind) folded before Flop
+Seat 3: HuronHolmes (big blind) folded before Flop
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 folded on the River
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 collected (3675)
+Seat 9: zio7777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961634628: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VIII (200/400) - 2019/04/05 18:21:07 ET
+Table '2578906764 1' 9-max Seat #2 is the button
+Seat 2: lusope50 (1686 in chips) 
+Seat 3: HuronHolmes (7348 in chips) 
+Seat 4: BoiKid208 (6120 in chips) 
+Seat 5: 9042005 (965 in chips) 
+Seat 7: pipo100 (1710 in chips) 
+Seat 8: Argentum736 (6230 in chips) 
+Seat 9: zio7777 (2941 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+HuronHolmes: posts small blind 200
+BoiKid208: posts big blind 400
+*** HOLE CARDS ***
+Dealt to zio7777 [7d 5s]
+9042005: folds 
+pipo100: folds 
+Argentum736: folds 
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: calls 200
+BoiKid208: raises 5695 to 6095 and is all-in
+HuronHolmes: folds 
+Uncalled bet (5695) returned to BoiKid208
+BoiKid208 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Seat 2: lusope50 (button) folded before Flop (didn't bet)
+Seat 3: HuronHolmes (small blind) folded before Flop
+Seat 4: BoiKid208 (big blind) collected (975)
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961653601: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VIII (200/400) - 2019/04/05 18:21:38 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 2: lusope50 (1661 in chips) 
+Seat 3: HuronHolmes (6923 in chips) 
+Seat 4: BoiKid208 (6670 in chips) 
+Seat 5: 9042005 (940 in chips) 
+Seat 7: pipo100 (1685 in chips) 
+Seat 8: Argentum736 (6205 in chips) 
+Seat 9: zio7777 (2916 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+BoiKid208: posts small blind 200
+9042005: posts big blind 400
+*** HOLE CARDS ***
+Dealt to zio7777 [8s 3c]
+pipo100 has timed out
+pipo100: folds 
+Argentum736: folds 
+zio7777: folds 
+lusope50 has timed out
+lusope50: folds 
+HuronHolmes: folds 
+BoiKid208: folds 
+Uncalled bet (200) returned to 9042005
+9042005 collected 575 from pot
+9042005: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes (button) folded before Flop (didn't bet)
+Seat 4: BoiKid208 (small blind) folded before Flop
+Seat 5: 9042005 (big blind) collected (575)
+Seat 7: pipo100 folded before Flop (didn't bet)
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961689527: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VIII (200/400) - 2019/04/05 18:22:36 ET
+Table '2578906764 1' 9-max Seat #4 is the button
+Seat 2: lusope50 (1636 in chips) is sitting out
+Seat 3: HuronHolmes (6898 in chips) 
+Seat 4: BoiKid208 (6445 in chips) 
+Seat 5: 9042005 (1290 in chips) 
+Seat 7: pipo100 (1660 in chips) 
+Seat 8: Argentum736 (6180 in chips) 
+Seat 9: zio7777 (2891 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+9042005: posts small blind 200
+pipo100: posts big blind 400
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 4h]
+Argentum736: folds 
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: folds 
+BoiKid208 has timed out
+BoiKid208: folds 
+9042005: calls 200
+pipo100: checks 
+*** FLOP *** [Jd 2d 2s]
+9042005: checks 
+pipo100: bets 1235 and is all-in
+9042005: folds 
+Uncalled bet (1235) returned to pipo100
+pipo100 collected 975 from pot
+pipo100: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [Jd 2d 2s]
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded before Flop (didn't bet)
+Seat 4: BoiKid208 (button) folded before Flop (didn't bet)
+Seat 5: 9042005 (small blind) folded on the Flop
+Seat 7: pipo100 (big blind) collected (975)
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961723877: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VIII (200/400) - 2019/04/05 18:23:32 ET
+Table '2578906764 1' 9-max Seat #5 is the button
+Seat 2: lusope50 (1611 in chips) 
+Seat 3: HuronHolmes (6873 in chips) 
+Seat 4: BoiKid208 (6420 in chips) is sitting out
+Seat 5: 9042005 (865 in chips) 
+Seat 7: pipo100 (2210 in chips) 
+Seat 8: Argentum736 (6155 in chips) 
+Seat 9: zio7777 (2866 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+pipo100: posts small blind 200
+Argentum736: posts big blind 400
+*** HOLE CARDS ***
+Dealt to zio7777 [5c Qh]
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: calls 400
+BoiKid208: folds 
+9042005: folds 
+pipo100: folds 
+Argentum736: checks 
+*** FLOP *** [Qc 2h 3h]
+Argentum736: bets 800
+HuronHolmes: calls 800
+*** TURN *** [Qc 2h 3h] [Js]
+Argentum736: bets 800
+HuronHolmes: calls 800
+*** RIVER *** [Qc 2h 3h Js] [3c]
+Argentum736: bets 1200
+HuronHolmes: folds 
+Uncalled bet (1200) returned to Argentum736
+Argentum736 collected 4375 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 4375 | Rake 0 
+Board [Qc 2h 3h Js 3c]
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded on the River
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 (button) folded before Flop (didn't bet)
+Seat 7: pipo100 (small blind) folded before Flop
+Seat 8: Argentum736 (big blind) collected (4375)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961759763: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level VIII (200/400) - 2019/04/05 18:24:31 ET
+Table '2578906764 1' 9-max Seat #7 is the button
+Seat 2: lusope50 (1586 in chips) 
+Seat 3: HuronHolmes (4848 in chips) 
+Seat 4: BoiKid208 (6395 in chips) is sitting out
+Seat 5: 9042005 (840 in chips) 
+Seat 7: pipo100 (1985 in chips) 
+Seat 8: Argentum736 (8505 in chips) 
+Seat 9: zio7777 (2841 in chips) 
+lusope50: posts the ante 25
+HuronHolmes: posts the ante 25
+BoiKid208: posts the ante 25
+9042005: posts the ante 25
+pipo100: posts the ante 25
+Argentum736: posts the ante 25
+zio7777: posts the ante 25
+Argentum736: posts small blind 200
+zio7777: posts big blind 400
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd Kh]
+lusope50: folds 
+HuronHolmes: folds 
+BoiKid208: folds 
+9042005: folds 
+pipo100: folds 
+Argentum736: raises 800 to 1200
+zio7777: raises 1616 to 2816 and is all-in
+Argentum736: folds 
+Uncalled bet (1616) returned to zio7777
+zio7777 collected 2575 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 2575 | Rake 0 
+Seat 2: lusope50 folded before Flop (didn't bet)
+Seat 3: HuronHolmes folded before Flop (didn't bet)
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 7: pipo100 (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) folded before Flop
+Seat 9: zio7777 (big blind) collected (2575)
+
+
+
+PokerStars Hand #198961799545: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IX (300/600) - 2019/04/05 18:25:36 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 2: lusope50 (1561 in chips) 
+Seat 3: HuronHolmes (4823 in chips) 
+Seat 4: BoiKid208 (6370 in chips) is sitting out
+Seat 5: 9042005 (815 in chips) 
+Seat 7: pipo100 (1960 in chips) 
+Seat 8: Argentum736 (7280 in chips) 
+Seat 9: zio7777 (4191 in chips) 
+lusope50: posts the ante 50
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+9042005: posts the ante 50
+pipo100: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+zio7777: posts small blind 300
+lusope50: posts big blind 600
+*** HOLE CARDS ***
+Dealt to zio7777 [7s 6c]
+HuronHolmes: calls 600
+BoiKid208: folds 
+9042005: folds 
+pipo100: calls 600
+Argentum736: calls 600
+zio7777: calls 300
+lusope50: checks 
+*** FLOP *** [As 2c 6h]
+zio7777: bets 600
+lusope50: folds 
+HuronHolmes: folds 
+pipo100: calls 600
+Argentum736: folds 
+*** TURN *** [As 2c 6h] [Ts]
+zio7777: bets 1200
+pipo100: folds 
+Uncalled bet (1200) returned to zio7777
+zio7777 collected 4550 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 4550 | Rake 0 
+Board [As 2c 6h Ts]
+Seat 2: lusope50 (big blind) folded on the Flop
+Seat 3: HuronHolmes folded on the Flop
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 folded before Flop (didn't bet)
+Seat 7: pipo100 folded on the Turn
+Seat 8: Argentum736 (button) folded on the Flop
+Seat 9: zio7777 (small blind) collected (4550)
+
+
+
+PokerStars Hand #198961843391: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IX (300/600) - 2019/04/05 18:26:48 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 2: lusope50 (911 in chips) 
+Seat 3: HuronHolmes (4173 in chips) 
+Seat 4: BoiKid208 (6320 in chips) is sitting out
+Seat 5: 9042005 (765 in chips) 
+Seat 7: pipo100 (710 in chips) 
+Seat 8: Argentum736 (6630 in chips) 
+Seat 9: zio7777 (7491 in chips) 
+lusope50: posts the ante 50
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+9042005: posts the ante 50
+pipo100: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+lusope50: posts small blind 300
+HuronHolmes: posts big blind 600
+*** HOLE CARDS ***
+Dealt to zio7777 [9h 7s]
+BoiKid208: folds 
+9042005: calls 600
+pipo100: raises 60 to 660 and is all-in
+Argentum736: folds 
+zio7777: folds 
+lusope50: calls 360
+HuronHolmes: calls 60
+9042005: calls 60
+*** FLOP *** [Ts Ah 4s]
+lusope50: checks 
+HuronHolmes: checks 
+9042005: bets 55 and is all-in
+lusope50: folds 
+HuronHolmes: calls 55
+*** TURN *** [Ts Ah 4s] [Jd]
+*** RIVER *** [Ts Ah 4s Jd] [Ad]
+*** SHOW DOWN ***
+HuronHolmes: shows [9d 4c] (two pair, Aces and Fours)
+9042005: shows [As Jc] (a full house, Aces full of Jacks)
+9042005 collected 110 from side pot
+pipo100: shows [Ac 8s] (three of a kind, Aces)
+9042005 collected 2990 from main pot
+pipo100 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 3100 Main pot 2990. Side pot 110. | Rake 0 
+Board [Ts Ah 4s Jd Ad]
+Seat 2: lusope50 (small blind) folded on the Flop
+Seat 3: HuronHolmes (big blind) showed [9d 4c] and lost with two pair, Aces and Fours
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 showed [As Jc] and won (3100) with a full house, Aces full of Jacks
+Seat 7: pipo100 showed [Ac 8s] and lost with three of a kind, Aces
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961870039: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IX (300/600) - 2019/04/05 18:27:32 ET
+Table '2578906764 1' 9-max Seat #2 is the button
+Seat 2: lusope50 (201 in chips) 
+Seat 3: HuronHolmes (3408 in chips) 
+Seat 4: BoiKid208 (6270 in chips) is sitting out
+Seat 5: 9042005 (3100 in chips) 
+Seat 8: Argentum736 (6580 in chips) 
+Seat 9: zio7777 (7441 in chips) 
+lusope50: posts the ante 50
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+9042005: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+HuronHolmes: posts small blind 300
+BoiKid208: posts big blind 600
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd 7s]
+9042005: calls 600
+Argentum736: folds 
+zio7777: folds 
+lusope50: folds 
+HuronHolmes: calls 300
+BoiKid208: folds 
+*** FLOP *** [3d 9h Tc]
+HuronHolmes: checks 
+9042005: bets 600
+HuronHolmes: raises 1875 to 2475
+9042005: folds 
+Uncalled bet (1875) returned to HuronHolmes
+HuronHolmes collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [3d 9h Tc]
+Seat 2: lusope50 (button) folded before Flop (didn't bet)
+Seat 3: HuronHolmes (small blind) collected (3300)
+Seat 4: BoiKid208 (big blind) folded before Flop
+Seat 5: 9042005 folded on the Flop
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961893390: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IX (300/600) - 2019/04/05 18:28:11 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 2: lusope50 (151 in chips) 
+Seat 3: HuronHolmes (5458 in chips) 
+Seat 4: BoiKid208 (5620 in chips) is sitting out
+Seat 5: 9042005 (1850 in chips) 
+Seat 8: Argentum736 (6530 in chips) 
+Seat 9: zio7777 (7391 in chips) 
+lusope50: posts the ante 50
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+9042005: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+BoiKid208: posts small blind 300
+9042005: posts big blind 600
+*** HOLE CARDS ***
+Dealt to zio7777 [5d 6c]
+Argentum736: folds 
+zio7777: folds 
+lusope50: calls 101 and is all-in
+HuronHolmes: calls 600
+BoiKid208: folds 
+9042005: checks 
+*** FLOP *** [Jc Kc 7c]
+9042005: checks 
+HuronHolmes: checks 
+*** TURN *** [Jc Kc 7c] [5h]
+9042005: checks 
+HuronHolmes: checks 
+*** RIVER *** [Jc Kc 7c 5h] [2c]
+9042005: bets 600
+HuronHolmes: folds 
+Uncalled bet (600) returned to 9042005
+*** SHOW DOWN ***
+9042005: shows [8h Ac] (a flush, Ace high)
+9042005 collected 1197 from side pot
+lusope50: shows [8d 7h] (a pair of Sevens)
+9042005 collected 704 from main pot
+lusope50 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1901 Main pot 704. Side pot 1197. | Rake 0 
+Board [Jc Kc 7c 5h 2c]
+Seat 2: lusope50 showed [8d 7h] and lost with a pair of Sevens
+Seat 3: HuronHolmes (button) folded on the River
+Seat 4: BoiKid208 (small blind) folded before Flop
+Seat 5: 9042005 (big blind) showed [8h Ac] and won (1901) with a flush, Ace high
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961920322: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IX (300/600) - 2019/04/05 18:28:56 ET
+Table '2578906764 1' 9-max Seat #4 is the button
+Seat 3: HuronHolmes (4808 in chips) 
+Seat 4: BoiKid208 (5270 in chips) is sitting out
+Seat 5: 9042005 (3101 in chips) 
+Seat 8: Argentum736 (6480 in chips) 
+Seat 9: zio7777 (7341 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+9042005: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+9042005: posts small blind 300
+Argentum736: posts big blind 600
+*** HOLE CARDS ***
+Dealt to zio7777 [5c 4c]
+zio7777: folds 
+HuronHolmes: calls 600
+BoiKid208: folds 
+9042005: calls 300
+Argentum736: checks 
+*** FLOP *** [9h 5d 2h]
+9042005: checks 
+Argentum736: bets 600
+HuronHolmes: raises 3475 to 4075
+9042005: folds 
+Argentum736: folds 
+Uncalled bet (3475) returned to HuronHolmes
+HuronHolmes collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | Rake 0 
+Board [9h 5d 2h]
+Seat 3: HuronHolmes collected (3250)
+Seat 4: BoiKid208 (button) folded before Flop (didn't bet)
+Seat 5: 9042005 (small blind) folded on the Flop
+Seat 8: Argentum736 (big blind) folded on the Flop
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961939655: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IX (300/600) - 2019/04/05 18:29:28 ET
+Table '2578906764 1' 9-max Seat #5 is the button
+Seat 3: HuronHolmes (6808 in chips) 
+Seat 4: BoiKid208 (5220 in chips) is sitting out
+Seat 5: 9042005 (2451 in chips) 
+Seat 8: Argentum736 (5230 in chips) 
+Seat 9: zio7777 (7291 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+9042005: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+Argentum736: posts small blind 300
+zio7777: posts big blind 600
+*** HOLE CARDS ***
+Dealt to zio7777 [7s Ac]
+HuronHolmes: calls 600
+BoiKid208: folds 
+9042005: folds 
+Argentum736: calls 300
+zio7777: raises 6641 to 7241 and is all-in
+HuronHolmes: folds 
+Argentum736: folds 
+Uncalled bet (6641) returned to zio7777
+zio7777 collected 2050 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 2050 | Rake 0 
+Seat 3: HuronHolmes folded before Flop
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) folded before Flop
+Seat 9: zio7777 (big blind) collected (2050)
+
+
+
+PokerStars Hand #198961951333: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level IX (300/600) - 2019/04/05 18:29:48 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 3: HuronHolmes (6158 in chips) 
+Seat 4: BoiKid208 (5170 in chips) is sitting out
+Seat 5: 9042005 (2401 in chips) 
+Seat 8: Argentum736 (4580 in chips) 
+Seat 9: zio7777 (8691 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+9042005: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+zio7777: posts small blind 300
+HuronHolmes: posts big blind 600
+*** HOLE CARDS ***
+Dealt to zio7777 [7h Ad]
+BoiKid208: folds 
+9042005: calls 600
+Argentum736: raises 1200 to 1800
+zio7777: folds 
+HuronHolmes: folds 
+9042005: folds 
+Uncalled bet (1200) returned to Argentum736
+Argentum736 collected 2350 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 2350 | Rake 0 
+Seat 3: HuronHolmes (big blind) folded before Flop
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 5: 9042005 folded before Flop
+Seat 8: Argentum736 (button) collected (2350)
+Seat 9: zio7777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198961969712: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:30:18 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 3: HuronHolmes (5508 in chips) 
+Seat 4: BoiKid208 (5120 in chips) is sitting out
+Seat 5: 9042005 (1751 in chips) 
+Seat 8: Argentum736 (6280 in chips) 
+Seat 9: zio7777 (8341 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+9042005: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+HuronHolmes: posts small blind 400
+BoiKid208: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [Ts Tc]
+9042005: calls 800
+Argentum736: raises 800 to 1600
+zio7777: raises 6691 to 8291 and is all-in
+HuronHolmes: folds 
+BoiKid208: folds 
+9042005: calls 901 and is all-in
+Argentum736: folds 
+Uncalled bet (6590) returned to zio7777
+*** FLOP *** [9s 7h 6s]
+*** TURN *** [9s 7h 6s] [4d]
+*** RIVER *** [9s 7h 6s 4d] [Qh]
+*** SHOW DOWN ***
+9042005: shows [8h Ac] (high card Ace)
+zio7777: shows [Ts Tc] (a pair of Tens)
+zio7777 collected 6452 from pot
+9042005 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 6452 | Rake 0 
+Board [9s 7h 6s 4d Qh]
+Seat 3: HuronHolmes (small blind) folded before Flop
+Seat 4: BoiKid208 (big blind) folded before Flop
+Seat 5: 9042005 showed [8h Ac] and lost with high card Ace
+Seat 8: Argentum736 folded before Flop
+Seat 9: zio7777 (button) showed [Ts Tc] and won (6452) with a pair of Tens
+
+
+
+PokerStars Hand #198961987942: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:30:48 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 3: HuronHolmes (5058 in chips) 
+Seat 4: BoiKid208 (4270 in chips) is sitting out
+Seat 8: Argentum736 (4630 in chips) 
+Seat 9: zio7777 (13042 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+BoiKid208: posts small blind 400
+Argentum736: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [2s Jc]
+zio7777: folds 
+HuronHolmes: folds 
+BoiKid208: folds 
+Uncalled bet (400) returned to Argentum736
+Argentum736 collected 1000 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 3: HuronHolmes (button) folded before Flop (didn't bet)
+Seat 4: BoiKid208 (small blind) folded before Flop
+Seat 8: Argentum736 (big blind) collected (1000)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198961992704: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:30:56 ET
+Table '2578906764 1' 9-max Seat #4 is the button
+Seat 3: HuronHolmes (5008 in chips) 
+Seat 4: BoiKid208 (3820 in chips) is sitting out
+Seat 8: Argentum736 (5180 in chips) 
+Seat 9: zio7777 (12992 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+Argentum736: posts small blind 400
+zio7777: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [5h 9c]
+HuronHolmes: calls 800
+BoiKid208: folds 
+Argentum736: calls 400
+zio7777: checks 
+*** FLOP *** [3s 2s Qs]
+Argentum736: bets 800
+zio7777: folds 
+HuronHolmes: folds 
+Uncalled bet (800) returned to Argentum736
+Argentum736 collected 2600 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Board [3s 2s Qs]
+Seat 3: HuronHolmes folded on the Flop
+Seat 4: BoiKid208 (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) collected (2600)
+Seat 9: zio7777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198962008422: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:31:22 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 3: HuronHolmes (4158 in chips) 
+Seat 4: BoiKid208 (3770 in chips) is sitting out
+Seat 8: Argentum736 (6930 in chips) 
+Seat 9: zio7777 (12142 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+zio7777: posts small blind 400
+HuronHolmes: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [Kh 5d]
+BoiKid208: folds 
+Argentum736: folds 
+zio7777: raises 800 to 1600
+HuronHolmes: raises 2475 to 4075
+zio7777: raises 2475 to 6550
+HuronHolmes: calls 33 and is all-in
+Uncalled bet (2442) returned to zio7777
+*** FLOP *** [8d 8s Qc]
+*** TURN *** [8d 8s Qc] [9d]
+*** RIVER *** [8d 8s Qc 9d] [Td]
+*** SHOW DOWN ***
+zio7777: shows [Kh 5d] (a pair of Eights)
+HuronHolmes: shows [7h Qs] (two pair, Queens and Eights)
+HuronHolmes collected 8416 from pot
+*** SUMMARY ***
+Total pot 8416 | Rake 0 
+Board [8d 8s Qc 9d Td]
+Seat 3: HuronHolmes (big blind) showed [7h Qs] and won (8416) with two pair, Queens and Eights
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 8: Argentum736 (button) folded before Flop (didn't bet)
+Seat 9: zio7777 (small blind) showed [Kh 5d] and lost with a pair of Eights
+
+
+
+PokerStars Hand #198962029487: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:31:57 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 3: HuronHolmes (8416 in chips) 
+Seat 4: BoiKid208 (3720 in chips) is sitting out
+Seat 8: Argentum736 (6880 in chips) 
+Seat 9: zio7777 (7984 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+HuronHolmes: posts small blind 400
+BoiKid208: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [8c Ad]
+Argentum736: raises 800 to 1600
+zio7777: folds 
+HuronHolmes: calls 1200
+BoiKid208: folds 
+*** FLOP *** [3c 3h 8h]
+HuronHolmes: checks 
+Argentum736: bets 800
+HuronHolmes: folds 
+Uncalled bet (800) returned to Argentum736
+Argentum736 collected 4200 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [3c 3h 8h]
+Seat 3: HuronHolmes (small blind) folded on the Flop
+Seat 4: BoiKid208 (big blind) folded before Flop
+Seat 8: Argentum736 collected (4200)
+Seat 9: zio7777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198962048514: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:32:29 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 3: HuronHolmes (6766 in chips) 
+Seat 4: BoiKid208 (2870 in chips) is sitting out
+Seat 8: Argentum736 (9430 in chips) 
+Seat 9: zio7777 (7934 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+BoiKid208: posts small blind 400
+Argentum736: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad Ac]
+zio7777: calls 800
+HuronHolmes: calls 800
+BoiKid208: folds 
+Argentum736: checks 
+*** FLOP *** [Js 2s 3s]
+Argentum736: checks 
+zio7777: bets 1500
+HuronHolmes: folds 
+Argentum736: folds 
+Uncalled bet (1500) returned to zio7777
+zio7777 collected 3000 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Board [Js 2s 3s]
+Seat 3: HuronHolmes (button) folded on the Flop
+Seat 4: BoiKid208 (small blind) folded before Flop
+Seat 8: Argentum736 (big blind) folded on the Flop
+Seat 9: zio7777 collected (3000)
+
+
+
+PokerStars Hand #198962062696: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:32:52 ET
+Table '2578906764 1' 9-max Seat #4 is the button
+Seat 3: HuronHolmes (5916 in chips) 
+Seat 4: BoiKid208 (2420 in chips) is sitting out
+Seat 8: Argentum736 (8580 in chips) 
+Seat 9: zio7777 (10084 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+Argentum736: posts small blind 400
+zio7777: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [7h Ad]
+HuronHolmes: folds 
+BoiKid208: folds 
+Argentum736: calls 400
+zio7777: raises 9234 to 10034 and is all-in
+Argentum736: folds 
+Uncalled bet (9234) returned to zio7777
+zio7777 collected 1800 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Seat 3: HuronHolmes folded before Flop (didn't bet)
+Seat 4: BoiKid208 (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) folded before Flop
+Seat 9: zio7777 (big blind) collected (1800)
+
+
+
+PokerStars Hand #198962073689: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:33:11 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 3: HuronHolmes (5866 in chips) 
+Seat 4: BoiKid208 (2370 in chips) is sitting out
+Seat 8: Argentum736 (7730 in chips) 
+Seat 9: zio7777 (11034 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+zio7777: posts small blind 400
+HuronHolmes: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [4h Ac]
+BoiKid208: folds 
+Argentum736: raises 800 to 1600
+zio7777: raises 9384 to 10984 and is all-in
+HuronHolmes: folds 
+Argentum736: folds 
+Uncalled bet (9384) returned to zio7777
+zio7777 collected 4200 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 3: HuronHolmes (big blind) folded before Flop
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 8: Argentum736 (button) folded before Flop
+Seat 9: zio7777 (small blind) collected (4200)
+
+
+
+PokerStars Hand #198962084313: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:33:29 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 3: HuronHolmes (5016 in chips) 
+Seat 4: BoiKid208 (2320 in chips) is sitting out
+Seat 8: Argentum736 (6080 in chips) 
+Seat 9: zio7777 (13584 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+HuronHolmes: posts small blind 400
+BoiKid208: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [Qs 5c]
+Argentum736: folds 
+zio7777: calls 800
+HuronHolmes: folds 
+BoiKid208: folds 
+zio7777 collected 2200 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 3: HuronHolmes (small blind) folded before Flop
+Seat 4: BoiKid208 (big blind) folded before Flop
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 (button) collected (2200)
+
+
+
+PokerStars Hand #198962092058: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:33:41 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 3: HuronHolmes (4566 in chips) 
+Seat 4: BoiKid208 (1470 in chips) is sitting out
+Seat 8: Argentum736 (6030 in chips) 
+Seat 9: zio7777 (14934 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+BoiKid208: posts small blind 400
+Argentum736: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [5h Jh]
+zio7777: folds 
+HuronHolmes: folds 
+BoiKid208: folds 
+Uncalled bet (400) returned to Argentum736
+Argentum736 collected 1000 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 3: HuronHolmes (button) folded before Flop (didn't bet)
+Seat 4: BoiKid208 (small blind) folded before Flop
+Seat 8: Argentum736 (big blind) collected (1000)
+Seat 9: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198962096990: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:33:49 ET
+Table '2578906764 1' 9-max Seat #4 is the button
+Seat 3: HuronHolmes (4516 in chips) 
+Seat 4: BoiKid208 (1020 in chips) is sitting out
+Seat 8: Argentum736 (6580 in chips) 
+Seat 9: zio7777 (14884 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+Argentum736: posts small blind 400
+zio7777: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 9c]
+HuronHolmes: calls 800
+BoiKid208: folds 
+Argentum736: calls 400
+zio7777: checks 
+*** FLOP *** [As Jc 7c]
+Argentum736: checks 
+zio7777: bets 800
+HuronHolmes: raises 2775 to 3575
+Argentum736: raises 2155 to 5730 and is all-in
+zio7777: folds 
+HuronHolmes: calls 91 and is all-in
+Uncalled bet (2064) returned to Argentum736
+*** TURN *** [As Jc 7c] [2c]
+*** RIVER *** [As Jc 7c 2c] [7h]
+*** SHOW DOWN ***
+Argentum736: shows [6h Ac] (two pair, Aces and Sevens)
+HuronHolmes: shows [8s 7s] (three of a kind, Sevens)
+HuronHolmes collected 10732 from pot
+*** SUMMARY ***
+Total pot 10732 | Rake 0 
+Board [As Jc 7c 2c 7h]
+Seat 3: HuronHolmes showed [8s 7s] and won (10732) with three of a kind, Sevens
+Seat 4: BoiKid208 (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) showed [6h Ac] and lost with two pair, Aces and Sevens
+Seat 9: zio7777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198962135285: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level X (400/800) - 2019/04/05 18:34:54 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 3: HuronHolmes (10732 in chips) 
+Seat 4: BoiKid208 (970 in chips) is sitting out
+Seat 8: Argentum736 (2064 in chips) 
+Seat 9: zio7777 (13234 in chips) 
+HuronHolmes: posts the ante 50
+BoiKid208: posts the ante 50
+Argentum736: posts the ante 50
+zio7777: posts the ante 50
+zio7777: posts small blind 400
+HuronHolmes: posts big blind 800
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd 7h]
+BoiKid208: folds 
+Argentum736: folds 
+zio7777: calls 400
+HuronHolmes: raises 4075 to 4875
+zio7777: folds 
+Uncalled bet (4075) returned to HuronHolmes
+HuronHolmes collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Seat 3: HuronHolmes (big blind) collected (1800)
+Seat 4: BoiKid208 folded before Flop (didn't bet)
+Seat 8: Argentum736 (button) folded before Flop (didn't bet)
+Seat 9: zio7777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198962151624: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:35:21 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 3: HuronHolmes (11682 in chips) 
+Seat 4: BoiKid208 (920 in chips) is sitting out
+Seat 8: Argentum736 (2014 in chips) 
+Seat 9: zio7777 (12384 in chips) 
+HuronHolmes: posts the ante 75
+BoiKid208: posts the ante 75
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+HuronHolmes: posts small blind 600
+BoiKid208: posts big blind 845 and is all-in
+*** HOLE CARDS ***
+Dealt to zio7777 [Ks Kc]
+Argentum736: folds 
+zio7777: calls 1200
+HuronHolmes: calls 600
+BoiKid208: folds 
+*** FLOP *** [9c Ac 9s]
+HuronHolmes: checks 
+zio7777: bets 1400
+HuronHolmes: folds 
+Uncalled bet (1400) returned to zio7777
+zio7777 collected 3545 from pot
+BoiKid208 finished the tournament in 4th place and received 30600.00.
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 3545 | Rake 0 
+Board [9c Ac 9s]
+Seat 3: HuronHolmes (small blind) folded on the Flop
+Seat 4: BoiKid208 (big blind) folded before Flop
+Seat 8: Argentum736 folded before Flop (didn't bet)
+Seat 9: zio7777 (button) collected (3545)
+
+
+
+PokerStars Hand #198962175653: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:36:02 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 3: HuronHolmes (10407 in chips) 
+Seat 8: Argentum736 (1939 in chips) 
+Seat 9: zio7777 (14654 in chips) 
+HuronHolmes: posts the ante 75
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 600
+zio7777: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [Ts 3h]
+HuronHolmes: folds 
+Argentum736: folds 
+Uncalled bet (600) returned to zio7777
+zio7777 collected 1425 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 1425 | Rake 0 
+Seat 3: HuronHolmes (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) folded before Flop
+Seat 9: zio7777 (big blind) collected (1425)
+
+
+
+PokerStars Hand #198962182573: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:36:13 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 3: HuronHolmes (10332 in chips) 
+Seat 8: Argentum736 (1264 in chips) 
+Seat 9: zio7777 (15404 in chips) 
+HuronHolmes: posts the ante 75
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 600
+HuronHolmes: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [Kc Ah]
+Argentum736: folds 
+zio7777: raises 14129 to 15329 and is all-in
+HuronHolmes: folds 
+Uncalled bet (14129) returned to zio7777
+zio7777 collected 2625 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 2625 | Rake 0 
+Seat 3: HuronHolmes (big blind) folded before Flop
+Seat 8: Argentum736 (button) folded before Flop (didn't bet)
+Seat 9: zio7777 (small blind) collected (2625)
+
+
+
+PokerStars Hand #198962192682: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:36:30 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 3: HuronHolmes (9057 in chips) 
+Seat 8: Argentum736 (1189 in chips) 
+Seat 9: zio7777 (16754 in chips) 
+HuronHolmes: posts the ante 75
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+HuronHolmes: posts small blind 600
+Argentum736: posts big blind 1114 and is all-in
+*** HOLE CARDS ***
+Dealt to zio7777 [3s 4h]
+zio7777: folds 
+HuronHolmes: calls 514
+*** FLOP *** [Ac 9h 8d]
+*** TURN *** [Ac 9h 8d] [2s]
+*** RIVER *** [Ac 9h 8d 2s] [2d]
+*** SHOW DOWN ***
+HuronHolmes: shows [3d 8c] (two pair, Eights and Deuces)
+Argentum736: shows [4c 2h] (three of a kind, Deuces)
+Argentum736 collected 2453 from pot
+*** SUMMARY ***
+Total pot 2453 | Rake 0 
+Board [Ac 9h 8d 2s 2d]
+Seat 3: HuronHolmes (small blind) showed [3d 8c] and lost with two pair, Eights and Deuces
+Seat 8: Argentum736 (big blind) showed [4c 2h] and won (2453) with three of a kind, Deuces
+Seat 9: zio7777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198962201759: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:36:46 ET
+Table '2578906764 1' 9-max Seat #3 is the button
+Seat 3: HuronHolmes (7868 in chips) 
+Seat 8: Argentum736 (2453 in chips) 
+Seat 9: zio7777 (16679 in chips) 
+HuronHolmes: posts the ante 75
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 600
+zio7777: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [9s 7c]
+HuronHolmes: folds 
+Argentum736: raises 1178 to 2378 and is all-in
+zio7777: calls 1178
+*** FLOP *** [4d 5h Ac]
+*** TURN *** [4d 5h Ac] [5d]
+*** RIVER *** [4d 5h Ac 5d] [2d]
+*** SHOW DOWN ***
+Argentum736: shows [Qs 8s] (a pair of Fives)
+zio7777: shows [9s 7c] (a pair of Fives - lower kicker)
+Argentum736 collected 4981 from pot
+*** SUMMARY ***
+Total pot 4981 | Rake 0 
+Board [4d 5h Ac 5d 2d]
+Seat 3: HuronHolmes (button) folded before Flop (didn't bet)
+Seat 8: Argentum736 (small blind) showed [Qs 8s] and won (4981) with a pair of Fives
+Seat 9: zio7777 (big blind) showed [9s 7c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #198962212446: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:37:04 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 3: HuronHolmes (7793 in chips) 
+Seat 8: Argentum736 (4981 in chips) 
+Seat 9: zio7777 (14226 in chips) 
+HuronHolmes: posts the ante 75
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 600
+HuronHolmes: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [2s Ac]
+Argentum736: folds 
+zio7777: raises 12951 to 14151 and is all-in
+HuronHolmes: calls 6518 and is all-in
+Uncalled bet (6433) returned to zio7777
+*** FLOP *** [6h 5d Ah]
+*** TURN *** [6h 5d Ah] [Kh]
+*** RIVER *** [6h 5d Ah Kh] [9h]
+*** SHOW DOWN ***
+zio7777: shows [2s Ac] (a pair of Aces)
+HuronHolmes: shows [7s Kd] (a pair of Kings)
+zio7777 collected 15661 from pot
+HuronHolmes finished the tournament in 3rd place and received 61200.00.
+*** SUMMARY ***
+Total pot 15661 | Rake 0 
+Board [6h 5d Ah Kh 9h]
+Seat 3: HuronHolmes (big blind) showed [7s Kd] and lost with a pair of Kings
+Seat 8: Argentum736 (button) folded before Flop (didn't bet)
+Seat 9: zio7777 (small blind) showed [2s Ac] and won (15661) with a pair of Aces
+
+
+
+PokerStars Hand #198962226691: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:37:28 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (4906 in chips) 
+Seat 9: zio7777 (22094 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 600
+Argentum736: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc Kd]
+zio7777: raises 20819 to 22019 and is all-in
+Argentum736: calls 3631 and is all-in
+Uncalled bet (17188) returned to zio7777
+*** FLOP *** [5d 6s 8h]
+*** TURN *** [5d 6s 8h] [8c]
+*** RIVER *** [5d 6s 8h 8c] [2s]
+*** SHOW DOWN ***
+Argentum736: shows [6c 6d] (a full house, Sixes full of Eights)
+zio7777: shows [Qc Kd] (a pair of Eights)
+Argentum736 collected 9812 from pot
+*** SUMMARY ***
+Total pot 9812 | Rake 0 
+Board [5d 6s 8h 8c 2s]
+Seat 8: Argentum736 (big blind) showed [6c 6d] and won (9812) with a full house, Sixes full of Eights
+Seat 9: zio7777 (button) (small blind) showed [Qc Kd] and lost with a pair of Eights
+
+
+
+PokerStars Hand #198962235308: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:37:43 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (9812 in chips) 
+Seat 9: zio7777 (17188 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 600
+zio7777: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [5s 7c]
+Argentum736: calls 600
+zio7777: checks 
+*** FLOP *** [Qh 2s Jc]
+zio7777: checks 
+Argentum736: checks 
+*** TURN *** [Qh 2s Jc] [3h]
+zio7777: checks 
+Argentum736: checks 
+*** RIVER *** [Qh 2s Jc 3h] [Qs]
+zio7777 said, "i knew it was going to be you from the beginiing"
+zio7777: bets 1200
+Argentum736: folds 
+Uncalled bet (1200) returned to zio7777
+zio7777 collected 2550 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Board [Qh 2s Jc 3h Qs]
+Seat 8: Argentum736 (button) (small blind) folded on the River
+Seat 9: zio7777 (big blind) collected (2550)
+
+
+
+PokerStars Hand #198962262088: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:38:28 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (8537 in chips) 
+Seat 9: zio7777 (18463 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 600
+Argentum736: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [6h 8d]
+zio7777: calls 600
+Argentum736: raises 2400 to 3600
+zio7777: folds 
+Uncalled bet (2400) returned to Argentum736
+Argentum736 collected 2550 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Seat 8: Argentum736 (big blind) collected (2550)
+Seat 9: zio7777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #198962274331: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:38:49 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (9812 in chips) 
+Seat 9: zio7777 (17188 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 600
+zio7777: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [9d 9s]
+Argentum736: folds 
+Uncalled bet (600) returned to zio7777
+zio7777 collected 1350 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 8: Argentum736 (button) (small blind) folded before Flop
+Seat 9: zio7777 (big blind) collected (1350)
+
+
+
+PokerStars Hand #198962277993: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:38:56 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (9137 in chips) 
+Seat 9: zio7777 (17863 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 600
+Argentum736: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [4h Th]
+zio7777: calls 600
+Argentum736: checks 
+*** FLOP *** [7s 7h Ad]
+Argentum736: checks 
+zio7777: bets 1200
+Argentum736: calls 1200
+*** TURN *** [7s 7h Ad] [Jd]
+Argentum736: checks 
+zio7777: checks 
+*** RIVER *** [7s 7h Ad Jd] [5d]
+Argentum736: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+Argentum736: shows [Qd Qh] (two pair, Queens and Sevens)
+zio7777: mucks hand 
+Argentum736 collected 4950 from pot
+*** SUMMARY ***
+Total pot 4950 | Rake 0 
+Board [7s 7h Ad Jd 5d]
+Seat 8: Argentum736 (big blind) showed [Qd Qh] and won (4950) with two pair, Queens and Sevens
+Seat 9: zio7777 (button) (small blind) mucked [4h Th]
+
+
+
+PokerStars Hand #198962304850: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XI (600/1200) - 2019/04/05 18:39:42 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (11612 in chips) 
+Seat 9: zio7777 (15388 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 600
+zio7777: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to zio7777 [7s 4d]
+Argentum736: calls 600
+zio7777: checks 
+*** FLOP *** [Kc 4c 3s]
+zio7777: checks 
+Argentum736: checks 
+*** TURN *** [Kc 4c 3s] [8d]
+zio7777: bets 1200
+Argentum736: calls 1200
+*** RIVER *** [Kc 4c 3s 8d] [7h]
+zio7777: bets 1200
+Argentum736: calls 1200
+*** SHOW DOWN ***
+zio7777: shows [7s 4d] (two pair, Sevens and Fours)
+Argentum736: mucks hand 
+zio7777 collected 7350 from pot
+*** SUMMARY ***
+Total pot 7350 | Rake 0 
+Board [Kc 4c 3s 8d 7h]
+Seat 8: Argentum736 (button) (small blind) mucked [8c Th]
+Seat 9: zio7777 (big blind) showed [7s 4d] and won (7350) with two pair, Sevens and Fours
+
+
+
+PokerStars Hand #198962328947: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:40:23 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (7937 in chips) 
+Seat 9: zio7777 (19063 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 800
+Argentum736: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [Qd 7s]
+zio7777: calls 800
+Argentum736: checks 
+*** FLOP *** [8d 6d 6c]
+Argentum736: checks 
+zio7777: bets 1600
+Argentum736: folds 
+Uncalled bet (1600) returned to zio7777
+zio7777 collected 3350 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Board [8d 6d 6c]
+Seat 8: Argentum736 (big blind) folded on the Flop
+Seat 9: zio7777 (button) (small blind) collected (3350)
+
+
+
+PokerStars Hand #198962341488: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:40:45 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (6262 in chips) 
+Seat 9: zio7777 (20738 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 800
+zio7777: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [6s 9d]
+Argentum736: calls 800
+zio7777: checks 
+*** FLOP *** [Qs Js 2s]
+zio7777: checks 
+Argentum736: checks 
+*** TURN *** [Qs Js 2s] [6h]
+zio7777: bets 1600
+Argentum736: folds 
+Uncalled bet (1600) returned to zio7777
+zio7777 collected 3350 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Board [Qs Js 2s 6h]
+Seat 8: Argentum736 (button) (small blind) folded on the Turn
+Seat 9: zio7777 (big blind) collected (3350)
+
+
+
+PokerStars Hand #198962354304: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:41:07 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (4587 in chips) 
+Seat 9: zio7777 (22413 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 800
+Argentum736: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [2c 7d]
+zio7777: calls 800
+Argentum736: raises 2912 to 4512 and is all-in
+zio7777: folds 
+Uncalled bet (2912) returned to Argentum736
+Argentum736 collected 3350 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Seat 8: Argentum736 (big blind) collected (3350)
+Seat 9: zio7777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #198962363436: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:41:22 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (6262 in chips) 
+Seat 9: zio7777 (20738 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 800
+zio7777: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [6s Qh]
+Argentum736: raises 1600 to 3200
+zio7777: folds 
+Uncalled bet (1600) returned to Argentum736
+Argentum736 collected 3350 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Seat 8: Argentum736 (button) (small blind) collected (3350)
+Seat 9: zio7777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198962370512: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:41:35 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (7937 in chips) 
+Seat 9: zio7777 (19063 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 800
+Argentum736: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [3d Kd]
+zio7777: raises 17388 to 18988 and is all-in
+Argentum736: folds 
+Uncalled bet (17388) returned to zio7777
+zio7777 collected 3350 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Seat 8: Argentum736 (big blind) folded before Flop
+Seat 9: zio7777 (button) (small blind) collected (3350)
+
+
+
+PokerStars Hand #198962378473: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:41:48 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (6262 in chips) 
+Seat 9: zio7777 (20738 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 800
+zio7777: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [6d 4d]
+Argentum736: calls 800
+zio7777: checks 
+*** FLOP *** [9h 5s 7s]
+zio7777: bets 19063 and is all-in
+Argentum736: calls 4587 and is all-in
+Uncalled bet (14476) returned to zio7777
+*** TURN *** [9h 5s 7s] [Qs]
+*** RIVER *** [9h 5s 7s Qs] [8c]
+*** SHOW DOWN ***
+zio7777: shows [6d 4d] (a straight, Five to Nine)
+Argentum736: shows [2s 9s] (a flush, Queen high)
+Argentum736 collected 12524 from pot
+*** SUMMARY ***
+Total pot 12524 | Rake 0 
+Board [9h 5s 7s Qs 8c]
+Seat 8: Argentum736 (button) (small blind) showed [2s 9s] and won (12524) with a flush, Queen high
+Seat 9: zio7777 (big blind) showed [6d 4d] and lost with a straight, Five to Nine
+
+
+
+PokerStars Hand #198962395462: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:42:16 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (12524 in chips) 
+Seat 9: zio7777 (14476 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 800
+Argentum736: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [3d 9c]
+zio7777: calls 800
+Argentum736: checks 
+*** FLOP *** [4h 2d 4d]
+Argentum736: checks 
+zio7777: checks 
+*** TURN *** [4h 2d 4d] [3h]
+Argentum736: checks 
+zio7777: bets 1600
+Argentum736: calls 1600
+*** RIVER *** [4h 2d 4d 3h] [Jh]
+Argentum736: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+Argentum736: shows [Ts 5c] (a pair of Fours)
+zio7777: shows [3d 9c] (two pair, Fours and Threes)
+zio7777 collected 6550 from pot
+*** SUMMARY ***
+Total pot 6550 | Rake 0 
+Board [4h 2d 4d 3h Jh]
+Seat 8: Argentum736 (big blind) showed [Ts 5c] and lost with a pair of Fours
+Seat 9: zio7777 (button) (small blind) showed [3d 9c] and won (6550) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #198962418117: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:42:55 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (9249 in chips) 
+Seat 9: zio7777 (17751 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 800
+zio7777: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [6c Ah]
+Argentum736: calls 800
+zio7777: raises 16076 to 17676 and is all-in
+Argentum736: folds 
+Uncalled bet (16076) returned to zio7777
+zio7777 collected 3350 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Seat 8: Argentum736 (button) (small blind) folded before Flop
+Seat 9: zio7777 (big blind) collected (3350)
+
+
+
+PokerStars Hand #198962432256: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:43:20 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (7574 in chips) 
+Seat 9: zio7777 (19426 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 800
+Argentum736: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [9s 8c]
+zio7777: calls 800
+Argentum736: raises 1600 to 3200
+zio7777: calls 1600
+*** FLOP *** [3s Qc 2s]
+Argentum736: bets 1600
+zio7777: folds 
+Uncalled bet (1600) returned to Argentum736
+Argentum736 collected 6550 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 6550 | Rake 0 
+Board [3s Qc 2s]
+Seat 8: Argentum736 (big blind) collected (6550)
+Seat 9: zio7777 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #198962444904: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:43:42 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (10849 in chips) 
+Seat 9: zio7777 (16151 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 800
+zio7777: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [4s 8s]
+Argentum736: raises 1600 to 3200
+zio7777: folds 
+Uncalled bet (1600) returned to Argentum736
+Argentum736 collected 3350 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Seat 8: Argentum736 (button) (small blind) collected (3350)
+Seat 9: zio7777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198962451360: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:43:53 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (12524 in chips) 
+Seat 9: zio7777 (14476 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 800
+Argentum736: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [9s 6d]
+zio7777: raises 12801 to 14401 and is all-in
+Argentum736: calls 10849 and is all-in
+Uncalled bet (1952) returned to zio7777
+*** FLOP *** [3d 4c 8d]
+*** TURN *** [3d 4c 8d] [2s]
+*** RIVER *** [3d 4c 8d 2s] [Jc]
+*** SHOW DOWN ***
+Argentum736: shows [Kc Qc] (high card King)
+zio7777: shows [9s 6d] (high card Jack)
+Argentum736 collected 25048 from pot
+*** SUMMARY ***
+Total pot 25048 | Rake 0 
+Board [3d 4c 8d 2s Jc]
+Seat 8: Argentum736 (big blind) showed [Kc Qc] and won (25048) with high card King
+Seat 9: zio7777 (button) (small blind) showed [9s 6d] and lost with high card Jack
+
+
+
+PokerStars Hand #198962461048: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:44:10 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (25048 in chips) 
+Seat 9: zio7777 (1952 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 800
+zio7777: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [Th 7c]
+Argentum736: raises 1600 to 3200
+zio7777: calls 277 and is all-in
+Uncalled bet (1323) returned to Argentum736
+*** FLOP *** [8d 9s Td]
+*** TURN *** [8d 9s Td] [3h]
+*** RIVER *** [8d 9s Td 3h] [8c]
+*** SHOW DOWN ***
+zio7777: shows [Th 7c] (two pair, Tens and Eights)
+Argentum736: shows [Jc Kc] (a pair of Eights)
+zio7777 collected 3904 from pot
+*** SUMMARY ***
+Total pot 3904 | Rake 0 
+Board [8d 9s Td 3h 8c]
+Seat 8: Argentum736 (button) (small blind) showed [Jc Kc] and lost with a pair of Eights
+Seat 9: zio7777 (big blind) showed [Th 7c] and won (3904) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #198962469066: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:44:24 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (23096 in chips) 
+Seat 9: zio7777 (3904 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 800
+Argentum736: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [Ac 3s]
+zio7777: raises 2229 to 3829 and is all-in
+Argentum736: calls 2229
+*** FLOP *** [Qc 3d 2s]
+*** TURN *** [Qc 3d 2s] [Td]
+*** RIVER *** [Qc 3d 2s Td] [3h]
+*** SHOW DOWN ***
+Argentum736: shows [2d 7h] (two pair, Threes and Deuces)
+zio7777: shows [Ac 3s] (three of a kind, Threes)
+zio7777 collected 7808 from pot
+*** SUMMARY ***
+Total pot 7808 | Rake 0 
+Board [Qc 3d 2s Td 3h]
+Seat 8: Argentum736 (big blind) showed [2d 7h] and lost with two pair, Threes and Deuces
+Seat 9: zio7777 (button) (small blind) showed [Ac 3s] and won (7808) with three of a kind, Threes
+
+
+
+PokerStars Hand #198962478383: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:44:40 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (19192 in chips) 
+Seat 9: zio7777 (7808 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+Argentum736: posts small blind 800
+zio7777: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [As 8c]
+Argentum736: raises 1600 to 3200
+zio7777: raises 4533 to 7733 and is all-in
+Argentum736: calls 4533
+*** FLOP *** [8s 6c 4h]
+*** TURN *** [8s 6c 4h] [Th]
+*** RIVER *** [8s 6c 4h Th] [Ts]
+*** SHOW DOWN ***
+zio7777: shows [As 8c] (two pair, Tens and Eights)
+Argentum736: shows [Qh 5c] (a pair of Tens)
+zio7777 collected 15616 from pot
+*** SUMMARY ***
+Total pot 15616 | Rake 0 
+Board [8s 6c 4h Th Ts]
+Seat 8: Argentum736 (button) (small blind) showed [Qh 5c] and lost with a pair of Tens
+Seat 9: zio7777 (big blind) showed [As 8c] and won (15616) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #198962489824: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XII (800/1600) - 2019/04/05 18:45:00 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (11384 in chips) 
+Seat 9: zio7777 (15616 in chips) 
+Argentum736: posts the ante 75
+zio7777: posts the ante 75
+zio7777: posts small blind 800
+Argentum736: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to zio7777 [8s 2s]
+zio7777: calls 800
+Argentum736: raises 1600 to 3200
+zio7777: folds 
+Uncalled bet (1600) returned to Argentum736
+Argentum736 collected 3350 from pot
+Argentum736: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Seat 8: Argentum736 (big blind) collected (3350)
+Seat 9: zio7777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #198962502061: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XIII (1000/2000) - 2019/04/05 18:45:22 ET
+Table '2578906764 1' 9-max Seat #8 is the button
+Seat 8: Argentum736 (13059 in chips) 
+Seat 9: zio7777 (13941 in chips) 
+Argentum736: posts the ante 100
+zio7777: posts the ante 100
+Argentum736: posts small blind 1000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [8s 8h]
+Argentum736: raises 2000 to 4000
+zio7777: raises 9841 to 13841 and is all-in
+Argentum736: calls 8959 and is all-in
+Uncalled bet (882) returned to zio7777
+*** FLOP *** [7h Tc 5h]
+*** TURN *** [7h Tc 5h] [Ad]
+*** RIVER *** [7h Tc 5h Ad] [3d]
+*** SHOW DOWN ***
+zio7777: shows [8s 8h] (a pair of Eights)
+Argentum736: shows [Ts Ks] (a pair of Tens)
+Argentum736 collected 26118 from pot
+*** SUMMARY ***
+Total pot 26118 | Rake 0 
+Board [7h Tc 5h Ad 3d]
+Seat 8: Argentum736 (button) (small blind) showed [Ts Ks] and won (26118) with a pair of Tens
+Seat 9: zio7777 (big blind) showed [8s 8h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #198962515575: Tournament #2578906764, 17000+3000 Hold'em No Limit - Level XIII (1000/2000) - 2019/04/05 18:45:45 ET
+Table '2578906764 1' 9-max Seat #9 is the button
+Seat 8: Argentum736 (26118 in chips) 
+Seat 9: zio7777 (882 in chips) 
+Argentum736: posts the ante 100
+zio7777: posts the ante 100
+zio7777: posts small blind 782 and is all-in
+Argentum736: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Kd 9d]
+Uncalled bet (1218) returned to Argentum736
+*** FLOP *** [Jh 5h Ac]
+*** TURN *** [Jh 5h Ac] [Kh]
+*** RIVER *** [Jh 5h Ac Kh] [3h]
+*** SHOW DOWN ***
+Argentum736: shows [3s Ks] (two pair, Kings and Threes)
+zio7777: shows [Kd 9d] (a pair of Kings)
+Argentum736 collected 1764 from pot
+zio7777 finished the tournament in 2nd place and received 91800.00.
+Argentum736 wins the tournament and receives 122400.00 - congratulations!
+*** SUMMARY ***
+Total pot 1764 | Rake 0 
+Board [Jh 5h Ac Kh 3h]
+Seat 8: Argentum736 (big blind) showed [3s Ks] and won (1764) with two pair, Kings and Threes
+Seat 9: zio7777 (button) (small blind) showed [Kd 9d] and lost with a pair of Kings
+
+
+

@@ -1,0 +1,311 @@
+﻿PokerStars Hand #198927816099: Tournament #2578186972, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 19:49:20 ET
+Table '2578186972 1' 9-max Seat #1 is the button
+Seat 1: dinis2017 (500 in chips) 
+Seat 2: Rauger18 (500 in chips) 
+Seat 3: dajunkie1 (500 in chips) 
+Seat 4: guinholuck (500 in chips) 
+Seat 5: Terryo267 (500 in chips) 
+Seat 6: bandera91689 (500 in chips) 
+Seat 7: zio7777 (500 in chips) 
+Seat 8: Pitbull171278 (500 in chips) 
+Seat 9: welligtonpereir (500 in chips) 
+dinis2017: posts the ante 2
+Rauger18: posts the ante 2
+dajunkie1: posts the ante 2
+guinholuck: posts the ante 2
+Terryo267: posts the ante 2
+bandera91689: posts the ante 2
+zio7777: posts the ante 2
+Pitbull171278: posts the ante 2
+welligtonpereir: posts the ante 2
+Rauger18: posts small blind 10
+dajunkie1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [6s 3d]
+guinholuck: folds 
+Terryo267: folds 
+bandera91689: calls 20
+zio7777: folds 
+Pitbull171278: raises 478 to 498 and is all-in
+welligtonpereir: folds 
+dinis2017: folds 
+Rauger18: folds 
+dajunkie1: folds 
+bandera91689: calls 478 and is all-in
+*** FLOP *** [8c 9s 9h]
+*** TURN *** [8c 9s 9h] [3c]
+*** RIVER *** [8c 9s 9h 3c] [4d]
+*** SHOW DOWN ***
+bandera91689: shows [Td Jh] (a pair of Nines)
+Pitbull171278: shows [As 5h] (a pair of Nines - Ace kicker)
+Pitbull171278 collected 1044 from pot
+Pitbull171278 wins the 4250 bounty for eliminating bandera91689
+bandera91689 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 1044 | Rake 0 
+Board [8c 9s 9h 3c 4d]
+Seat 1: dinis2017 (button) folded before Flop (didn't bet)
+Seat 2: Rauger18 (small blind) folded before Flop
+Seat 3: dajunkie1 (big blind) folded before Flop
+Seat 4: guinholuck folded before Flop (didn't bet)
+Seat 5: Terryo267 folded before Flop (didn't bet)
+Seat 6: bandera91689 showed [Td Jh] and lost with a pair of Nines
+Seat 7: zio7777 folded before Flop (didn't bet)
+Seat 8: Pitbull171278 showed [As 5h] and won (1044) with a pair of Nines
+Seat 9: welligtonpereir folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198927828791: Tournament #2578186972, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 19:49:51 ET
+Table '2578186972 1' 9-max Seat #2 is the button
+Seat 1: dinis2017 (498 in chips) 
+Seat 2: Rauger18 (488 in chips) 
+Seat 3: dajunkie1 (478 in chips) 
+Seat 4: guinholuck (498 in chips) 
+Seat 5: Terryo267 (498 in chips) 
+Seat 7: zio7777 (498 in chips) 
+Seat 8: Pitbull171278 (1044 in chips) 
+Seat 9: welligtonpereir (498 in chips) 
+dinis2017: posts the ante 2
+Rauger18: posts the ante 2
+dajunkie1: posts the ante 2
+guinholuck: posts the ante 2
+Terryo267: posts the ante 2
+zio7777: posts the ante 2
+Pitbull171278: posts the ante 2
+welligtonpereir: posts the ante 2
+dajunkie1: posts small blind 10
+guinholuck: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [6h As]
+Terryo267: calls 20
+zio7777: calls 20
+Pitbull171278: calls 20
+welligtonpereir: raises 20 to 40
+dinis2017: folds 
+Rauger18: folds 
+dajunkie1: raises 20 to 60
+guinholuck: folds 
+Terryo267: calls 40
+zio7777: folds 
+Pitbull171278: calls 40
+welligtonpereir: raises 436 to 496 and is all-in
+dajunkie1: calls 416 and is all-in
+Terryo267: folds 
+Pitbull171278: folds 
+Uncalled bet (20) returned to welligtonpereir
+*** FLOP *** [Ks 4s 9s]
+*** TURN *** [Ks 4s 9s] [8s]
+*** RIVER *** [Ks 4s 9s 8s] [2h]
+*** SHOW DOWN ***
+dajunkie1: shows [Tc Kc] (a pair of Kings)
+welligtonpereir: shows [Qc Qd] (a pair of Queens)
+dajunkie1 collected 1128 from pot
+*** SUMMARY ***
+Total pot 1128 | Rake 0 
+Board [Ks 4s 9s 8s 2h]
+Seat 1: dinis2017 folded before Flop (didn't bet)
+Seat 2: Rauger18 (button) folded before Flop (didn't bet)
+Seat 3: dajunkie1 (small blind) showed [Tc Kc] and won (1128) with a pair of Kings
+Seat 4: guinholuck (big blind) folded before Flop
+Seat 5: Terryo267 folded before Flop
+Seat 7: zio7777 folded before Flop
+Seat 8: Pitbull171278 folded before Flop
+Seat 9: welligtonpereir showed [Qc Qd] and lost with a pair of Queens
+
+
+
+PokerStars Hand #198927850716: Tournament #2578186972, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 19:50:43 ET
+Table '2578186972 1' 9-max Seat #3 is the button
+Seat 1: dinis2017 (496 in chips) 
+Seat 2: Rauger18 (486 in chips) 
+Seat 3: dajunkie1 (1128 in chips) 
+Seat 4: guinholuck (476 in chips) 
+Seat 5: Terryo267 (436 in chips) 
+Seat 7: zio7777 (476 in chips) 
+Seat 8: Pitbull171278 (982 in chips) 
+Seat 9: welligtonpereir (20 in chips) 
+dinis2017: posts the ante 2
+Rauger18: posts the ante 2
+dajunkie1: posts the ante 2
+guinholuck: posts the ante 2
+Terryo267: posts the ante 2
+zio7777: posts the ante 2
+Pitbull171278: posts the ante 2
+welligtonpereir: posts the ante 2
+guinholuck: posts small blind 10
+Terryo267: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [9h 6c]
+zio7777: folds 
+Pitbull171278: calls 20
+welligtonpereir: calls 18 and is all-in
+dinis2017: calls 20
+Rauger18: calls 20
+dajunkie1: folds 
+guinholuck: calls 10
+Terryo267: checks 
+*** FLOP *** [Jc Ac Qd]
+guinholuck: checks 
+Terryo267: checks 
+Pitbull171278: checks 
+dinis2017: checks 
+Rauger18: checks 
+*** TURN *** [Jc Ac Qd] [5d]
+guinholuck: checks 
+Terryo267: checks 
+Pitbull171278: bets 20
+dinis2017: folds 
+Rauger18: calls 20
+guinholuck: folds 
+Terryo267: calls 20
+*** RIVER *** [Jc Ac Qd 5d] [3h]
+Terryo267: checks 
+Pitbull171278: bets 40
+Rauger18: calls 40
+Terryo267: folds 
+*** SHOW DOWN ***
+Pitbull171278: shows [Qh 7c] (a pair of Queens)
+Rauger18: mucks hand 
+Pitbull171278 collected 150 from side pot
+welligtonpereir: mucks hand 
+Pitbull171278 collected 124 from main pot
+Pitbull171278 wins the 4250 bounty for eliminating welligtonpereir
+welligtonpereir finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 274 Main pot 124. Side pot 150. | Rake 0 
+Board [Jc Ac Qd 5d 3h]
+Seat 1: dinis2017 folded on the Turn
+Seat 2: Rauger18 mucked [Jd 8c]
+Seat 3: dajunkie1 (button) folded before Flop (didn't bet)
+Seat 4: guinholuck (small blind) folded on the Turn
+Seat 5: Terryo267 (big blind) folded on the River
+Seat 7: zio7777 folded before Flop (didn't bet)
+Seat 8: Pitbull171278 showed [Qh 7c] and won (274) with a pair of Queens
+Seat 9: welligtonpereir mucked [9s 5s]
+
+
+
+PokerStars Hand #198927873074: Tournament #2578186972, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 19:51:37 ET
+Table '2578186972 1' 9-max Seat #4 is the button
+Seat 1: dinis2017 (474 in chips) 
+Seat 2: Rauger18 (404 in chips) 
+Seat 3: dajunkie1 (1126 in chips) 
+Seat 4: guinholuck (454 in chips) 
+Seat 5: Terryo267 (394 in chips) 
+Seat 7: zio7777 (474 in chips) 
+Seat 8: Pitbull171278 (1174 in chips) 
+dinis2017: posts the ante 3
+Rauger18: posts the ante 3
+dajunkie1: posts the ante 3
+guinholuck: posts the ante 3
+Terryo267: posts the ante 3
+zio7777: posts the ante 3
+Pitbull171278: posts the ante 3
+Terryo267: posts small blind 15
+zio7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [3d 5s]
+Pitbull171278: calls 30
+dinis2017: calls 30
+Rauger18: calls 30
+dajunkie1: folds 
+guinholuck: calls 30
+Terryo267: folds 
+zio7777: checks 
+*** FLOP *** [2h Qd 9h]
+zio7777: checks 
+Pitbull171278: checks 
+dinis2017: checks 
+Rauger18: checks 
+guinholuck: checks 
+*** TURN *** [2h Qd 9h] [4h]
+zio7777: bets 60
+Pitbull171278: folds 
+dinis2017: calls 60
+Rauger18: folds 
+guinholuck: folds 
+*** RIVER *** [2h Qd 9h 4h] [6d]
+zio7777: bets 120
+dinis2017: raises 120 to 240
+zio7777: calls 120
+*** SHOW DOWN ***
+dinis2017: shows [Qh 6h] (a flush, Queen high)
+zio7777: mucks hand 
+dinis2017 collected 786 from pot
+*** SUMMARY ***
+Total pot 786 | Rake 0 
+Board [2h Qd 9h 4h 6d]
+Seat 1: dinis2017 showed [Qh 6h] and won (786) with a flush, Queen high
+Seat 2: Rauger18 folded on the Turn
+Seat 3: dajunkie1 folded before Flop (didn't bet)
+Seat 4: guinholuck (button) folded on the Turn
+Seat 5: Terryo267 (small blind) folded before Flop
+Seat 7: zio7777 (big blind) mucked [3d 5s]
+Seat 8: Pitbull171278 folded on the Turn
+
+
+
+PokerStars Hand #198927894690: Tournament #2578186972, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 19:52:29 ET
+Table '2578186972 1' 9-max Seat #5 is the button
+Seat 1: dinis2017 (927 in chips) 
+Seat 2: Rauger18 (371 in chips) 
+Seat 3: dajunkie1 (1123 in chips) 
+Seat 4: guinholuck (421 in chips) 
+Seat 5: Terryo267 (376 in chips) 
+Seat 7: zio7777 (141 in chips) 
+Seat 8: Pitbull171278 (1141 in chips) 
+dinis2017: posts the ante 3
+Rauger18: posts the ante 3
+dajunkie1: posts the ante 3
+guinholuck: posts the ante 3
+Terryo267: posts the ante 3
+zio7777: posts the ante 3
+Pitbull171278: posts the ante 3
+zio7777: posts small blind 15
+Pitbull171278: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Kh 2h]
+dinis2017: raises 30 to 60
+Rauger18: folds 
+dajunkie1: calls 60
+guinholuck: folds 
+Terryo267: folds 
+zio7777: raises 78 to 138 and is all-in
+Pitbull171278: calls 108
+dinis2017: calls 78
+dajunkie1: calls 78
+*** FLOP *** [9d Qc 8s]
+Pitbull171278: checks 
+dinis2017: checks 
+dajunkie1: checks 
+*** TURN *** [9d Qc 8s] [7c]
+Pitbull171278: checks 
+dinis2017: checks 
+dajunkie1: checks 
+*** RIVER *** [9d Qc 8s 7c] [6h]
+Pitbull171278: checks 
+dinis2017: bets 60
+dajunkie1: calls 60
+Pitbull171278: folds 
+*** SHOW DOWN ***
+dinis2017: shows [Js Jd] (a pair of Jacks)
+dajunkie1: shows [5c Kc] (a straight, Five to Nine)
+dajunkie1 collected 120 from side pot
+zio7777: mucks hand 
+dajunkie1 collected 573 from main pot
+dajunkie1 wins the 4250 bounty for eliminating zio7777
+zio7777 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 693 Main pot 573. Side pot 120. | Rake 0 
+Board [9d Qc 8s 7c 6h]
+Seat 1: dinis2017 showed [Js Jd] and lost with a pair of Jacks
+Seat 2: Rauger18 folded before Flop (didn't bet)
+Seat 3: dajunkie1 showed [5c Kc] and won (693) with a straight, Five to Nine
+Seat 4: guinholuck folded before Flop (didn't bet)
+Seat 5: Terryo267 (button) folded before Flop (didn't bet)
+Seat 7: zio7777 (small blind) mucked [Kh 2h]
+Seat 8: Pitbull171278 (big blind) folded on the River
+
+
+

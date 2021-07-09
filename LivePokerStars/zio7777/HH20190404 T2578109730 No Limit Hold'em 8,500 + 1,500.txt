@@ -1,0 +1,121 @@
+﻿PokerStars Hand #198924382767: Tournament #2578109730, 8500+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 17:59:17 ET
+Table '2578109730 1' 9-max Seat #1 is the button
+Seat 1: Kmiha73 (500 in chips) 
+Seat 2: faixa007 (500 in chips) 
+Seat 3: 409dunbar (500 in chips) 
+Seat 4: IRN2boats (500 in chips) 
+Seat 5: zio7777 (500 in chips) 
+Seat 6: onabit (500 in chips) 
+Seat 7: Goes_Nka (500 in chips) 
+Seat 8: maryluc55 (500 in chips) 
+Seat 9: PaulBW67 (500 in chips) 
+Kmiha73: posts the ante 2
+faixa007: posts the ante 2
+409dunbar: posts the ante 2
+IRN2boats: posts the ante 2
+zio7777: posts the ante 2
+onabit: posts the ante 2
+Goes_Nka: posts the ante 2
+maryluc55: posts the ante 2
+PaulBW67: posts the ante 2
+faixa007: posts small blind 10
+409dunbar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [7d 3s]
+IRN2boats: folds 
+zio7777: folds 
+onabit: raises 20 to 40
+Goes_Nka: calls 40
+maryluc55: folds 
+PaulBW67: calls 40
+Kmiha73: folds 
+faixa007: calls 30
+409dunbar: folds 
+*** FLOP *** [5d 5s 2s]
+faixa007: checks 
+onabit: bets 198
+Goes_Nka: calls 198
+PaulBW67: folds 
+faixa007: folds 
+*** TURN *** [5d 5s 2s] [Js]
+onabit: bets 260 and is all-in
+Goes_Nka: calls 260 and is all-in
+*** RIVER *** [5d 5s 2s Js] [4c]
+*** SHOW DOWN ***
+onabit: shows [Jc Qc] (two pair, Jacks and Fives)
+Goes_Nka: shows [5h 4h] (a full house, Fives full of Fours)
+Goes_Nka collected 1114 from pot
+onabit finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 1114 | Rake 0 
+Board [5d 5s 2s Js 4c]
+Seat 1: Kmiha73 (button) folded before Flop (didn't bet)
+Seat 2: faixa007 (small blind) folded on the Flop
+Seat 3: 409dunbar (big blind) folded before Flop
+Seat 4: IRN2boats folded before Flop (didn't bet)
+Seat 5: zio7777 folded before Flop (didn't bet)
+Seat 6: onabit showed [Jc Qc] and lost with two pair, Jacks and Fives
+Seat 7: Goes_Nka showed [5h 4h] and won (1114) with a full house, Fives full of Fours
+Seat 8: maryluc55 folded before Flop (didn't bet)
+Seat 9: PaulBW67 folded on the Flop
+
+
+
+PokerStars Hand #198924413643: Tournament #2578109730, 8500+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 18:00:18 ET
+Table '2578109730 1' 9-max Seat #2 is the button
+Seat 1: Kmiha73 (498 in chips) 
+Seat 2: faixa007 (458 in chips) 
+Seat 3: 409dunbar (478 in chips) 
+Seat 4: IRN2boats (498 in chips) 
+Seat 5: zio7777 (498 in chips) 
+Seat 7: Goes_Nka (1114 in chips) 
+Seat 8: maryluc55 (498 in chips) 
+Seat 9: PaulBW67 (458 in chips) 
+Kmiha73: posts the ante 2
+faixa007: posts the ante 2
+409dunbar: posts the ante 2
+IRN2boats: posts the ante 2
+zio7777: posts the ante 2
+Goes_Nka: posts the ante 2
+maryluc55: posts the ante 2
+PaulBW67: posts the ante 2
+409dunbar: posts small blind 10
+IRN2boats: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [9s Ad]
+PaulBW67 said, "vnh"
+zio7777: raises 32 to 52
+Goes_Nka: calls 52
+maryluc55: folds 
+PaulBW67: folds 
+Kmiha73: folds 
+faixa007: calls 52
+409dunbar: folds 
+IRN2boats: folds 
+*** FLOP *** [Td 2c 4d]
+zio7777: bets 180
+Goes_Nka: calls 180
+faixa007: folds 
+*** TURN *** [Td 2c 4d] [Jc]
+zio7777: bets 264 and is all-in
+Goes_Nka: calls 264
+*** RIVER *** [Td 2c 4d Jc] [Qh]
+*** SHOW DOWN ***
+zio7777: shows [9s Ad] (high card Ace)
+Goes_Nka: shows [Ks As] (a straight, Ten to Ace)
+Goes_Nka collected 1090 from pot
+zio7777 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1090 | Rake 0 
+Board [Td 2c 4d Jc Qh]
+Seat 1: Kmiha73 folded before Flop (didn't bet)
+Seat 2: faixa007 (button) folded on the Flop
+Seat 3: 409dunbar (small blind) folded before Flop
+Seat 4: IRN2boats (big blind) folded before Flop
+Seat 5: zio7777 showed [9s Ad] and lost with high card Ace
+Seat 7: Goes_Nka showed [Ks As] and won (1090) with a straight, Ten to Ace
+Seat 8: maryluc55 folded before Flop (didn't bet)
+Seat 9: PaulBW67 folded before Flop (didn't bet)
+
+
+

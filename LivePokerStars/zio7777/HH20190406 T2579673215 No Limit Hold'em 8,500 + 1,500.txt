@@ -1,0 +1,411 @@
+﻿PokerStars Hand #198996038219: Tournament #2579673215, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/06 16:31:03 ET
+Table '2579673215 1' 9-max Seat #1 is the button
+Seat 1: almair777 (500 in chips) 
+Seat 2: Sektor1511 (500 in chips) 
+Seat 3: Doron1986101 (500 in chips) 
+Seat 4: TiTi5565 (500 in chips) 
+Seat 5: gameboy72 (500 in chips) 
+Seat 6: Buzzcat1931 (500 in chips) 
+Seat 7: shrek29532 (500 in chips) 
+Seat 8: zio7777 (500 in chips) 
+Seat 9: ghjk1999 (500 in chips) 
+almair777: posts the ante 2
+Sektor1511: posts the ante 2
+Doron1986101: posts the ante 2
+TiTi5565: posts the ante 2
+gameboy72: posts the ante 2
+Buzzcat1931: posts the ante 2
+shrek29532: posts the ante 2
+zio7777: posts the ante 2
+ghjk1999: posts the ante 2
+Sektor1511: posts small blind 10
+Doron1986101: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [2s 9c]
+TiTi5565: calls 20
+gameboy72: calls 20
+Buzzcat1931: calls 20
+shrek29532: calls 20
+zio7777: folds 
+ghjk1999: calls 20
+almair777 has timed out
+almair777: folds 
+Sektor1511: calls 10
+Doron1986101: raises 80 to 100
+TiTi5565: raises 398 to 498 and is all-in
+gameboy72: folds 
+Buzzcat1931: calls 478 and is all-in
+shrek29532: calls 478 and is all-in
+ghjk1999: folds 
+Sektor1511: folds 
+Doron1986101: calls 398 and is all-in
+*** FLOP *** [Kd 3s Ad]
+*** TURN *** [Kd 3s Ad] [Js]
+*** RIVER *** [Kd 3s Ad Js] [Qd]
+*** SHOW DOWN ***
+Doron1986101: shows [Ac Qc] (two pair, Aces and Queens)
+TiTi5565: shows [2c Jc] (a pair of Jacks)
+Buzzcat1931: shows [4h Ah] (a pair of Aces)
+shrek29532: shows [Kh Jh] (two pair, Kings and Jacks)
+Doron1986101 collected 2070 from pot
+Doron1986101 wins the 4250 bounty for eliminating TiTi5565
+Doron1986101 wins the 4250 bounty for eliminating Buzzcat1931
+Doron1986101 wins the 4250 bounty for eliminating shrek29532
+TiTi5565 finished the tournament in 7th place
+Buzzcat1931 finished the tournament in 7th place
+shrek29532 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2070 | Rake 0 
+Board [Kd 3s Ad Js Qd]
+Seat 1: almair777 (button) folded before Flop (didn't bet)
+Seat 2: Sektor1511 (small blind) folded before Flop
+Seat 3: Doron1986101 (big blind) showed [Ac Qc] and won (2070) with two pair, Aces and Queens
+Seat 4: TiTi5565 showed [2c Jc] and lost with a pair of Jacks
+Seat 5: gameboy72 folded before Flop
+Seat 6: Buzzcat1931 showed [4h Ah] and lost with a pair of Aces
+Seat 7: shrek29532 showed [Kh Jh] and lost with two pair, Kings and Jacks
+Seat 8: zio7777 folded before Flop (didn't bet)
+Seat 9: ghjk1999 folded before Flop
+
+
+
+PokerStars Hand #198996089290: Tournament #2579673215, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/06 16:32:12 ET
+Table '2579673215 1' 9-max Seat #2 is the button
+Seat 1: almair777 (498 in chips) 
+Seat 2: Sektor1511 (478 in chips) 
+Seat 3: Doron1986101 (2070 in chips) 
+Seat 5: gameboy72 (478 in chips) 
+Seat 8: zio7777 (498 in chips) 
+Seat 9: ghjk1999 (478 in chips) 
+almair777: posts the ante 2
+Sektor1511: posts the ante 2
+Doron1986101: posts the ante 2
+gameboy72: posts the ante 2
+zio7777: posts the ante 2
+ghjk1999: posts the ante 2
+Doron1986101: posts small blind 10
+gameboy72: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [As Tc]
+zio7777: raises 60 to 80
+ghjk1999: folds 
+almair777: folds 
+Sektor1511: calls 80
+Doron1986101: calls 70
+gameboy72: folds 
+*** FLOP *** [Jd 4c Ts]
+Doron1986101: checks 
+zio7777: bets 416 and is all-in
+Sektor1511: folds 
+Doron1986101: calls 416
+*** TURN *** [Jd 4c Ts] [Kd]
+*** RIVER *** [Jd 4c Ts Kd] [Ac]
+*** SHOW DOWN ***
+Doron1986101: shows [6h Th] (a pair of Tens)
+zio7777: shows [As Tc] (two pair, Aces and Tens)
+zio7777 collected 1104 from pot
+*** SUMMARY ***
+Total pot 1104 | Rake 0 
+Board [Jd 4c Ts Kd Ac]
+Seat 1: almair777 folded before Flop (didn't bet)
+Seat 2: Sektor1511 (button) folded on the Flop
+Seat 3: Doron1986101 (small blind) showed [6h Th] and lost with a pair of Tens
+Seat 5: gameboy72 (big blind) folded before Flop
+Seat 8: zio7777 showed [As Tc] and won (1104) with two pair, Aces and Tens
+Seat 9: ghjk1999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198996132542: Tournament #2579673215, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/06 16:33:12 ET
+Table '2579673215 1' 9-max Seat #3 is the button
+Seat 1: almair777 (496 in chips) 
+Seat 2: Sektor1511 (396 in chips) 
+Seat 3: Doron1986101 (1572 in chips) 
+Seat 5: gameboy72 (456 in chips) 
+Seat 8: zio7777 (1104 in chips) 
+Seat 9: ghjk1999 (476 in chips) 
+almair777: posts the ante 3
+Sektor1511: posts the ante 3
+Doron1986101: posts the ante 3
+gameboy72: posts the ante 3
+zio7777: posts the ante 3
+ghjk1999: posts the ante 3
+gameboy72: posts small blind 15
+zio7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [7s As]
+ghjk1999: calls 30
+almair777: folds 
+Sektor1511: calls 30
+Doron1986101: folds 
+gameboy72: calls 15
+zio7777: raises 1071 to 1101 and is all-in
+ghjk1999: folds 
+Sektor1511: folds 
+gameboy72: folds 
+Uncalled bet (1071) returned to zio7777
+zio7777 collected 138 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 138 | Rake 0 
+Seat 1: almair777 folded before Flop (didn't bet)
+Seat 2: Sektor1511 folded before Flop
+Seat 3: Doron1986101 (button) folded before Flop (didn't bet)
+Seat 5: gameboy72 (small blind) folded before Flop
+Seat 8: zio7777 (big blind) collected (138)
+Seat 9: ghjk1999 folded before Flop
+
+
+
+PokerStars Hand #198996165579: Tournament #2579673215, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/06 16:33:58 ET
+Table '2579673215 1' 9-max Seat #5 is the button
+Seat 1: almair777 (493 in chips) 
+Seat 2: Sektor1511 (363 in chips) 
+Seat 3: Doron1986101 (1569 in chips) 
+Seat 5: gameboy72 (423 in chips) 
+Seat 8: zio7777 (1209 in chips) 
+Seat 9: ghjk1999 (443 in chips) 
+almair777: posts the ante 3
+Sektor1511: posts the ante 3
+Doron1986101: posts the ante 3
+gameboy72: posts the ante 3
+zio7777: posts the ante 3
+ghjk1999: posts the ante 3
+zio7777: posts small blind 15
+ghjk1999: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [7d 3s]
+almair777: folds 
+Sektor1511: calls 30
+Doron1986101: calls 30
+gameboy72: folds 
+zio7777: calls 15
+ghjk1999: checks 
+*** FLOP *** [Jd 3h 7h]
+zio7777: checks 
+ghjk1999: bets 30
+Sektor1511: calls 30
+Doron1986101: calls 30
+zio7777: raises 60 to 90
+ghjk1999: calls 60
+Sektor1511: calls 60
+Doron1986101: folds 
+*** TURN *** [Jd 3h 7h] [Qs]
+zio7777: bets 330
+ghjk1999: calls 320 and is all-in
+Sektor1511: folds 
+Uncalled bet (10) returned to zio7777
+*** RIVER *** [Jd 3h 7h Qs] [6d]
+*** SHOW DOWN ***
+zio7777: shows [7d 3s] (two pair, Sevens and Threes)
+ghjk1999: shows [Ac 9h] (high card Ace)
+zio7777 collected 1078 from pot
+zio7777 wins the 4250 bounty for eliminating ghjk1999
+ghjk1999 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1078 | Rake 0 
+Board [Jd 3h 7h Qs 6d]
+Seat 1: almair777 folded before Flop (didn't bet)
+Seat 2: Sektor1511 folded on the Turn
+Seat 3: Doron1986101 folded on the Flop
+Seat 5: gameboy72 (button) folded before Flop (didn't bet)
+Seat 8: zio7777 (small blind) showed [7d 3s] and won (1078) with two pair, Sevens and Threes
+Seat 9: ghjk1999 (big blind) showed [Ac 9h] and lost with high card Ace
+
+
+
+PokerStars Hand #198996218542: Tournament #2579673215, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/06 16:35:11 ET
+Table '2579673215 1' 9-max Seat #8 is the button
+Seat 1: almair777 (490 in chips) 
+Seat 2: Sektor1511 (240 in chips) 
+Seat 3: Doron1986101 (1506 in chips) 
+Seat 5: gameboy72 (420 in chips) 
+Seat 8: zio7777 (1844 in chips) 
+almair777: posts the ante 4
+Sektor1511: posts the ante 4
+Doron1986101: posts the ante 4
+gameboy72: posts the ante 4
+zio7777: posts the ante 4
+almair777: posts small blind 20
+Sektor1511: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [3c 8c]
+Doron1986101: calls 40
+gameboy72: calls 40
+zio7777: calls 40
+almair777: folds 
+Sektor1511: checks 
+*** FLOP *** [7h 3d 4d]
+Sektor1511: checks 
+Doron1986101: checks 
+gameboy72: bets 40
+zio7777: calls 40
+Sektor1511: calls 40
+Doron1986101: calls 40
+*** TURN *** [7h 3d 4d] [Jc]
+Sektor1511: checks 
+Doron1986101: checks 
+gameboy72: checks 
+zio7777: checks 
+*** RIVER *** [7h 3d 4d Jc] [4h]
+Sektor1511: checks 
+Doron1986101: bets 160
+gameboy72: folds 
+zio7777: folds 
+Sektor1511: folds 
+Uncalled bet (160) returned to Doron1986101
+Doron1986101 collected 360 from pot
+Doron1986101: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [7h 3d 4d Jc 4h]
+Seat 1: almair777 (small blind) folded before Flop
+Seat 2: Sektor1511 (big blind) folded on the River
+Seat 3: Doron1986101 collected (360)
+Seat 5: gameboy72 folded on the River
+Seat 8: zio7777 (button) folded on the River
+
+
+
+PokerStars Hand #198996273029: Tournament #2579673215, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/06 16:36:27 ET
+Table '2579673215 1' 9-max Seat #1 is the button
+Seat 1: almair777 (466 in chips) 
+Seat 2: Sektor1511 (156 in chips) 
+Seat 3: Doron1986101 (1782 in chips) 
+Seat 5: gameboy72 (336 in chips) 
+Seat 8: zio7777 (1760 in chips) 
+almair777: posts the ante 4
+Sektor1511: posts the ante 4
+Doron1986101: posts the ante 4
+gameboy72: posts the ante 4
+zio7777: posts the ante 4
+Sektor1511: posts small blind 20
+Doron1986101: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [Ah 4d]
+gameboy72: calls 40
+zio7777: calls 40
+almair777: calls 40
+Sektor1511: folds 
+Doron1986101: checks 
+*** FLOP *** [8c 3h 9c]
+Doron1986101: bets 40
+gameboy72: calls 40
+zio7777: folds 
+almair777: calls 40
+*** TURN *** [8c 3h 9c] [Jc]
+Doron1986101: bets 120
+gameboy72: calls 120
+almair777: folds 
+*** RIVER *** [8c 3h 9c Jc] [9d]
+Doron1986101: bets 200
+gameboy72: folds [7c]
+Uncalled bet (200) returned to Doron1986101
+Doron1986101 collected 560 from pot
+Doron1986101: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [8c 3h 9c Jc 9d]
+Seat 1: almair777 (button) folded on the Turn
+Seat 2: Sektor1511 (small blind) folded before Flop
+Seat 3: Doron1986101 (big blind) collected (560)
+Seat 5: gameboy72 folded on the River
+Seat 8: zio7777 folded on the Flop
+
+
+
+PokerStars Hand #198996317114: Tournament #2579673215, 4250+4250+1500 Hold'em No Limit - Level IV (30/60) - 2019/04/06 16:37:29 ET
+Table '2579673215 1' 9-max Seat #2 is the button
+Seat 1: almair777 (382 in chips) 
+Seat 2: Sektor1511 (132 in chips) 
+Seat 3: Doron1986101 (2138 in chips) 
+Seat 5: gameboy72 (132 in chips) 
+Seat 8: zio7777 (1716 in chips) 
+almair777: posts the ante 6
+Sektor1511: posts the ante 6
+Doron1986101: posts the ante 6
+gameboy72: posts the ante 6
+zio7777: posts the ante 6
+Doron1986101: posts small blind 30
+gameboy72: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [5d Qd]
+zio7777: folds 
+almair777: folds 
+Sektor1511: calls 60
+Doron1986101: calls 30
+gameboy72: raises 60 to 120
+Sektor1511: calls 60
+Doron1986101: calls 60
+*** FLOP *** [Tc Kd Jh]
+Doron1986101: checks 
+gameboy72: checks 
+Sektor1511: bets 6 and is all-in
+Doron1986101: calls 6
+gameboy72: calls 6 and is all-in
+*** TURN *** [Tc Kd Jh] [2d]
+*** RIVER *** [Tc Kd Jh 2d] [3c]
+*** SHOW DOWN ***
+Doron1986101: shows [5s Kc] (a pair of Kings)
+gameboy72: shows [Ad 7d] (high card Ace)
+Sektor1511: shows [Kh 2h] (two pair, Kings and Deuces)
+Sektor1511 collected 408 from pot
+Sektor1511 wins the 4250 bounty for eliminating gameboy72
+gameboy72 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 408 | Rake 0 
+Board [Tc Kd Jh 2d 3c]
+Seat 1: almair777 folded before Flop (didn't bet)
+Seat 2: Sektor1511 (button) showed [Kh 2h] and won (408) with two pair, Kings and Deuces
+Seat 3: Doron1986101 (small blind) showed [5s Kc] and lost with a pair of Kings
+Seat 5: gameboy72 (big blind) showed [Ad 7d] and lost with high card Ace
+Seat 8: zio7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198996350510: Tournament #2579673215, 4250+4250+1500 Hold'em No Limit - Level IV (30/60) - 2019/04/06 16:38:15 ET
+Table '2579673215 1' 9-max Seat #3 is the button
+Seat 1: almair777 (376 in chips) 
+Seat 2: Sektor1511 (408 in chips) 
+Seat 3: Doron1986101 (2006 in chips) 
+Seat 8: zio7777 (1710 in chips) 
+almair777: posts the ante 6
+Sektor1511: posts the ante 6
+Doron1986101: posts the ante 6
+zio7777: posts the ante 6
+zio7777: posts small blind 30
+almair777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [Qh 8c]
+Sektor1511: calls 60
+Doron1986101: calls 60
+zio7777: calls 30
+almair777: checks 
+*** FLOP *** [2s Qd 9s]
+zio7777: bets 180
+almair777: folds 
+Sektor1511: calls 180
+Doron1986101: calls 180
+*** TURN *** [2s Qd 9s] [Ac]
+zio7777: bets 300
+Sektor1511: folds 
+Doron1986101: calls 300
+*** RIVER *** [2s Qd 9s Ac] [Qs]
+zio7777: bets 1164 and is all-in
+Doron1986101: calls 1164
+*** SHOW DOWN ***
+zio7777: shows [Qh 8c] (three of a kind, Queens)
+Doron1986101: shows [8s Ks] (a flush, King high)
+Doron1986101 collected 3732 from pot
+Doron1986101 wins the 4250 bounty for eliminating zio7777
+zio7777 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 3732 | Rake 0 
+Board [2s Qd 9s Ac Qs]
+Seat 1: almair777 (big blind) folded on the Flop
+Seat 2: Sektor1511 folded on the Turn
+Seat 3: Doron1986101 (button) showed [8s Ks] and won (3732) with a flush, King high
+Seat 8: zio7777 (small blind) showed [Qh 8c] and lost with three of a kind, Queens
+
+
+

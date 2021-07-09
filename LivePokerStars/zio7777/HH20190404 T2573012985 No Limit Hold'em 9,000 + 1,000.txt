@@ -1,0 +1,372 @@
+﻿PokerStars Hand #198923463638: Tournament #2573012985, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/04/04 17:35:00 ET
+Table '2573012985 9' 6-max Seat #1 is the button
+Seat 1: Atout_CJ (1500 in chips) 
+Seat 2: SwiftWidow (1500 in chips) 
+Seat 3: zio7777 (1500 in chips) 
+Seat 4: francolev395 (1500 in chips) 
+Seat 5: ocabrasafado (1500 in chips) 
+Seat 6: JoeKaputa (1500 in chips) 
+SwiftWidow: posts small blind 10
+zio7777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [Ks 7c]
+francolev395: folds 
+ocabrasafado: calls 20
+JoeKaputa: folds 
+Atout_CJ: raises 20 to 40
+SwiftWidow: folds 
+zio7777: calls 20
+ocabrasafado: calls 20
+*** FLOP *** [6c 5c Th]
+zio7777: checks 
+ocabrasafado: bets 200
+Atout_CJ: calls 200
+zio7777: folds 
+*** TURN *** [6c 5c Th] [Jc]
+ocabrasafado: checks 
+Atout_CJ: bets 540
+ocabrasafado: calls 540
+*** RIVER *** [6c 5c Th Jc] [Js]
+ocabrasafado: checks 
+Atout_CJ: checks 
+*** SHOW DOWN ***
+ocabrasafado: shows [Tc Kh] (two pair, Jacks and Tens)
+Atout_CJ: mucks hand 
+ocabrasafado collected 1610 from pot
+*** SUMMARY ***
+Total pot 1610 | Rake 0 
+Board [6c 5c Th Jc Js]
+Seat 1: Atout_CJ (button) mucked [5d 6d]
+Seat 2: SwiftWidow (small blind) folded before Flop
+Seat 3: zio7777 (big blind) folded on the Flop
+Seat 4: francolev395 folded before Flop (didn't bet)
+Seat 5: ocabrasafado showed [Tc Kh] and won (1610) with two pair, Jacks and Tens
+Seat 6: JoeKaputa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198923513742: Tournament #2573012985, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/04/04 17:36:15 ET
+Table '2573012985 9' 6-max Seat #2 is the button
+Seat 1: Atout_CJ (720 in chips) 
+Seat 2: SwiftWidow (1490 in chips) 
+Seat 3: zio7777 (1460 in chips) 
+Seat 4: francolev395 (1500 in chips) 
+Seat 5: ocabrasafado (2330 in chips) 
+Seat 6: JoeKaputa (1500 in chips) 
+zio7777: posts small blind 10
+francolev395: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [9s Ks]
+ocabrasafado: folds 
+JoeKaputa: calls 20
+Atout_CJ: raises 20 to 40
+SwiftWidow: calls 40
+zio7777: calls 30
+francolev395: calls 20
+JoeKaputa: calls 20
+*** FLOP *** [Kc 6h Th]
+zio7777: bets 200
+francolev395: folds 
+JoeKaputa: calls 200
+Atout_CJ: calls 200
+SwiftWidow: folds 
+*** TURN *** [Kc 6h Th] [6s]
+zio7777: bets 440
+JoeKaputa: calls 440
+Atout_CJ: raises 40 to 480 and is all-in
+zio7777: calls 40
+JoeKaputa: calls 40
+*** RIVER *** [Kc 6h Th 6s] [Td]
+zio7777: checks 
+JoeKaputa: checks 
+*** SHOW DOWN ***
+zio7777: shows [9s Ks] (two pair, Kings and Tens)
+JoeKaputa: mucks hand 
+Atout_CJ: shows [6d As] (a full house, Sixes full of Tens)
+Atout_CJ collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | Rake 0 
+Board [Kc 6h Th 6s Td]
+Seat 1: Atout_CJ showed [6d As] and won (2240) with a full house, Sixes full of Tens
+Seat 2: SwiftWidow (button) folded on the Flop
+Seat 3: zio7777 (small blind) showed [9s Ks] and lost with two pair, Kings and Tens
+Seat 4: francolev395 (big blind) folded on the Flop
+Seat 5: ocabrasafado folded before Flop (didn't bet)
+Seat 6: JoeKaputa mucked [Jc Qh]
+
+
+
+PokerStars Hand #198923555021: Tournament #2573012985, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/04/04 17:37:17 ET
+Table '2573012985 9' 6-max Seat #3 is the button
+Seat 1: Atout_CJ (2240 in chips) 
+Seat 2: SwiftWidow (1450 in chips) 
+Seat 3: zio7777 (740 in chips) 
+Seat 4: francolev395 (1460 in chips) 
+Seat 5: ocabrasafado (2330 in chips) 
+Seat 6: JoeKaputa (780 in chips) 
+francolev395: posts small blind 10
+ocabrasafado: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [5h Th]
+JoeKaputa: folds 
+Atout_CJ: calls 20
+SwiftWidow: calls 20
+zio7777: calls 20
+francolev395: calls 10
+ocabrasafado: checks 
+*** FLOP *** [5c Kh Js]
+francolev395: checks 
+ocabrasafado: checks 
+Atout_CJ: checks 
+SwiftWidow: checks 
+zio7777: checks 
+*** TURN *** [5c Kh Js] [3s]
+francolev395: checks 
+ocabrasafado: checks 
+Atout_CJ: checks 
+SwiftWidow: checks 
+zio7777: checks 
+*** RIVER *** [5c Kh Js 3s] [7d]
+francolev395: checks 
+ocabrasafado: checks 
+Atout_CJ: checks 
+SwiftWidow: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+francolev395: shows [7s 8c] (a pair of Sevens)
+ocabrasafado: mucks hand 
+Atout_CJ: mucks hand 
+SwiftWidow: shows [Qc Ks] (a pair of Kings)
+zio7777: mucks hand 
+SwiftWidow collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5c Kh Js 3s 7d]
+Seat 1: Atout_CJ mucked [6c 7c]
+Seat 2: SwiftWidow showed [Qc Ks] and won (100) with a pair of Kings
+Seat 3: zio7777 (button) mucked [5h Th]
+Seat 4: francolev395 (small blind) showed [7s 8c] and lost with a pair of Sevens
+Seat 5: ocabrasafado (big blind) mucked [8d Td]
+Seat 6: JoeKaputa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198923604818: Tournament #2573012985, 9000+1000 Hold'em No Limit - Level II (12/24) - 2019/04/04 17:38:31 ET
+Table '2573012985 9' 6-max Seat #4 is the button
+Seat 1: Atout_CJ (2220 in chips) 
+Seat 2: SwiftWidow (1530 in chips) 
+Seat 3: zio7777 (720 in chips) 
+Seat 4: francolev395 (1440 in chips) 
+Seat 5: ocabrasafado (2310 in chips) 
+ocabrasafado: posts small blind 12
+Atout_CJ: posts big blind 24
+*** HOLE CARDS ***
+Dealt to zio7777 [Ks 5s]
+SwiftWidow: calls 24
+zio7777: calls 24
+francolev395: calls 24
+ocabrasafado: calls 12
+Atout_CJ: raises 24 to 48
+SwiftWidow: calls 24
+zio7777: calls 24
+francolev395: calls 24
+ocabrasafado: calls 24
+*** FLOP *** [4s Jc Td]
+ocabrasafado: checks 
+Atout_CJ: checks 
+SwiftWidow: checks 
+zio7777: checks 
+francolev395: checks 
+*** TURN *** [4s Jc Td] [2d]
+ocabrasafado: bets 72
+Atout_CJ: calls 72
+SwiftWidow: folds 
+zio7777: folds 
+francolev395: calls 72
+*** RIVER *** [4s Jc Td 2d] [5c]
+ocabrasafado: checks 
+Atout_CJ: bets 24
+francolev395: folds 
+ocabrasafado: calls 24
+*** SHOW DOWN ***
+Atout_CJ: shows [5h Qh] (a pair of Fives)
+ocabrasafado: mucks hand 
+Atout_CJ collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | Rake 0 
+Board [4s Jc Td 2d 5c]
+Seat 1: Atout_CJ (big blind) showed [5h Qh] and won (504) with a pair of Fives
+Seat 2: SwiftWidow folded on the Turn
+Seat 3: zio7777 folded on the Turn
+Seat 4: francolev395 (button) folded on the River
+Seat 5: ocabrasafado (small blind) mucked [4h Ah]
+
+
+
+PokerStars Hand #198923676087: Tournament #2573012985, 9000+1000 Hold'em No Limit - Level II (12/24) - 2019/04/04 17:40:18 ET
+Table '2573012985 9' 6-max Seat #5 is the button
+Seat 1: Atout_CJ (2580 in chips) 
+Seat 3: zio7777 (672 in chips) 
+Seat 4: francolev395 (1320 in chips) 
+Seat 5: ocabrasafado (2166 in chips) 
+Atout_CJ: posts small blind 12
+zio7777: posts big blind 24
+*** HOLE CARDS ***
+Dealt to zio7777 [2d 2s]
+francolev395: folds 
+ocabrasafado: calls 24
+Atout_CJ: calls 12
+zio7777: checks 
+*** FLOP *** [4s 6c 9s]
+Atout_CJ: bets 24
+zio7777: calls 24
+ocabrasafado: folds 
+*** TURN *** [4s 6c 9s] [7s]
+Atout_CJ: bets 24
+zio7777: folds 
+Uncalled bet (24) returned to Atout_CJ
+Atout_CJ collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 6c 9s 7s]
+Seat 1: Atout_CJ (small blind) collected (120)
+Seat 3: zio7777 (big blind) folded on the Turn
+Seat 4: francolev395 folded before Flop (didn't bet)
+Seat 5: ocabrasafado (button) folded on the Flop
+
+
+
+PokerStars Hand #198923702339: Tournament #2573012985, 9000+1000 Hold'em No Limit - Level II (12/24) - 2019/04/04 17:40:58 ET
+Table '2573012985 9' 6-max Seat #1 is the button
+Seat 1: Atout_CJ (2652 in chips) 
+Seat 3: zio7777 (624 in chips) 
+Seat 4: francolev395 (1320 in chips) 
+Seat 5: ocabrasafado (2142 in chips) 
+Seat 6: Losttshoe (1500 in chips) 
+zio7777: posts small blind 12
+francolev395: posts big blind 24
+*** HOLE CARDS ***
+Dealt to zio7777 [5c 7s]
+ocabrasafado: calls 24
+Losttshoe: calls 24
+Atout_CJ: raises 24 to 48
+zio7777: folds 
+francolev395: calls 24
+ocabrasafado: calls 24
+Losttshoe: folds 
+*** FLOP *** [2s 5s 6h]
+francolev395: checks 
+ocabrasafado: checks 
+Atout_CJ: bets 196
+francolev395: calls 196
+ocabrasafado: folds 
+*** TURN *** [2s 5s 6h] [7c]
+francolev395: checks 
+Atout_CJ: checks 
+*** RIVER *** [2s 5s 6h 7c] [7d]
+francolev395: bets 572
+Atout_CJ: folds 
+Uncalled bet (572) returned to francolev395
+francolev395 collected 572 from pot
+*** SUMMARY ***
+Total pot 572 | Rake 0 
+Board [2s 5s 6h 7c 7d]
+Seat 1: Atout_CJ (button) folded on the River
+Seat 3: zio7777 (small blind) folded before Flop
+Seat 4: francolev395 (big blind) collected (572)
+Seat 5: ocabrasafado folded on the Flop
+Seat 6: Losttshoe folded before Flop
+
+
+
+PokerStars Hand #198923736484: Tournament #2573012985, 9000+1000 Hold'em No Limit - Level III (14/28) - 2019/04/04 17:41:49 ET
+Table '2573012985 9' 6-max Seat #3 is the button
+Seat 1: Atout_CJ (2408 in chips) 
+Seat 2: fanthom71 (1500 in chips) 
+Seat 3: zio7777 (612 in chips) 
+Seat 4: francolev395 (1648 in chips) 
+Seat 5: ocabrasafado (2094 in chips) 
+Seat 6: Losttshoe (1476 in chips) 
+francolev395: posts small blind 14
+ocabrasafado: posts big blind 28
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd 7h]
+Losttshoe: folds 
+Atout_CJ: raises 28 to 56
+fanthom71: folds 
+zio7777: folds 
+francolev395: calls 42
+ocabrasafado: calls 28
+*** FLOP *** [5s 3d Qh]
+francolev395: checks 
+ocabrasafado: checks 
+Atout_CJ: bets 84
+francolev395: folds 
+ocabrasafado: raises 84 to 168
+Atout_CJ: calls 84
+*** TURN *** [5s 3d Qh] [9h]
+ocabrasafado: checks 
+Atout_CJ: checks 
+*** RIVER *** [5s 3d Qh 9h] [4c]
+ocabrasafado: bets 280
+Atout_CJ: folds 
+Uncalled bet (280) returned to ocabrasafado
+ocabrasafado collected 504 from pot
+ocabrasafado: doesn't show hand 
+*** SUMMARY ***
+Total pot 504 | Rake 0 
+Board [5s 3d Qh 9h 4c]
+Seat 1: Atout_CJ folded on the River
+Seat 2: fanthom71 folded before Flop (didn't bet)
+Seat 3: zio7777 (button) folded before Flop (didn't bet)
+Seat 4: francolev395 (small blind) folded on the Flop
+Seat 5: ocabrasafado (big blind) collected (504)
+Seat 6: Losttshoe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198923782098: Tournament #2573012985, 9000+1000 Hold'em No Limit - Level III (14/28) - 2019/04/04 17:42:59 ET
+Table '2573012985 9' 6-max Seat #4 is the button
+Seat 1: Atout_CJ (2184 in chips) 
+Seat 2: fanthom71 (1500 in chips) 
+Seat 3: zio7777 (612 in chips) 
+Seat 4: francolev395 (1592 in chips) 
+Seat 5: ocabrasafado (2374 in chips) 
+Seat 6: Losttshoe (1476 in chips) 
+ocabrasafado: posts small blind 14
+Losttshoe: posts big blind 28
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad Tc]
+Atout_CJ: folds 
+fanthom71: folds 
+zio7777: raises 28 to 56
+francolev395: folds 
+ocabrasafado: calls 42
+Losttshoe: calls 28
+*** FLOP *** [Qh Qd 9d]
+ocabrasafado: checks 
+Losttshoe: bets 84
+zio7777: calls 84
+ocabrasafado: folds 
+*** TURN *** [Qh Qd 9d] [4c]
+Losttshoe: checks 
+zio7777: bets 472 and is all-in
+Losttshoe: calls 472
+*** RIVER *** [Qh Qd 9d 4c] [Jc]
+*** SHOW DOWN ***
+Losttshoe: shows [9s Jd] (two pair, Queens and Jacks)
+zio7777: shows [Ad Tc] (a pair of Queens)
+Losttshoe collected 1280 from pot
+zio7777 finished the tournament
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [Qh Qd 9d 4c Jc]
+Seat 1: Atout_CJ folded before Flop (didn't bet)
+Seat 2: fanthom71 folded before Flop (didn't bet)
+Seat 3: zio7777 showed [Ad Tc] and lost with a pair of Queens
+Seat 4: francolev395 (button) folded before Flop (didn't bet)
+Seat 5: ocabrasafado (small blind) folded on the Flop
+Seat 6: Losttshoe (big blind) showed [9s Jd] and won (1280) with two pair, Queens and Jacks
+
+
+

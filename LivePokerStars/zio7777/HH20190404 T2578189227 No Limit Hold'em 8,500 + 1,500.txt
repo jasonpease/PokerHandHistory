@@ -1,0 +1,1203 @@
+﻿PokerStars Hand #198927920978: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 19:53:33 ET
+Table '2578189227 1' 9-max Seat #1 is the button
+Seat 1: yakuza.yakuza90 (500 in chips) 
+Seat 2: garethhession (500 in chips) 
+Seat 3: canojaj (500 in chips) 
+Seat 4: arkiegeno (500 in chips) 
+Seat 5: 1wam (500 in chips) 
+Seat 6: zio7777 (500 in chips) 
+Seat 7: xuparinos (500 in chips) 
+Seat 8: Divawp (500 in chips) 
+Seat 9: sidewalk92 (500 in chips) 
+yakuza.yakuza90: posts the ante 2
+garethhession: posts the ante 2
+canojaj: posts the ante 2
+arkiegeno: posts the ante 2
+1wam: posts the ante 2
+zio7777: posts the ante 2
+xuparinos: posts the ante 2
+Divawp: posts the ante 2
+sidewalk92: posts the ante 2
+garethhession: posts small blind 10
+canojaj: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [Kh 4d]
+arkiegeno: calls 20
+1wam: folds 
+zio7777: folds 
+xuparinos: raises 478 to 498 and is all-in
+Divawp: folds 
+sidewalk92: calls 498 and is all-in
+yakuza.yakuza90: calls 498 and is all-in
+garethhession: calls 488 and is all-in
+canojaj: folds 
+arkiegeno: calls 478 and is all-in
+*** FLOP *** [Qs Th 5d]
+*** TURN *** [Qs Th 5d] [5h]
+*** RIVER *** [Qs Th 5d 5h] [7c]
+*** SHOW DOWN ***
+garethhession: shows [5c Kc] (three of a kind, Fives)
+arkiegeno: shows [6d 6s] (two pair, Sixes and Fives)
+xuparinos: shows [Js 9s] (a pair of Fives)
+sidewalk92: shows [Ac Td] (two pair, Tens and Fives)
+yakuza.yakuza90: shows [4h Tc] (two pair, Tens and Fives)
+garethhession collected 2528 from pot
+garethhession wins the 4250 bounty for eliminating yakuza.yakuza90
+garethhession wins the 4250 bounty for eliminating arkiegeno
+garethhession wins the 4250 bounty for eliminating xuparinos
+garethhession wins the 4250 bounty for eliminating sidewalk92
+yakuza.yakuza90 finished the tournament in 6th place
+arkiegeno finished the tournament in 6th place
+xuparinos finished the tournament in 6th place
+sidewalk92 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 2528 | Rake 0 
+Board [Qs Th 5d 5h 7c]
+Seat 1: yakuza.yakuza90 (button) showed [4h Tc] and lost with two pair, Tens and Fives
+Seat 2: garethhession (small blind) showed [5c Kc] and won (2528) with three of a kind, Fives
+Seat 3: canojaj (big blind) folded before Flop
+Seat 4: arkiegeno showed [6d 6s] and lost with two pair, Sixes and Fives
+Seat 5: 1wam folded before Flop (didn't bet)
+Seat 6: zio7777 folded before Flop (didn't bet)
+Seat 7: xuparinos showed [Js 9s] and lost with a pair of Fives
+Seat 8: Divawp folded before Flop (didn't bet)
+Seat 9: sidewalk92 showed [Ac Td] and lost with two pair, Tens and Fives
+
+
+
+PokerStars Hand #198927932715: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 19:54:01 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (2528 in chips) 
+Seat 3: canojaj (478 in chips) 
+Seat 5: 1wam (498 in chips) 
+Seat 6: zio7777 (498 in chips) 
+Seat 8: Divawp (498 in chips) 
+garethhession: posts the ante 2
+canojaj: posts the ante 2
+1wam: posts the ante 2
+zio7777: posts the ante 2
+Divawp: posts the ante 2
+canojaj: posts small blind 10
+1wam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [Js 5d]
+zio7777: folds 
+Divawp: calls 20
+garethhession: calls 20
+canojaj: calls 10
+1wam: checks 
+*** FLOP *** [5h 3s Ts]
+canojaj: checks 
+1wam: checks 
+Divawp: checks 
+garethhession: checks 
+*** TURN *** [5h 3s Ts] [Th]
+canojaj: checks 
+1wam: checks 
+Divawp: checks 
+garethhession: checks 
+*** RIVER *** [5h 3s Ts Th] [8c]
+canojaj: checks 
+1wam: bets 20
+Divawp: calls 20
+garethhession: calls 20
+canojaj: folds 
+*** SHOW DOWN ***
+1wam: shows [5c 8s] (two pair, Tens and Eights)
+Divawp: mucks hand 
+garethhession: shows [8d 7s] (two pair, Tens and Eights - Seven kicker)
+garethhession collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [5h 3s Ts Th 8c]
+Seat 2: garethhession (button) showed [8d 7s] and won (150) with two pair, Tens and Eights
+Seat 3: canojaj (small blind) folded on the River
+Seat 5: 1wam (big blind) showed [5c 8s] and lost with two pair, Tens and Eights
+Seat 6: zio7777 folded before Flop (didn't bet)
+Seat 8: Divawp mucked [Jh 5s]
+
+
+
+PokerStars Hand #198927952170: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 19:54:48 ET
+Table '2578189227 1' 9-max Seat #3 is the button
+Seat 2: garethhession (2636 in chips) 
+Seat 3: canojaj (456 in chips) 
+Seat 5: 1wam (456 in chips) 
+Seat 6: zio7777 (496 in chips) 
+Seat 8: Divawp (456 in chips) 
+garethhession: posts the ante 2
+canojaj: posts the ante 2
+1wam: posts the ante 2
+zio7777: posts the ante 2
+Divawp: posts the ante 2
+1wam: posts small blind 10
+zio7777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [9h Qc]
+Divawp: calls 20
+garethhession: calls 20
+canojaj: calls 20
+1wam: calls 10
+zio7777: checks 
+*** FLOP *** [Th 8c Js]
+1wam: bets 40
+zio7777: calls 40
+Divawp: calls 40
+garethhession: calls 40
+canojaj: folds 
+*** TURN *** [Th 8c Js] [3c]
+1wam: bets 40
+zio7777: calls 40
+Divawp: calls 40
+garethhession: calls 40
+*** RIVER *** [Th 8c Js 3c] [6s]
+1wam: bets 60
+zio7777: raises 334 to 394 and is all-in
+Divawp: folds 
+garethhession: folds 
+1wam: calls 294 and is all-in
+Uncalled bet (40) returned to zio7777
+*** SHOW DOWN ***
+zio7777: shows [9h Qc] (a straight, Eight to Queen)
+1wam: shows [Qd Jd] (a pair of Jacks)
+zio7777 collected 1138 from pot
+zio7777 wins the 4250 bounty for eliminating 1wam
+1wam finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1138 | Rake 0 
+Board [Th 8c Js 3c 6s]
+Seat 2: garethhession folded on the River
+Seat 3: canojaj (button) folded on the Flop
+Seat 5: 1wam (small blind) showed [Qd Jd] and lost with a pair of Jacks
+Seat 6: zio7777 (big blind) showed [9h Qc] and won (1138) with a straight, Eight to Queen
+Seat 8: Divawp folded on the River
+
+
+
+PokerStars Hand #198927976129: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 19:55:55 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (2534 in chips) 
+Seat 3: canojaj (434 in chips) 
+Seat 6: zio7777 (1178 in chips) 
+Seat 8: Divawp (354 in chips) 
+garethhession: posts the ante 3
+canojaj: posts the ante 3
+zio7777: posts the ante 3
+Divawp: posts the ante 3
+Divawp: posts small blind 15
+garethhession: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [6d 7d]
+canojaj: folds 
+zio7777: calls 30
+Divawp: calls 15
+garethhession: checks 
+*** FLOP *** [Js Kh 4s]
+Divawp: bets 30
+garethhession: calls 30
+zio7777: folds 
+*** TURN *** [Js Kh 4s] [9h]
+Divawp: bets 30
+garethhession: calls 30
+*** RIVER *** [Js Kh 4s 9h] [Ks]
+Divawp: bets 30
+garethhession: raises 30 to 60
+Divawp: calls 30
+*** SHOW DOWN ***
+garethhession: shows [7c Kd] (three of a kind, Kings)
+Divawp: mucks hand 
+garethhession collected 342 from pot
+*** SUMMARY ***
+Total pot 342 | Rake 0 
+Board [Js Kh 4s 9h Ks]
+Seat 2: garethhession (big blind) showed [7c Kd] and won (342) with three of a kind, Kings
+Seat 3: canojaj folded before Flop (didn't bet)
+Seat 6: zio7777 (button) folded on the Flop
+Seat 8: Divawp (small blind) mucked [Ad Ac]
+
+
+
+PokerStars Hand #198927990021: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 19:56:36 ET
+Table '2578189227 1' 9-max Seat #8 is the button
+Seat 2: garethhession (2723 in chips) 
+Seat 3: canojaj (431 in chips) 
+Seat 6: zio7777 (1145 in chips) 
+Seat 8: Divawp (201 in chips) 
+garethhession: posts the ante 3
+canojaj: posts the ante 3
+zio7777: posts the ante 3
+Divawp: posts the ante 3
+garethhession: posts small blind 15
+canojaj: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [2c 5h]
+zio7777: folds 
+Divawp: calls 30
+garethhession: calls 15
+canojaj: checks 
+*** FLOP *** [Qc 3d 5d]
+garethhession: checks 
+canojaj: checks 
+Divawp: bets 30
+garethhession: calls 30
+canojaj: folds 
+*** TURN *** [Qc 3d 5d] [Ad]
+garethhession: checks 
+Divawp: bets 30
+garethhession: folds 
+Uncalled bet (30) returned to Divawp
+Divawp collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | Rake 0 
+Board [Qc 3d 5d Ad]
+Seat 2: garethhession (small blind) folded on the Turn
+Seat 3: canojaj (big blind) folded on the Flop
+Seat 6: zio7777 folded before Flop (didn't bet)
+Seat 8: Divawp (button) collected (162)
+
+
+
+PokerStars Hand #198928000452: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 19:57:07 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (2660 in chips) 
+Seat 3: canojaj (398 in chips) 
+Seat 6: zio7777 (1142 in chips) 
+Seat 8: Divawp (300 in chips) 
+garethhession: posts the ante 3
+canojaj: posts the ante 3
+zio7777: posts the ante 3
+Divawp: posts the ante 3
+canojaj: posts small blind 15
+zio7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [8d Qh]
+Divawp: calls 30
+garethhession: calls 30
+canojaj: folds 
+zio7777: checks 
+*** FLOP *** [Js 5c 3d]
+zio7777: checks 
+Divawp: checks 
+garethhession: checks 
+*** TURN *** [Js 5c 3d] [9d]
+zio7777: bets 60
+Divawp: calls 60
+garethhession: folds 
+*** RIVER *** [Js 5c 3d 9d] [2h]
+zio7777: checks 
+Divawp: checks 
+*** SHOW DOWN ***
+zio7777: shows [8d Qh] (high card Queen)
+Divawp: shows [9c Kc] (a pair of Nines)
+Divawp collected 237 from pot
+*** SUMMARY ***
+Total pot 237 | Rake 0 
+Board [Js 5c 3d 9d 2h]
+Seat 2: garethhession (button) folded on the Turn
+Seat 3: canojaj (small blind) folded before Flop
+Seat 6: zio7777 (big blind) showed [8d Qh] and lost with high card Queen
+Seat 8: Divawp showed [9c Kc] and won (237) with a pair of Nines
+
+
+
+PokerStars Hand #198928014849: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/04 19:57:48 ET
+Table '2578189227 1' 9-max Seat #3 is the button
+Seat 2: garethhession (2627 in chips) 
+Seat 3: canojaj (380 in chips) 
+Seat 6: zio7777 (1049 in chips) 
+Seat 8: Divawp (444 in chips) 
+garethhession: posts the ante 4
+canojaj: posts the ante 4
+zio7777: posts the ante 4
+Divawp: posts the ante 4
+zio7777: posts small blind 20
+Divawp: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [Jc 4s]
+garethhession: calls 40
+canojaj: raises 336 to 376 and is all-in
+zio7777: folds 
+Divawp: folds 
+garethhession: calls 336
+*** FLOP *** [8d 9s 7c]
+*** TURN *** [8d 9s 7c] [7d]
+*** RIVER *** [8d 9s 7c 7d] [6s]
+*** SHOW DOWN ***
+garethhession: shows [Ah 3s] (a pair of Sevens)
+canojaj: shows [Qs 9h] (two pair, Nines and Sevens)
+canojaj collected 828 from pot
+*** SUMMARY ***
+Total pot 828 | Rake 0 
+Board [8d 9s 7c 7d 6s]
+Seat 2: garethhession showed [Ah 3s] and lost with a pair of Sevens
+Seat 3: canojaj (button) showed [Qs 9h] and won (828) with two pair, Nines and Sevens
+Seat 6: zio7777 (small blind) folded before Flop
+Seat 8: Divawp (big blind) folded before Flop
+
+
+
+PokerStars Hand #198928021980: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/04 19:58:09 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (2247 in chips) 
+Seat 3: canojaj (828 in chips) 
+Seat 6: zio7777 (1025 in chips) 
+Seat 8: Divawp (400 in chips) 
+garethhession: posts the ante 4
+canojaj: posts the ante 4
+zio7777: posts the ante 4
+Divawp: posts the ante 4
+Divawp: posts small blind 20
+garethhession: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [3c Qc]
+canojaj: calls 40
+zio7777: calls 40
+Divawp: calls 20
+garethhession: checks 
+*** FLOP *** [3h 5s 8c]
+Divawp: checks 
+garethhession: checks 
+canojaj: bets 784 and is all-in
+zio7777: folds 
+Divawp: folds 
+garethhession: calls 784
+*** TURN *** [3h 5s 8c] [Ad]
+*** RIVER *** [3h 5s 8c Ad] [6h]
+*** SHOW DOWN ***
+garethhession: shows [7c 4c] (a straight, Four to Eight)
+canojaj: shows [8s 4s] (a pair of Eights)
+garethhession collected 1744 from pot
+garethhession wins the 4250 bounty for eliminating canojaj
+canojaj finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1744 | Rake 0 
+Board [3h 5s 8c Ad 6h]
+Seat 2: garethhession (big blind) showed [7c 4c] and won (1744) with a straight, Four to Eight
+Seat 3: canojaj showed [8s 4s] and lost with a pair of Eights
+Seat 6: zio7777 (button) folded on the Flop
+Seat 8: Divawp (small blind) folded on the Flop
+
+
+
+PokerStars Hand #198928034206: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/04 19:58:45 ET
+Table '2578189227 1' 9-max Seat #8 is the button
+Seat 2: garethhession (3163 in chips) 
+Seat 6: zio7777 (981 in chips) 
+Seat 8: Divawp (356 in chips) 
+garethhession: posts the ante 4
+zio7777: posts the ante 4
+Divawp: posts the ante 4
+garethhession: posts small blind 20
+zio7777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [8c 6c]
+Divawp: calls 40
+garethhession: calls 20
+zio7777: checks 
+*** FLOP *** [Qc 5h 6d]
+garethhession: checks 
+zio7777: checks 
+Divawp: checks 
+*** TURN *** [Qc 5h 6d] [Ad]
+garethhession: checks 
+zio7777: bets 40
+Divawp: folds 
+garethhession: calls 40
+*** RIVER *** [Qc 5h 6d Ad] [7s]
+garethhession: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+garethhession: shows [Jh Th] (high card Ace)
+zio7777: shows [8c 6c] (a pair of Sixes)
+zio7777 collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | Rake 0 
+Board [Qc 5h 6d Ad 7s]
+Seat 2: garethhession (small blind) showed [Jh Th] and lost with high card Ace
+Seat 6: zio7777 (big blind) showed [8c 6c] and won (212) with a pair of Sixes
+Seat 8: Divawp (button) folded on the Turn
+
+
+
+PokerStars Hand #198928047807: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/04 19:59:25 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (3079 in chips) 
+Seat 6: zio7777 (1109 in chips) 
+Seat 8: Divawp (312 in chips) 
+garethhession: posts the ante 4
+zio7777: posts the ante 4
+Divawp: posts the ante 4
+zio7777: posts small blind 20
+Divawp: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [5s 3d]
+garethhession: calls 40
+zio7777: calls 20
+Divawp: checks 
+*** FLOP *** [4h 6s 7d]
+zio7777: checks 
+Divawp: bets 40
+garethhession: calls 40
+zio7777: calls 40
+*** TURN *** [4h 6s 7d] [9d]
+zio7777: checks 
+Divawp: checks 
+garethhession: checks 
+*** RIVER *** [4h 6s 7d 9d] [Kc]
+zio7777: bets 160
+Divawp: raises 68 to 228 and is all-in
+garethhession: folds 
+zio7777: calls 68
+*** SHOW DOWN ***
+Divawp: shows [Qs Kd] (a pair of Kings)
+zio7777: shows [5s 3d] (a straight, Three to Seven)
+zio7777 collected 708 from pot
+zio7777 wins the 4250 bounty for eliminating Divawp
+Divawp finished the tournament in 3rd place and received 7650.00.
+*** SUMMARY ***
+Total pot 708 | Rake 0 
+Board [4h 6s 7d 9d Kc]
+Seat 2: garethhession (button) folded on the River
+Seat 6: zio7777 (small blind) showed [5s 3d] and won (708) with a straight, Three to Seven
+Seat 8: Divawp (big blind) showed [Qs Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #198928066693: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level IV (30/60) - 2019/04/04 20:00:19 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (2995 in chips) 
+Seat 6: zio7777 (1505 in chips) 
+garethhession: posts the ante 6
+zio7777: posts the ante 6
+zio7777: posts small blind 30
+garethhession: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [2s Ac]
+zio7777: calls 30
+garethhession: checks 
+*** FLOP *** [2c 4h 7d]
+garethhession: checks 
+zio7777: bets 66
+garethhession: calls 66
+*** TURN *** [2c 4h 7d] [Qc]
+garethhession: checks 
+zio7777: checks 
+*** RIVER *** [2c 4h 7d Qc] [9h]
+garethhession: bets 60
+zio7777: calls 60
+*** SHOW DOWN ***
+garethhession: shows [2h Qs] (two pair, Queens and Deuces)
+zio7777: mucks hand 
+garethhession collected 384 from pot
+*** SUMMARY ***
+Total pot 384 | Rake 0 
+Board [2c 4h 7d Qc 9h]
+Seat 2: garethhession (big blind) showed [2h Qs] and won (384) with two pair, Queens and Deuces
+Seat 6: zio7777 (button) (small blind) mucked [2s Ac]
+
+
+
+PokerStars Hand #198928079786: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level IV (30/60) - 2019/04/04 20:00:55 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (3187 in chips) 
+Seat 6: zio7777 (1313 in chips) 
+garethhession: posts the ante 6
+zio7777: posts the ante 6
+garethhession: posts small blind 30
+zio7777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad 2d]
+garethhession: calls 30
+zio7777: checks 
+*** FLOP *** [4s 6s 9c]
+zio7777: checks 
+garethhession: bets 60
+zio7777: folds 
+Uncalled bet (60) returned to garethhession
+garethhession collected 132 from pot
+garethhession: doesn't show hand 
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Board [4s 6s 9c]
+Seat 2: garethhession (button) (small blind) collected (132)
+Seat 6: zio7777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198928093453: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level IV (30/60) - 2019/04/04 20:01:30 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (3253 in chips) 
+Seat 6: zio7777 (1247 in chips) 
+garethhession: posts the ante 6
+zio7777: posts the ante 6
+zio7777: posts small blind 30
+garethhession: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd 2c]
+zio7777: folds 
+Uncalled bet (30) returned to garethhession
+garethhession collected 72 from pot
+garethhession: doesn't show hand 
+*** SUMMARY ***
+Total pot 72 | Rake 0 
+Seat 2: garethhession (big blind) collected (72)
+Seat 6: zio7777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #198928096309: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level V (40/80) - 2019/04/04 20:01:38 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (3289 in chips) 
+Seat 6: zio7777 (1211 in chips) 
+garethhession: posts the ante 8
+zio7777: posts the ante 8
+garethhession: posts small blind 40
+zio7777: posts big blind 80
+*** HOLE CARDS ***
+Dealt to zio7777 [7h As]
+garethhession: calls 40
+zio7777: raises 1123 to 1203 and is all-in
+garethhession: calls 1123
+*** FLOP *** [3d Qc 6d]
+*** TURN *** [3d Qc 6d] [7d]
+*** RIVER *** [3d Qc 6d 7d] [2s]
+*** SHOW DOWN ***
+zio7777: shows [7h As] (a pair of Sevens)
+garethhession: shows [9c 5d] (high card Queen)
+zio7777 collected 2422 from pot
+*** SUMMARY ***
+Total pot 2422 | Rake 0 
+Board [3d Qc 6d 7d 2s]
+Seat 2: garethhession (button) (small blind) showed [9c 5d] and lost with high card Queen
+Seat 6: zio7777 (big blind) showed [7h As] and won (2422) with a pair of Sevens
+
+
+
+PokerStars Hand #198928105232: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level V (40/80) - 2019/04/04 20:02:01 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (2078 in chips) 
+Seat 6: zio7777 (2422 in chips) 
+garethhession: posts the ante 8
+zio7777: posts the ante 8
+zio7777: posts small blind 40
+garethhession: posts big blind 80
+*** HOLE CARDS ***
+Dealt to zio7777 [9s Qs]
+zio7777: calls 40
+garethhession: raises 1990 to 2070 and is all-in
+zio7777: folds 
+Uncalled bet (1990) returned to garethhession
+garethhession collected 176 from pot
+garethhession: doesn't show hand 
+*** SUMMARY ***
+Total pot 176 | Rake 0 
+Seat 2: garethhession (big blind) collected (176)
+Seat 6: zio7777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #198928114371: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level V (40/80) - 2019/04/04 20:02:23 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (2166 in chips) 
+Seat 6: zio7777 (2334 in chips) 
+garethhession: posts the ante 8
+zio7777: posts the ante 8
+garethhession: posts small blind 40
+zio7777: posts big blind 80
+*** HOLE CARDS ***
+Dealt to zio7777 [Kc 3d]
+garethhession: calls 40
+zio7777: checks 
+*** FLOP *** [9h 6d 3c]
+zio7777: checks 
+garethhession: bets 80
+zio7777: calls 80
+*** TURN *** [9h 6d 3c] [8d]
+zio7777: checks 
+garethhession: bets 80
+zio7777: calls 80
+*** RIVER *** [9h 6d 3c 8d] [5h]
+zio7777: checks 
+garethhession: checks 
+*** SHOW DOWN ***
+zio7777: shows [Kc 3d] (a pair of Threes)
+garethhession: mucks hand 
+zio7777 collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | Rake 0 
+Board [9h 6d 3c 8d 5h]
+Seat 2: garethhession (button) (small blind) mucked [Qd Ac]
+Seat 6: zio7777 (big blind) showed [Kc 3d] and won (496) with a pair of Threes
+
+
+
+PokerStars Hand #198928134258: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level V (40/80) - 2019/04/04 20:03:13 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (1918 in chips) 
+Seat 6: zio7777 (2582 in chips) 
+garethhession: posts the ante 8
+zio7777: posts the ante 8
+zio7777: posts small blind 40
+garethhession: posts big blind 80
+*** HOLE CARDS ***
+Dealt to zio7777 [Ac Js]
+zio7777: calls 40
+garethhession: checks 
+*** FLOP *** [Qc Kh 3s]
+garethhession: checks 
+zio7777: bets 80
+garethhession: calls 80
+*** TURN *** [Qc Kh 3s] [9h]
+garethhession: checks 
+zio7777: checks 
+*** RIVER *** [Qc Kh 3s 9h] [Td]
+garethhession: checks 
+zio7777: bets 160
+garethhession: calls 160
+*** SHOW DOWN ***
+zio7777: shows [Ac Js] (a straight, Ten to Ace)
+garethhession: mucks hand 
+zio7777 collected 656 from pot
+*** SUMMARY ***
+Total pot 656 | Rake 0 
+Board [Qc Kh 3s 9h Td]
+Seat 2: garethhession (big blind) mucked [6c Qh]
+Seat 6: zio7777 (button) (small blind) showed [Ac Js] and won (656) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #198928148113: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VI (50/100) - 2019/04/04 20:03:47 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (1590 in chips) 
+Seat 6: zio7777 (2910 in chips) 
+garethhession: posts the ante 10
+zio7777: posts the ante 10
+garethhession: posts small blind 50
+zio7777: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [4s 3c]
+garethhession: calls 50
+zio7777: checks 
+*** FLOP *** [8s Qc 3h]
+zio7777: checks 
+garethhession: checks 
+*** TURN *** [8s Qc 3h] [As]
+zio7777: bets 130
+garethhession: calls 130
+*** RIVER *** [8s Qc 3h As] [Th]
+zio7777: checks 
+garethhession: checks 
+*** SHOW DOWN ***
+zio7777: shows [4s 3c] (a pair of Threes)
+garethhession: mucks hand 
+zio7777 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [8s Qc 3h As Th]
+Seat 2: garethhession (button) (small blind) mucked [2h 9s]
+Seat 6: zio7777 (big blind) showed [4s 3c] and won (480) with a pair of Threes
+
+
+
+PokerStars Hand #198928160477: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VI (50/100) - 2019/04/04 20:04:18 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (1350 in chips) 
+Seat 6: zio7777 (3150 in chips) 
+garethhession: posts the ante 10
+zio7777: posts the ante 10
+zio7777: posts small blind 50
+garethhession: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [3h 3s]
+zio7777: calls 50
+garethhession: checks 
+*** FLOP *** [Ad 2h Js]
+garethhession: checks 
+zio7777: checks 
+*** TURN *** [Ad 2h Js] [8s]
+garethhession: checks 
+zio7777: bets 100
+garethhession: calls 100
+*** RIVER *** [Ad 2h Js 8s] [4s]
+garethhession: bets 100
+zio7777: calls 100
+*** SHOW DOWN ***
+garethhession: shows [7s Ts] (a flush, Jack high)
+zio7777: mucks hand 
+garethhession collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [Ad 2h Js 8s 4s]
+Seat 2: garethhession (big blind) showed [7s Ts] and won (620) with a flush, Jack high
+Seat 6: zio7777 (button) (small blind) mucked [3h 3s]
+
+
+
+PokerStars Hand #198928173145: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VI (50/100) - 2019/04/04 20:04:50 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (1660 in chips) 
+Seat 6: zio7777 (2840 in chips) 
+garethhession: posts the ante 10
+zio7777: posts the ante 10
+garethhession: posts small blind 50
+zio7777: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [Kh 2c]
+garethhession: calls 50
+zio7777: checks 
+*** FLOP *** [8c Td 9h]
+zio7777: checks 
+garethhession: checks 
+*** TURN *** [8c Td 9h] [7s]
+zio7777: bets 100
+garethhession: calls 100
+*** RIVER *** [8c Td 9h 7s] [6d]
+zio7777: bets 300
+garethhession: raises 300 to 600
+zio7777: calls 300
+*** SHOW DOWN ***
+garethhession: shows [Js 3c] (a straight, Seven to Jack)
+zio7777: mucks hand 
+garethhession collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | Rake 0 
+Board [8c Td 9h 7s 6d]
+Seat 2: garethhession (button) (small blind) showed [Js 3c] and won (1620) with a straight, Seven to Jack
+Seat 6: zio7777 (big blind) mucked [Kh 2c]
+
+
+
+PokerStars Hand #198928189323: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VI (50/100) - 2019/04/04 20:05:30 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (2470 in chips) 
+Seat 6: zio7777 (2030 in chips) 
+garethhession: posts the ante 10
+zio7777: posts the ante 10
+zio7777: posts small blind 50
+garethhession: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [7h Td]
+zio7777: calls 50
+garethhession: checks 
+*** FLOP *** [7d 3d Qs]
+garethhession: checks 
+zio7777: bets 155
+garethhession: calls 155
+*** TURN *** [7d 3d Qs] [8s]
+garethhession: checks 
+zio7777: checks 
+*** RIVER *** [7d 3d Qs 8s] [Ks]
+garethhession: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+garethhession: shows [2d 4s] (high card King)
+zio7777: shows [7h Td] (a pair of Sevens)
+zio7777 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [7d 3d Qs 8s Ks]
+Seat 2: garethhession (big blind) showed [2d 4s] and lost with high card King
+Seat 6: zio7777 (button) (small blind) showed [7h Td] and won (530) with a pair of Sevens
+
+
+
+PokerStars Hand #198928202429: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VII (60/120) - 2019/04/04 20:06:04 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (2205 in chips) 
+Seat 6: zio7777 (2295 in chips) 
+garethhession: posts the ante 12
+zio7777: posts the ante 12
+garethhession: posts small blind 60
+zio7777: posts big blind 120
+*** HOLE CARDS ***
+Dealt to zio7777 [2c 7s]
+garethhession: calls 60
+zio7777: checks 
+*** FLOP *** [2s Jc Ts]
+zio7777: checks 
+garethhession: checks 
+*** TURN *** [2s Jc Ts] [Qs]
+zio7777: checks 
+garethhession: checks 
+*** RIVER *** [2s Jc Ts Qs] [4s]
+zio7777: bets 120
+garethhession: calls 120
+*** SHOW DOWN ***
+zio7777: shows [2c 7s] (a flush, Queen high)
+garethhession: mucks hand 
+zio7777 collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | Rake 0 
+Board [2s Jc Ts Qs 4s]
+Seat 2: garethhession (button) (small blind) mucked [3c 2h]
+Seat 6: zio7777 (big blind) showed [2c 7s] and won (504) with a flush, Queen high
+
+
+
+PokerStars Hand #198928213709: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VII (60/120) - 2019/04/04 20:06:32 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (1953 in chips) 
+Seat 6: zio7777 (2547 in chips) 
+garethhession: posts the ante 12
+zio7777: posts the ante 12
+zio7777: posts small blind 60
+garethhession: posts big blind 120
+*** HOLE CARDS ***
+Dealt to zio7777 [2c Qd]
+zio7777: calls 60
+garethhession: checks 
+*** FLOP *** [Qh 3d Kd]
+garethhession: checks 
+zio7777: bets 120
+garethhession: calls 120
+*** TURN *** [Qh 3d Kd] [6s]
+garethhession: checks 
+zio7777: bets 240
+garethhession: calls 240
+*** RIVER *** [Qh 3d Kd 6s] [Ts]
+garethhession: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+garethhession: shows [Ah 7h] (high card Ace)
+zio7777: shows [2c Qd] (a pair of Queens)
+zio7777 collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | Rake 0 
+Board [Qh 3d Kd 6s Ts]
+Seat 2: garethhession (big blind) showed [Ah 7h] and lost with high card Ace
+Seat 6: zio7777 (button) (small blind) showed [2c Qd] and won (984) with a pair of Queens
+
+
+
+PokerStars Hand #198928228599: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VII (60/120) - 2019/04/04 20:07:09 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (1461 in chips) 
+Seat 6: zio7777 (3039 in chips) 
+garethhession: posts the ante 12
+zio7777: posts the ante 12
+garethhession: posts small blind 60
+zio7777: posts big blind 120
+*** HOLE CARDS ***
+Dealt to zio7777 [Th Jc]
+garethhession: calls 60
+zio7777: checks 
+*** FLOP *** [9d 3h 6s]
+zio7777: checks 
+garethhession: checks 
+*** TURN *** [9d 3h 6s] [2s]
+zio7777: bets 175
+garethhession: calls 175
+*** RIVER *** [9d 3h 6s 2s] [Kh]
+zio7777: checks 
+garethhession: bets 120
+zio7777: folds 
+Uncalled bet (120) returned to garethhession
+garethhession collected 614 from pot
+garethhession: doesn't show hand 
+*** SUMMARY ***
+Total pot 614 | Rake 0 
+Board [9d 3h 6s 2s Kh]
+Seat 2: garethhession (button) (small blind) collected (614)
+Seat 6: zio7777 (big blind) folded on the River
+
+
+
+PokerStars Hand #198928245500: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VIII (75/150) - 2019/04/04 20:07:52 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (1768 in chips) 
+Seat 6: zio7777 (2732 in chips) 
+garethhession: posts the ante 15
+zio7777: posts the ante 15
+zio7777: posts small blind 75
+garethhession: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Kc 6s]
+zio7777: raises 2567 to 2717 and is all-in
+garethhession: calls 1603 and is all-in
+Uncalled bet (964) returned to zio7777
+*** FLOP *** [8c Td 4d]
+*** TURN *** [8c Td 4d] [9s]
+*** RIVER *** [8c Td 4d 9s] [8h]
+*** SHOW DOWN ***
+garethhession: shows [5c Th] (two pair, Tens and Eights)
+zio7777: shows [Kc 6s] (a pair of Eights)
+garethhession collected 3536 from pot
+*** SUMMARY ***
+Total pot 3536 | Rake 0 
+Board [8c Td 4d 9s 8h]
+Seat 2: garethhession (big blind) showed [5c Th] and won (3536) with two pair, Tens and Eights
+Seat 6: zio7777 (button) (small blind) showed [Kc 6s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #198928252074: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VIII (75/150) - 2019/04/04 20:08:09 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (3536 in chips) 
+Seat 6: zio7777 (964 in chips) 
+garethhession: posts the ante 15
+zio7777: posts the ante 15
+garethhession: posts small blind 75
+zio7777: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad Ah]
+garethhession: calls 75
+zio7777: checks 
+*** FLOP *** [6h Qs Th]
+zio7777: checks 
+garethhession: checks 
+*** TURN *** [6h Qs Th] [6c]
+zio7777: bets 225
+garethhession: calls 225
+*** RIVER *** [6h Qs Th 6c] [Kd]
+zio7777: bets 574 and is all-in
+garethhession: calls 574
+*** SHOW DOWN ***
+zio7777: shows [Ad Ah] (two pair, Aces and Sixes)
+garethhession: shows [Qh 9s] (two pair, Queens and Sixes)
+zio7777 collected 1928 from pot
+*** SUMMARY ***
+Total pot 1928 | Rake 0 
+Board [6h Qs Th 6c Kd]
+Seat 2: garethhession (button) (small blind) showed [Qh 9s] and lost with two pair, Queens and Sixes
+Seat 6: zio7777 (big blind) showed [Ad Ah] and won (1928) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #198928269263: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level VIII (75/150) - 2019/04/04 20:08:54 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (2572 in chips) 
+Seat 6: zio7777 (1928 in chips) 
+garethhession: posts the ante 15
+zio7777: posts the ante 15
+zio7777: posts small blind 75
+garethhession: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad Jd]
+zio7777: calls 75
+garethhession: checks 
+*** FLOP *** [3h 5c 7h]
+garethhession: checks 
+zio7777: bets 225
+garethhession: calls 225
+*** TURN *** [3h 5c 7h] [4c]
+garethhession: checks 
+zio7777: checks 
+*** RIVER *** [3h 5c 7h 4c] [3d]
+garethhession: bets 300
+zio7777: calls 300
+*** SHOW DOWN ***
+garethhession: shows [6s 4s] (a straight, Three to Seven)
+zio7777: mucks hand 
+garethhession collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Board [3h 5c 7h 4c 3d]
+Seat 2: garethhession (big blind) showed [6s 4s] and won (1380) with a straight, Three to Seven
+Seat 6: zio7777 (button) (small blind) mucked [Ad Jd]
+
+
+
+PokerStars Hand #198928292424: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level IX (90/180) - 2019/04/04 20:09:53 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (3262 in chips) 
+Seat 6: zio7777 (1238 in chips) 
+garethhession: posts the ante 18
+zio7777: posts the ante 18
+garethhession: posts small blind 90
+zio7777: posts big blind 180
+*** HOLE CARDS ***
+Dealt to zio7777 [2c 9s]
+garethhession: calls 90
+zio7777: checks 
+*** FLOP *** [6s 3h 9c]
+zio7777: checks 
+garethhession: bets 180
+zio7777: raises 860 to 1040 and is all-in
+garethhession: calls 860
+*** TURN *** [6s 3h 9c] [5s]
+*** RIVER *** [6s 3h 9c 5s] [9d]
+*** SHOW DOWN ***
+zio7777: shows [2c 9s] (three of a kind, Nines)
+garethhession: shows [7d 7h] (two pair, Nines and Sevens)
+zio7777 collected 2476 from pot
+*** SUMMARY ***
+Total pot 2476 | Rake 0 
+Board [6s 3h 9c 5s 9d]
+Seat 2: garethhession (button) (small blind) showed [7d 7h] and lost with two pair, Nines and Sevens
+Seat 6: zio7777 (big blind) showed [2c 9s] and won (2476) with three of a kind, Nines
+
+
+
+PokerStars Hand #198928302637: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level IX (90/180) - 2019/04/04 20:10:20 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (2024 in chips) 
+Seat 6: zio7777 (2476 in chips) 
+garethhession: posts the ante 18
+zio7777: posts the ante 18
+zio7777: posts small blind 90
+garethhession: posts big blind 180
+*** HOLE CARDS ***
+Dealt to zio7777 [5s Kh]
+zio7777: raises 2278 to 2458 and is all-in
+garethhession: calls 1826 and is all-in
+Uncalled bet (452) returned to zio7777
+*** FLOP *** [Td Qs 4c]
+*** TURN *** [Td Qs 4c] [3h]
+*** RIVER *** [Td Qs 4c 3h] [3c]
+*** SHOW DOWN ***
+garethhession: shows [9c Ah] (a pair of Threes)
+zio7777: shows [5s Kh] (a pair of Threes - lower kicker)
+garethhession collected 4048 from pot
+*** SUMMARY ***
+Total pot 4048 | Rake 0 
+Board [Td Qs 4c 3h 3c]
+Seat 2: garethhession (big blind) showed [9c Ah] and won (4048) with a pair of Threes
+Seat 6: zio7777 (button) (small blind) showed [5s Kh] and lost with a pair of Threes
+
+
+
+PokerStars Hand #198928310900: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level IX (90/180) - 2019/04/04 20:10:41 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (4048 in chips) 
+Seat 6: zio7777 (452 in chips) 
+garethhession: posts the ante 18
+zio7777: posts the ante 18
+garethhession: posts small blind 90
+zio7777: posts big blind 180
+*** HOLE CARDS ***
+Dealt to zio7777 [8c 4s]
+garethhession: calls 90
+zio7777: checks 
+*** FLOP *** [Tc 5c 4c]
+zio7777: bets 254 and is all-in
+garethhession: calls 254
+*** TURN *** [Tc 5c 4c] [Qh]
+*** RIVER *** [Tc 5c 4c Qh] [Ad]
+*** SHOW DOWN ***
+zio7777: shows [8c 4s] (a pair of Fours)
+garethhession: shows [7c Js] (high card Ace)
+zio7777 collected 904 from pot
+*** SUMMARY ***
+Total pot 904 | Rake 0 
+Board [Tc 5c 4c Qh Ad]
+Seat 2: garethhession (button) (small blind) showed [7c Js] and lost with high card Ace
+Seat 6: zio7777 (big blind) showed [8c 4s] and won (904) with a pair of Fours
+
+
+
+PokerStars Hand #198928320092: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level IX (90/180) - 2019/04/04 20:11:05 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (3596 in chips) 
+Seat 6: zio7777 (904 in chips) 
+garethhession: posts the ante 18
+zio7777: posts the ante 18
+zio7777: posts small blind 90
+garethhession: posts big blind 180
+*** HOLE CARDS ***
+Dealt to zio7777 [5h Ac]
+zio7777: raises 706 to 886 and is all-in
+garethhession: calls 706
+*** FLOP *** [5c 2c 6d]
+*** TURN *** [5c 2c 6d] [2s]
+*** RIVER *** [5c 2c 6d 2s] [Js]
+*** SHOW DOWN ***
+garethhession: shows [7d 8c] (a pair of Deuces)
+zio7777: shows [5h Ac] (two pair, Fives and Deuces)
+zio7777 collected 1808 from pot
+*** SUMMARY ***
+Total pot 1808 | Rake 0 
+Board [5c 2c 6d 2s Js]
+Seat 2: garethhession (big blind) showed [7d 8c] and lost with a pair of Deuces
+Seat 6: zio7777 (button) (small blind) showed [5h Ac] and won (1808) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #198928327073: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level IX (90/180) - 2019/04/04 20:11:23 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (2692 in chips) 
+Seat 6: zio7777 (1808 in chips) 
+garethhession: posts the ante 18
+zio7777: posts the ante 18
+garethhession: posts small blind 90
+zio7777: posts big blind 180
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 2s]
+garethhession: calls 90
+zio7777: checks 
+*** FLOP *** [4d 6c 5d]
+zio7777: checks 
+garethhession: bets 180
+zio7777: folds 
+Uncalled bet (180) returned to garethhession
+garethhession collected 396 from pot
+garethhession: doesn't show hand 
+*** SUMMARY ***
+Total pot 396 | Rake 0 
+Board [4d 6c 5d]
+Seat 2: garethhession (button) (small blind) collected (396)
+Seat 6: zio7777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198928337353: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level X (105/210) - 2019/04/04 20:11:50 ET
+Table '2578189227 1' 9-max Seat #6 is the button
+Seat 2: garethhession (2890 in chips) 
+Seat 6: zio7777 (1610 in chips) 
+garethhession: posts the ante 21
+zio7777: posts the ante 21
+zio7777: posts small blind 105
+garethhession: posts big blind 210
+*** HOLE CARDS ***
+Dealt to zio7777 [6d 6h]
+zio7777: raises 1379 to 1589 and is all-in
+garethhession: calls 1379
+*** FLOP *** [Ts Qs 4d]
+*** TURN *** [Ts Qs 4d] [3c]
+*** RIVER *** [Ts Qs 4d 3c] [4c]
+*** SHOW DOWN ***
+garethhession: shows [3s Ac] (two pair, Fours and Threes)
+zio7777: shows [6d 6h] (two pair, Sixes and Fours)
+zio7777 collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | Rake 0 
+Board [Ts Qs 4d 3c 4c]
+Seat 2: garethhession (big blind) showed [3s Ac] and lost with two pair, Fours and Threes
+Seat 6: zio7777 (button) (small blind) showed [6d 6h] and won (3220) with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #198928342801: Tournament #2578189227, 4250+4250+1500 Hold'em No Limit - Level X (105/210) - 2019/04/04 20:12:04 ET
+Table '2578189227 1' 9-max Seat #2 is the button
+Seat 2: garethhession (1280 in chips) 
+Seat 6: zio7777 (3220 in chips) 
+garethhession: posts the ante 21
+zio7777: posts the ante 21
+garethhession: posts small blind 105
+zio7777: posts big blind 210
+*** HOLE CARDS ***
+Dealt to zio7777 [8d 7d]
+garethhession: calls 105
+zio7777: checks 
+*** FLOP *** [4d 6c 7s]
+zio7777: bets 420
+garethhession: calls 420
+*** TURN *** [4d 6c 7s] [Td]
+zio7777: bets 1302
+garethhession: calls 629 and is all-in
+Uncalled bet (673) returned to zio7777
+*** RIVER *** [4d 6c 7s Td] [5h]
+*** SHOW DOWN ***
+zio7777: shows [8d 7d] (a straight, Four to Eight)
+garethhession: shows [2c Qs] (high card Queen)
+zio7777 collected 2560 from pot
+zio7777 wins the 4250 bounty for eliminating garethhession
+garethhession finished the tournament in 2nd place and received 11475.00.
+zio7777 wins the tournament and receives 19125.00 - congratulations!
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Board [4d 6c 7s Td 5h]
+Seat 2: garethhession (button) (small blind) showed [2c Qs] and lost with high card Queen
+Seat 6: zio7777 (big blind) showed [8d 7d] and won (2560) with a straight, Four to Eight
+
+
+

@@ -1,0 +1,395 @@
+﻿PokerStars Hand #204879766799:  Hold'em No Limit (1000/2000) - 2019/10/04 17:59:04 ET
+Table 'Gonnessia II' 9-max (Play Money) Seat #9 is the button
+Seat 2: dyankee_4 (190880 in chips) 
+Seat 3: luc0505 (405770 in chips) 
+Seat 4: AAmateur612 (240100 in chips) 
+Seat 6: zio7777 (200000 in chips) 
+Seat 8: osismager (233270 in chips) 
+Seat 9: perinifab (59290 in chips) 
+dyankee_4: posts small blind 1000
+luc0505: posts big blind 2000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [3c 8c]
+AAmateur612: calls 2000
+zio7777: checks 
+osismager: calls 2000
+perinifab: calls 2000
+dyankee_4: folds 
+luc0505: checks 
+*** FLOP *** [6s 9h 4c]
+luc0505: checks 
+AAmateur612: checks 
+musti88 joins the table at seat #1 
+zio7777: checks 
+osismager: checks 
+perinifab: checks 
+*** TURN *** [6s 9h 4c] [3h]
+luc0505: bets 10390
+AAmateur612: folds 
+zio7777: folds 
+osismager: folds 
+perinifab: folds 
+Uncalled bet (10390) returned to luc0505
+luc0505 collected 10390 from pot
+luc0505: doesn't show hand 
+*** SUMMARY ***
+Total pot 11000 | Rake 610 
+Board [6s 9h 4c 3h]
+Seat 2: dyankee_4 (small blind) folded before Flop
+Seat 3: luc0505 (big blind) collected (10390)
+Seat 4: AAmateur612 folded on the Turn
+Seat 6: zio7777 folded on the Turn (didn't bet)
+Seat 8: osismager folded on the Turn
+Seat 9: perinifab (button) folded on the Turn
+
+
+
+PokerStars Hand #204879792022:  Hold'em No Limit (1000/2000) - 2019/10/04 18:00:04 ET
+Table 'Gonnessia II' 9-max (Play Money) Seat #2 is the button
+Seat 1: musti88 (200000 in chips) 
+Seat 2: dyankee_4 (189880 in chips) 
+Seat 3: luc0505 (414160 in chips) 
+Seat 4: AAmateur612 (238100 in chips) 
+Seat 6: zio7777 (198000 in chips) 
+Seat 8: osismager (231270 in chips) 
+Seat 9: perinifab (57290 in chips) 
+luc0505: posts small blind 1000
+AAmateur612: posts big blind 2000
+musti88: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Td Jh]
+zio7777: folds 
+osismager: calls 2000
+perinifab: calls 2000
+musti88: checks 
+dyankee_4: calls 2000
+luc0505: calls 1000
+AAmateur612: checks 
+*** FLOP *** [2c 3d Qc]
+luc0505: checks 
+AAmateur612: checks 
+osismager: checks 
+perinifab: bets 2000
+musti88: calls 2000
+dyankee_4: folds 
+luc0505: folds 
+AAmateur612: folds 
+osismager: folds 
+*** TURN *** [2c 3d Qc] [7h]
+perinifab: bets 2000
+musti88: calls 2000
+*** RIVER *** [2c 3d Qc 7h] [4d]
+perinifab: bets 2000
+musti88: folds 
+Uncalled bet (2000) returned to perinifab
+perinifab collected 18900 from pot
+perinifab: doesn't show hand 
+*** SUMMARY ***
+Total pot 20000 | Rake 1100 
+Board [2c 3d Qc 7h 4d]
+Seat 1: musti88 folded on the River
+Seat 2: dyankee_4 (button) folded on the Flop
+Seat 3: luc0505 (small blind) folded on the Flop
+Seat 4: AAmateur612 (big blind) folded on the Flop
+Seat 6: zio7777 folded before Flop (didn't bet)
+Seat 8: osismager folded on the Flop
+Seat 9: perinifab collected (18900)
+
+
+
+PokerStars Hand #204879818180:  Hold'em No Limit (1000/2000) - 2019/10/04 18:01:03 ET
+Table 'Gonnessia II' 9-max (Play Money) Seat #3 is the button
+Seat 1: musti88 (194000 in chips) 
+Seat 2: dyankee_4 (187880 in chips) 
+Seat 3: luc0505 (412160 in chips) 
+Seat 4: AAmateur612 (236100 in chips) 
+Seat 6: zio7777 (198000 in chips) 
+Seat 8: osismager (229270 in chips) 
+Seat 9: perinifab (70190 in chips) 
+AAmateur612: posts small blind 1000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [5h 8h]
+osismager: calls 2000
+perinifab: calls 2000
+musti88: folds 
+dyankee_4: folds 
+luc0505: folds 
+AAmateur612: calls 1000
+zio7777: checks 
+*** FLOP *** [Qh 9c Qs]
+AAmateur612: checks 
+zio7777: checks 
+osismager: checks 
+perinifab: checks 
+*** TURN *** [Qh 9c Qs] [9d]
+AAmateur612: checks 
+zio7777: checks 
+osismager: checks 
+perinifab: checks 
+*** RIVER *** [Qh 9c Qs 9d] [7d]
+AAmateur612: checks 
+zio7777: checks 
+osismager: bets 10000
+perinifab: folds 
+AAmateur612: folds 
+zio7777: folds 
+Uncalled bet (10000) returned to osismager
+osismager collected 7560 from pot
+*** SUMMARY ***
+Total pot 8000 | Rake 440 
+Board [Qh 9c Qs 9d 7d]
+Seat 1: musti88 folded before Flop (didn't bet)
+Seat 2: dyankee_4 folded before Flop (didn't bet)
+Seat 3: luc0505 (button) folded before Flop (didn't bet)
+Seat 4: AAmateur612 (small blind) folded on the River
+Seat 6: zio7777 (big blind) folded on the River
+Seat 8: osismager collected (7560)
+Seat 9: perinifab folded on the River
+
+
+
+PokerStars Hand #204879854356:  Hold'em No Limit (1000/2000) - 2019/10/04 18:02:15 ET
+Table 'Gonnessia II' 9-max (Play Money) Seat #4 is the button
+Seat 1: musti88 (194000 in chips) 
+Seat 2: dyankee_4 (187880 in chips) 
+Seat 3: luc0505 (412160 in chips) 
+Seat 4: AAmateur612 (234100 in chips) 
+Seat 6: zio7777 (196000 in chips) 
+Seat 7: gorgon975 (200000 in chips) 
+Seat 8: osismager (234830 in chips) 
+Seat 9: perinifab (68190 in chips) 
+zio7777: posts small blind 1000
+gorgon975: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Ac 7c]
+osismager: calls 2000
+perinifab: calls 2000
+musti88: calls 2000
+dyankee_4: calls 2000
+luc0505: folds 
+AAmateur612: folds 
+zio7777: raises 12000 to 14000
+gorgon975: folds 
+osismager: folds 
+perinifab: raises 54190 to 68190 and is all-in
+musti88: folds 
+dyankee_4: folds 
+zio7777: calls 54190
+*** FLOP *** [2c Qs 5d]
+*** TURN *** [2c Qs 5d] [3s]
+*** RIVER *** [2c Qs 5d 3s] [8s]
+*** SHOW DOWN ***
+zio7777: shows [Ac 7c] (high card Ace)
+perinifab: shows [Ah 4h] (a straight, Ace to Five)
+perinifab collected 136440 from pot
+*** SUMMARY ***
+Total pot 144380 | Rake 7940 
+Board [2c Qs 5d 3s 8s]
+Seat 1: musti88 folded before Flop
+Seat 2: dyankee_4 folded before Flop
+Seat 3: luc0505 folded before Flop (didn't bet)
+Seat 4: AAmateur612 (button) folded before Flop (didn't bet)
+Seat 6: zio7777 (small blind) showed [Ac 7c] and lost with high card Ace
+Seat 7: gorgon975 (big blind) folded before Flop
+Seat 8: osismager folded before Flop
+Seat 9: perinifab showed [Ah 4h] and won (136440) with a straight, Ace to Five
+
+
+
+PokerStars Hand #204879888751:  Hold'em No Limit (1000/2000) - 2019/10/04 18:03:22 ET
+Table 'Gonnessia II' 9-max (Play Money) Seat #6 is the button
+Seat 1: musti88 (192000 in chips) 
+Seat 2: dyankee_4 (185880 in chips) 
+Seat 3: luc0505 (412160 in chips) 
+Seat 4: AAmateur612 (234100 in chips) 
+Seat 6: zio7777 (127810 in chips) 
+Seat 7: gorgon975 (198000 in chips) 
+Seat 8: osismager (232830 in chips) 
+Seat 9: perinifab (136440 in chips) 
+gorgon975: posts small blind 1000
+osismager: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [5h Td]
+perinifab: calls 2000
+musti88: calls 2000
+dyankee_4: folds 
+luc0505: raises 10000 to 12000
+AAmateur612: folds 
+zio7777: folds 
+gorgon975: folds 
+osismager: folds 
+perinifab: raises 124440 to 136440 and is all-in
+musti88: calls 134440
+luc0505: folds 
+*** FLOP *** [5d Kh 3c]
+*** TURN *** [5d Kh 3c] [Jh]
+*** RIVER *** [5d Kh 3c Jh] [3s]
+*** SHOW DOWN ***
+perinifab: shows [Ac Js] (two pair, Jacks and Threes)
+musti88: shows [Kd Qd] (two pair, Kings and Threes)
+musti88 collected 272050 from pot
+*** SUMMARY ***
+Total pot 287880 | Rake 15830 
+Board [5d Kh 3c Jh 3s]
+Seat 1: musti88 showed [Kd Qd] and won (272050) with two pair, Kings and Threes
+Seat 2: dyankee_4 folded before Flop (didn't bet)
+Seat 3: luc0505 folded before Flop
+Seat 4: AAmateur612 folded before Flop (didn't bet)
+Seat 6: zio7777 (button) folded before Flop (didn't bet)
+Seat 7: gorgon975 (small blind) folded before Flop
+Seat 8: osismager (big blind) folded before Flop
+Seat 9: perinifab showed [Ac Js] and lost with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #204879909890:  Hold'em No Limit (1000/2000) - 2019/10/04 18:04:03 ET
+Table 'Gonnessia II' 9-max (Play Money) Seat #7 is the button
+Seat 1: musti88 (327610 in chips) 
+Seat 2: dyankee_4 (185880 in chips) 
+Seat 3: luc0505 (400160 in chips) 
+Seat 4: AAmateur612 (234100 in chips) 
+Seat 6: zio7777 (127810 in chips) 
+Seat 7: gorgon975 (197000 in chips) 
+Seat 8: osismager (230830 in chips) 
+osismager: posts small blind 1000
+musti88: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [7h 4c]
+perinifab leaves the table
+dyankee_4: folds 
+luc0505: folds 
+AAmateur612: folds 
+zio7777: folds 
+gorgon975: calls 2000
+osismager: folds 
+musti88: checks 
+*** FLOP *** [9c Jc 6c]
+alexmella65 joins the table at seat #9 
+musti88: checks 
+gorgon975: checks 
+*** TURN *** [9c Jc 6c] [Ad]
+musti88: checks 
+gorgon975: checks 
+*** RIVER *** [9c Jc 6c Ad] [Ah]
+musti88: bets 8000
+gorgon975: folds 
+Uncalled bet (8000) returned to musti88
+musti88 collected 4720 from pot
+*** SUMMARY ***
+Total pot 5000 | Rake 280 
+Board [9c Jc 6c Ad Ah]
+Seat 1: musti88 (big blind) collected (4720)
+Seat 2: dyankee_4 folded before Flop (didn't bet)
+Seat 3: luc0505 folded before Flop (didn't bet)
+Seat 4: AAmateur612 folded before Flop (didn't bet)
+Seat 6: zio7777 folded before Flop (didn't bet)
+Seat 7: gorgon975 (button) folded on the River
+Seat 8: osismager (small blind) folded before Flop
+
+
+
+PokerStars Hand #204879931166:  Hold'em No Limit (1000/2000) - 2019/10/04 18:04:45 ET
+Table 'Gonnessia II' 9-max (Play Money) Seat #8 is the button
+Seat 1: musti88 (330330 in chips) 
+Seat 2: dyankee_4 (185880 in chips) 
+Seat 3: luc0505 (400160 in chips) 
+Seat 4: AAmateur612 (234100 in chips) 
+Seat 6: zio7777 (127810 in chips) 
+Seat 7: gorgon975 (195000 in chips) 
+Seat 8: osismager (229830 in chips) 
+musti88: posts small blind 1000
+dyankee_4: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad Qh]
+luc0505: calls 2000
+AAmateur612: folds 
+zio7777: raises 7000 to 9000
+gorgon975: calls 9000
+osismager: folds 
+musti88: calls 8000
+dyankee_4: folds 
+luc0505: calls 7000
+*** FLOP *** [Kc 3h 3c]
+musti88: checks 
+luc0505: checks 
+zio7777 has timed out
+zio7777: checks 
+gorgon975: checks 
+*** TURN *** [Kc 3h 3c] [Kd]
+musti88: checks 
+luc0505: bets 2000
+zio7777: calls 2000
+gorgon975: calls 2000
+musti88: folds 
+*** RIVER *** [Kc 3h 3c Kd] [5c]
+luc0505: bets 2000
+zio7777 has timed out
+zio7777: folds 
+gorgon975: calls 2000
+*** SHOW DOWN ***
+luc0505: shows [Ah 4c] (two pair, Kings and Threes)
+gorgon975: shows [As 7d] (two pair, Kings and Threes)
+luc0505 collected 22680 from pot
+gorgon975 collected 22680 from pot
+*** SUMMARY ***
+Total pot 48000 | Rake 2640 
+Board [Kc 3h 3c Kd 5c]
+Seat 1: musti88 (small blind) folded on the Turn
+Seat 2: dyankee_4 (big blind) folded before Flop
+Seat 3: luc0505 showed [Ah 4c] and won (22680) with two pair, Kings and Threes
+Seat 4: AAmateur612 folded before Flop (didn't bet)
+Seat 6: zio7777 folded on the River
+Seat 7: gorgon975 showed [As 7d] and won (22680) with two pair, Kings and Threes
+Seat 8: osismager (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #204879993267:  Hold'em No Limit (1000/2000) - 2019/10/04 18:06:46 ET
+Table 'Gonnessia II' 9-max (Play Money) Seat #1 is the button
+Seat 1: musti88 (321330 in chips) 
+Seat 2: dyankee_4 (183880 in chips) 
+Seat 3: luc0505 (409840 in chips) 
+Seat 4: AAmateur612 (234100 in chips) 
+Seat 6: zio7777 (116810 in chips) 
+Seat 7: gorgon975 (204680 in chips) 
+Seat 8: osismager (229830 in chips) 
+Seat 9: alexmella65 (114000 in chips) 
+dyankee_4: posts small blind 1000
+luc0505: posts big blind 2000
+alexmella65: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 7h]
+AAmateur612: folds 
+zio7777: folds 
+gorgon975: folds 
+osismager: calls 2000
+alexmella65: checks 
+musti88: calls 2000
+dyankee_4: folds 
+luc0505: checks 
+*** FLOP *** [8d As 4d]
+luc0505: checks 
+osismager: checks 
+alexmella65: checks 
+musti88: bets 8000
+luc0505: folds 
+osismager: folds 
+alexmella65: folds 
+Uncalled bet (8000) returned to musti88
+musti88 collected 8500 from pot
+*** SUMMARY ***
+Total pot 9000 | Rake 500 
+Board [8d As 4d]
+Seat 1: musti88 (button) collected (8500)
+Seat 2: dyankee_4 (small blind) folded before Flop
+Seat 3: luc0505 (big blind) folded on the Flop
+Seat 4: AAmateur612 folded before Flop (didn't bet)
+Seat 6: zio7777 folded before Flop (didn't bet)
+Seat 7: gorgon975 folded before Flop (didn't bet)
+Seat 8: osismager folded on the Flop
+Seat 9: alexmella65 folded on the Flop (didn't bet)
+
+
+

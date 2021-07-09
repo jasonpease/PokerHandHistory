@@ -1,0 +1,559 @@
+﻿PokerStars Hand #198911243773: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/04/04 12:42:31 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (500 in chips) 
+Seat 2: Marko0009 (500 in chips) 
+Seat 3: zio7777 (500 in chips) 
+Marko0009: posts small blind 10
+zio7777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [3h As]
+fahim518: raises 20 to 40
+Marko0009: calls 30
+zio7777: calls 20
+*** FLOP *** [9s 8d 5h]
+Marko0009: bets 60
+zio7777: folds 
+fahim518: calls 60
+*** TURN *** [9s 8d 5h] [5s]
+Marko0009: bets 120
+fahim518: folds 
+Uncalled bet (120) returned to Marko0009
+Marko0009 collected 240 from pot
+Marko0009: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9s 8d 5h 5s]
+Seat 1: fahim518 (button) folded on the Turn
+Seat 2: Marko0009 (small blind) collected (240)
+Seat 3: zio7777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198911263007: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/04/04 12:43:02 ET
+Table '2577848775 1' 3-max Seat #2 is the button
+Seat 1: fahim518 (400 in chips) 
+Seat 2: Marko0009 (640 in chips) 
+Seat 3: zio7777 (460 in chips) 
+zio7777: posts small blind 10
+fahim518: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [3s 8d]
+Marko0009: folds 
+zio7777: calls 10
+fahim518: checks 
+*** FLOP *** [6h 4d Kh]
+zio7777: checks 
+fahim518: checks 
+*** TURN *** [6h 4d Kh] [Ah]
+zio7777: bets 20
+fahim518: raises 40 to 60
+zio7777: folds 
+Uncalled bet (40) returned to fahim518
+fahim518 collected 80 from pot
+fahim518: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 4d Kh Ah]
+Seat 1: fahim518 (big blind) collected (80)
+Seat 2: Marko0009 (button) folded before Flop (didn't bet)
+Seat 3: zio7777 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #198911283521: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/04/04 12:43:34 ET
+Table '2577848775 1' 3-max Seat #3 is the button
+Seat 1: fahim518 (440 in chips) 
+Seat 2: Marko0009 (640 in chips) 
+Seat 3: zio7777 (420 in chips) 
+fahim518: posts small blind 10
+Marko0009: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [7h 9h]
+zio7777 has timed out
+zio7777: folds 
+fahim518: calls 10
+Marko0009: checks 
+*** FLOP *** [Ad 9d 8d]
+fahim518: checks 
+Marko0009: checks 
+*** TURN *** [Ad 9d 8d] [9s]
+fahim518: checks 
+Marko0009: checks 
+*** RIVER *** [Ad 9d 8d 9s] [Qd]
+fahim518: checks 
+Marko0009: bets 200
+fahim518: calls 200
+*** SHOW DOWN ***
+Marko0009: shows [3d Jh] (a flush, Ace high)
+fahim518: shows [2h Kd] (a flush, Ace high - King higher)
+fahim518 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Ad 9d 8d 9s Qd]
+Seat 1: fahim518 (small blind) showed [2h Kd] and won (440) with a flush, Ace high
+Seat 2: Marko0009 (big blind) showed [3d Jh] and lost with a flush, Ace high
+Seat 3: zio7777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198911323598: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/04/04 12:44:38 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (660 in chips) 
+Seat 2: Marko0009 (420 in chips) 
+Seat 3: zio7777 (420 in chips) 
+Marko0009: posts small blind 10
+zio7777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [As Jh]
+fahim518: calls 20
+Marko0009: calls 10
+zio7777: raises 80 to 100
+fahim518: calls 80
+Marko0009: calls 80
+*** FLOP *** [Ts 4d Ah]
+Marko0009: checks 
+zio7777: bets 320 and is all-in
+fahim518: folds 
+Marko0009: folds 
+Uncalled bet (320) returned to zio7777
+zio7777 collected 300 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ts 4d Ah]
+Seat 1: fahim518 (button) folded on the Flop
+Seat 2: Marko0009 (small blind) folded on the Flop
+Seat 3: zio7777 (big blind) collected (300)
+
+
+
+PokerStars Hand #198911346992: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/04/04 12:45:15 ET
+Table '2577848775 1' 3-max Seat #2 is the button
+Seat 1: fahim518 (560 in chips) 
+Seat 2: Marko0009 (320 in chips) 
+Seat 3: zio7777 (620 in chips) 
+zio7777: posts small blind 10
+fahim518: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [8s 4s]
+Marko0009: raises 20 to 40
+zio7777: folds 
+fahim518: calls 20
+*** FLOP *** [Jc 3h 4d]
+fahim518: checks 
+Marko0009: checks 
+*** TURN *** [Jc 3h 4d] [Kd]
+fahim518: checks 
+Marko0009: checks 
+*** RIVER *** [Jc 3h 4d Kd] [Qc]
+fahim518: checks 
+Marko0009: checks 
+*** SHOW DOWN ***
+fahim518: shows [Th 8h] (high card King)
+Marko0009: mucks hand 
+fahim518 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jc 3h 4d Kd Qc]
+Seat 1: fahim518 (big blind) showed [Th 8h] and won (90) with high card King
+Seat 2: Marko0009 (button) mucked [6h 9h]
+Seat 3: zio7777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198911373853: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/04/04 12:45:58 ET
+Table '2577848775 1' 3-max Seat #3 is the button
+Seat 1: fahim518 (610 in chips) 
+Seat 2: Marko0009 (280 in chips) 
+Seat 3: zio7777 (610 in chips) 
+fahim518: posts small blind 15
+Marko0009: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Td Kd]
+zio7777: raises 60 to 90
+fahim518: calls 75
+Marko0009: calls 60
+*** FLOP *** [Kh 6c 3d]
+fahim518: checks 
+Marko0009: bets 190 and is all-in
+zio7777: raises 330 to 520 and is all-in
+fahim518: folds 
+Uncalled bet (330) returned to zio7777
+*** TURN *** [Kh 6c 3d] [Ac]
+*** RIVER *** [Kh 6c 3d Ac] [8h]
+*** SHOW DOWN ***
+Marko0009: shows [5c Qd] (high card Ace)
+zio7777: shows [Td Kd] (a pair of Kings)
+zio7777 collected 650 from pot
+Marko0009 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Kh 6c 3d Ac 8h]
+Seat 1: fahim518 (small blind) folded on the Flop
+Seat 2: Marko0009 (big blind) showed [5c Qd] and lost with high card Ace
+Seat 3: zio7777 (button) showed [Td Kd] and won (650) with a pair of Kings
+
+
+
+PokerStars Hand #198911393173: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/04/04 12:46:29 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (520 in chips) 
+Seat 3: zio7777 (980 in chips) 
+fahim518: posts small blind 15
+zio7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Ts 2h]
+fahim518: calls 15
+zio7777: checks 
+*** FLOP *** [2c Qh 8h]
+zio7777: bets 30
+fahim518: calls 30
+*** TURN *** [2c Qh 8h] [4c]
+zio7777: bets 60
+fahim518: calls 60
+*** RIVER *** [2c Qh 8h 4c] [Ad]
+zio7777: checks 
+fahim518: checks 
+*** SHOW DOWN ***
+zio7777: shows [Ts 2h] (a pair of Deuces)
+fahim518: mucks hand 
+zio7777 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2c Qh 8h 4c Ad]
+Seat 1: fahim518 (button) (small blind) mucked [Th 7h]
+Seat 3: zio7777 (big blind) showed [Ts 2h] and won (240) with a pair of Deuces
+
+
+
+PokerStars Hand #198911417411: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/04/04 12:47:08 ET
+Table '2577848775 1' 3-max Seat #3 is the button
+Seat 1: fahim518 (400 in chips) 
+Seat 3: zio7777 (1100 in chips) 
+zio7777: posts small blind 15
+fahim518: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [7s Jd]
+zio7777: raises 45 to 75
+fahim518: calls 45
+*** FLOP *** [9c As Kh]
+fahim518: checks 
+zio7777: checks 
+*** TURN *** [9c As Kh] [8c]
+fahim518: checks 
+zio7777: bets 45
+fahim518: calls 45
+*** RIVER *** [9c As Kh 8c] [Kc]
+fahim518: checks 
+zio7777: checks 
+*** SHOW DOWN ***
+fahim518: shows [Qc Ts] (a pair of Kings)
+zio7777: mucks hand 
+fahim518 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9c As Kh 8c Kc]
+Seat 1: fahim518 (big blind) showed [Qc Ts] and won (240) with a pair of Kings
+Seat 3: zio7777 (button) (small blind) mucked [7s Jd]
+
+
+
+PokerStars Hand #198911444671: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/04/04 12:47:51 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (520 in chips) 
+Seat 3: zio7777 (980 in chips) 
+fahim518: posts small blind 15
+zio7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [5s 9d]
+fahim518: calls 15
+zio7777: checks 
+*** FLOP *** [Js 7d Jd]
+zio7777: checks 
+fahim518: checks 
+*** TURN *** [Js 7d Jd] [2d]
+zio7777: bets 45
+fahim518: folds 
+Uncalled bet (45) returned to zio7777
+zio7777 collected 60 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 7d Jd 2d]
+Seat 1: fahim518 (button) (small blind) folded on the Turn
+Seat 3: zio7777 (big blind) collected (60)
+
+
+
+PokerStars Hand #198911464130: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/04/04 12:48:22 ET
+Table '2577848775 1' 3-max Seat #3 is the button
+Seat 1: fahim518 (490 in chips) 
+Seat 3: zio7777 (1010 in chips) 
+zio7777: posts small blind 15
+fahim518: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [4c 4d]
+zio7777: calls 15
+fahim518: checks 
+*** FLOP *** [Kd Ks 9c]
+fahim518: checks 
+zio7777: bets 45
+fahim518: folds 
+Uncalled bet (45) returned to zio7777
+zio7777 collected 60 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd Ks 9c]
+Seat 1: fahim518 (big blind) folded on the Flop
+Seat 3: zio7777 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #198911481126: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/04/04 12:48:49 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (460 in chips) 
+Seat 3: zio7777 (1040 in chips) 
+fahim518: posts small blind 20
+zio7777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [6h 2d]
+fahim518: calls 20
+zio7777: checks 
+*** FLOP *** [Jc 7c Qh]
+zio7777: checks 
+fahim518: checks 
+*** TURN *** [Jc 7c Qh] [4d]
+zio7777: checks 
+fahim518: checks 
+*** RIVER *** [Jc 7c Qh 4d] [5s]
+zio7777: bets 40
+fahim518: calls 40
+*** SHOW DOWN ***
+zio7777: shows [6h 2d] (high card Queen)
+fahim518: shows [Ad Kc] (high card Ace)
+fahim518 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jc 7c Qh 4d 5s]
+Seat 1: fahim518 (button) (small blind) showed [Ad Kc] and won (160) with high card Ace
+Seat 3: zio7777 (big blind) showed [6h 2d] and lost with high card Queen
+
+
+
+PokerStars Hand #198911494542: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/04/04 12:49:10 ET
+Table '2577848775 1' 3-max Seat #3 is the button
+Seat 1: fahim518 (540 in chips) 
+Seat 3: zio7777 (960 in chips) 
+zio7777: posts small blind 20
+fahim518: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [Ah 6c]
+zio7777: calls 20
+fahim518: checks 
+*** FLOP *** [Kh 9s Kc]
+fahim518: checks 
+zio7777: checks 
+*** TURN *** [Kh 9s Kc] [Ks]
+fahim518: bets 40
+zio7777: calls 40
+*** RIVER *** [Kh 9s Kc Ks] [2s]
+fahim518: bets 80
+zio7777: folds 
+Uncalled bet (80) returned to fahim518
+fahim518 collected 160 from pot
+fahim518: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh 9s Kc Ks 2s]
+Seat 1: fahim518 (big blind) collected (160)
+Seat 3: zio7777 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #198911510697: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/04/04 12:49:36 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (620 in chips) 
+Seat 3: zio7777 (880 in chips) 
+fahim518: posts small blind 20
+zio7777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [7h Ad]
+fahim518: raises 40 to 80
+zio7777: calls 40
+*** FLOP *** [2s 3c 8d]
+zio7777: checks 
+fahim518: checks 
+*** TURN *** [2s 3c 8d] [Tc]
+zio7777: bets 80
+fahim518: calls 80
+*** RIVER *** [2s 3c 8d Tc] [Jh]
+zio7777: checks 
+fahim518: bets 80
+zio7777: folds 
+Uncalled bet (80) returned to fahim518
+fahim518 collected 320 from pot
+fahim518: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [2s 3c 8d Tc Jh]
+Seat 1: fahim518 (button) (small blind) collected (320)
+Seat 3: zio7777 (big blind) folded on the River
+
+
+
+PokerStars Hand #198911536936: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/04/04 12:50:18 ET
+Table '2577848775 1' 3-max Seat #3 is the button
+Seat 1: fahim518 (780 in chips) 
+Seat 3: zio7777 (720 in chips) 
+zio7777: posts small blind 20
+fahim518: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [5s Qc]
+zio7777: calls 20
+fahim518: checks 
+*** FLOP *** [Jh Ac 5c]
+fahim518: checks 
+zio7777: bets 60
+fahim518: folds 
+Uncalled bet (60) returned to zio7777
+zio7777 collected 80 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh Ac 5c]
+Seat 1: fahim518 (big blind) folded on the Flop
+Seat 3: zio7777 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #198911554000: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/04/04 12:50:45 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (740 in chips) 
+Seat 3: zio7777 (760 in chips) 
+fahim518: posts small blind 20
+zio7777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [Qh 3d]
+fahim518: raises 40 to 80
+zio7777: calls 40
+*** FLOP *** [7c 9h 5s]
+zio7777: checks 
+fahim518: bets 40
+zio7777: folds 
+Uncalled bet (40) returned to fahim518
+fahim518 collected 160 from pot
+fahim518: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7c 9h 5s]
+Seat 1: fahim518 (button) (small blind) collected (160)
+Seat 3: zio7777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198911571849: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/04/04 12:51:13 ET
+Table '2577848775 1' 3-max Seat #3 is the button
+Seat 1: fahim518 (820 in chips) 
+Seat 3: zio7777 (680 in chips) 
+zio7777: posts small blind 20
+fahim518: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [3s Ks]
+zio7777: calls 20
+fahim518: checks 
+*** FLOP *** [5c Kd 7c]
+fahim518: bets 40
+zio7777: raises 80 to 120
+fahim518: folds 
+Uncalled bet (80) returned to zio7777
+zio7777 collected 160 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c Kd 7c]
+Seat 1: fahim518 (big blind) folded on the Flop
+Seat 3: zio7777 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #198911585789: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level IV (30/60) - 2019/04/04 12:51:35 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (740 in chips) 
+Seat 3: zio7777 (760 in chips) 
+fahim518: posts small blind 30
+zio7777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [6s 8c]
+fahim518: raises 60 to 120
+zio7777: calls 60
+*** FLOP *** [Qs Tc 2h]
+zio7777: checks 
+fahim518: bets 60
+zio7777: folds 
+Uncalled bet (60) returned to fahim518
+fahim518 collected 240 from pot
+fahim518: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qs Tc 2h]
+Seat 1: fahim518 (button) (small blind) collected (240)
+Seat 3: zio7777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198911600918: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level IV (30/60) - 2019/04/04 12:52:00 ET
+Table '2577848775 1' 3-max Seat #3 is the button
+Seat 1: fahim518 (860 in chips) 
+Seat 3: zio7777 (640 in chips) 
+zio7777: posts small blind 30
+fahim518: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [8d Jc]
+zio7777: calls 30
+fahim518: checks 
+*** FLOP *** [Qd 7d 3d]
+fahim518: bets 60
+zio7777: calls 60
+*** TURN *** [Qd 7d 3d] [Qs]
+fahim518: bets 120
+zio7777: folds 
+Uncalled bet (120) returned to fahim518
+fahim518 collected 240 from pot
+fahim518: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qd 7d 3d Qs]
+Seat 1: fahim518 (big blind) collected (240)
+Seat 3: zio7777 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #198911627278: Tournament #2577848775, 9000+1000 Hold'em No Limit - Level IV (30/60) - 2019/04/04 12:52:41 ET
+Table '2577848775 1' 3-max Seat #1 is the button
+Seat 1: fahim518 (980 in chips) 
+Seat 3: zio7777 (520 in chips) 
+fahim518: posts small blind 30
+zio7777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [As 9h]
+fahim518: raises 60 to 120
+zio7777: raises 400 to 520 and is all-in
+fahim518: calls 400
+*** FLOP *** [Qh 4h 5h]
+*** TURN *** [Qh 4h 5h] [6d]
+*** RIVER *** [Qh 4h 5h 6d] [3c]
+*** SHOW DOWN ***
+zio7777: shows [As 9h] (high card Ace)
+fahim518: shows [Qd Qc] (three of a kind, Queens)
+fahim518 collected 1040 from pot
+zio7777 finished the tournament in 2nd place
+fahim518 wins the tournament and receives 20000 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Qh 4h 5h 6d 3c]
+Seat 1: fahim518 (button) (small blind) showed [Qd Qc] and won (1040) with three of a kind, Queens
+Seat 3: zio7777 (big blind) showed [As 9h] and lost with high card Ace
+
+
+

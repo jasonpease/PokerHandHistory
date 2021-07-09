@@ -1,0 +1,1082 @@
+﻿PokerStars Hand #198924468227: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 18:01:54 ET
+Table '2578116268 1' 9-max Seat #1 is the button
+Seat 1: zio7777 (500 in chips) 
+Seat 2: rvmala06 (500 in chips) 
+Seat 3: Badsurfer60 (500 in chips) 
+Seat 4: jojo1944 (500 in chips) 
+Seat 5: gormann1 (500 in chips) 
+Seat 6: mess6 (500 in chips) 
+Seat 7: stvsilver (500 in chips) is sitting out
+Seat 8: Ace196946 (500 in chips) 
+Seat 9: 2010CUBSWIN (500 in chips) is sitting out
+zio7777: posts the ante 2
+rvmala06: posts the ante 2
+Badsurfer60: posts the ante 2
+jojo1944: posts the ante 2
+gormann1: posts the ante 2
+mess6: posts the ante 2
+stvsilver: posts the ante 2
+Ace196946: posts the ante 2
+2010CUBSWIN: posts the ante 2
+rvmala06: posts small blind 10
+Badsurfer60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [Ks 7h]
+jojo1944: calls 20
+gormann1: raises 478 to 498 and is all-in
+mess6: folds 
+stvsilver: folds 
+Ace196946: folds 
+2010CUBSWIN: folds 
+zio7777: folds 
+rvmala06: folds 
+Badsurfer60: folds 
+jojo1944: folds 
+Uncalled bet (478) returned to gormann1
+gormann1 collected 88 from pot
+gormann1: doesn't show hand 
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Seat 1: zio7777 (button) folded before Flop (didn't bet)
+Seat 2: rvmala06 (small blind) folded before Flop
+Seat 3: Badsurfer60 (big blind) folded before Flop
+Seat 4: jojo1944 folded before Flop
+Seat 5: gormann1 collected (88)
+Seat 6: mess6 folded before Flop (didn't bet)
+Seat 7: stvsilver folded before Flop (didn't bet)
+Seat 8: Ace196946 folded before Flop (didn't bet)
+Seat 9: 2010CUBSWIN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924486765: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 18:02:24 ET
+Table '2578116268 1' 9-max Seat #2 is the button
+Seat 1: zio7777 (498 in chips) 
+Seat 2: rvmala06 (488 in chips) 
+Seat 3: Badsurfer60 (478 in chips) 
+Seat 4: jojo1944 (478 in chips) 
+Seat 5: gormann1 (566 in chips) 
+Seat 6: mess6 (498 in chips) 
+Seat 7: stvsilver (498 in chips) 
+Seat 8: Ace196946 (498 in chips) 
+Seat 9: 2010CUBSWIN (498 in chips) is sitting out
+zio7777: posts the ante 2
+rvmala06: posts the ante 2
+Badsurfer60: posts the ante 2
+jojo1944: posts the ante 2
+gormann1: posts the ante 2
+mess6: posts the ante 2
+stvsilver: posts the ante 2
+Ace196946: posts the ante 2
+2010CUBSWIN: posts the ante 2
+Badsurfer60: posts small blind 10
+jojo1944: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [Kh Qd]
+gormann1: calls 20
+mess6: calls 20
+stvsilver: calls 20
+Ace196946: folds 
+2010CUBSWIN: folds 
+zio7777: calls 20
+rvmala06: calls 20
+Badsurfer60: raises 456 to 476 and is all-in
+jojo1944: folds 
+gormann1: folds 
+mess6: folds 
+stvsilver: calls 456
+zio7777: folds 
+rvmala06: calls 456
+*** FLOP *** [6s 2d 5c]
+stvsilver: bets 20 and is all-in
+rvmala06: calls 10 and is all-in
+Uncalled bet (10) returned to stvsilver
+*** TURN *** [6s 2d 5c] [Kc]
+*** RIVER *** [6s 2d 5c Kc] [6c]
+*** SHOW DOWN ***
+stvsilver: shows [Qs Td] (a pair of Sixes)
+rvmala06: shows [As 9s] (a pair of Sixes - Ace kicker)
+rvmala06 collected 20 from side pot
+Badsurfer60: shows [Jd Jc] (two pair, Jacks and Sixes)
+Badsurfer60 collected 1526 from main pot
+*** SUMMARY ***
+Total pot 1546 Main pot 1526. Side pot 20. | Rake 0 
+Board [6s 2d 5c Kc 6c]
+Seat 1: zio7777 folded before Flop
+Seat 2: rvmala06 (button) showed [As 9s] and won (20) with a pair of Sixes
+Seat 3: Badsurfer60 (small blind) showed [Jd Jc] and won (1526) with two pair, Jacks and Sixes
+Seat 4: jojo1944 (big blind) folded before Flop
+Seat 5: gormann1 folded before Flop
+Seat 6: mess6 folded before Flop
+Seat 7: stvsilver showed [Qs Td] and lost with a pair of Sixes
+Seat 8: Ace196946 folded before Flop (didn't bet)
+Seat 9: 2010CUBSWIN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924514406: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 18:03:09 ET
+Table '2578116268 1' 9-max Seat #3 is the button
+Seat 1: zio7777 (476 in chips) 
+Seat 2: rvmala06 (20 in chips) 
+Seat 3: Badsurfer60 (1526 in chips) 
+Seat 4: jojo1944 (456 in chips) 
+Seat 5: gormann1 (544 in chips) 
+Seat 6: mess6 (476 in chips) 
+Seat 7: stvsilver (10 in chips) 
+Seat 8: Ace196946 (496 in chips) 
+Seat 9: 2010CUBSWIN (496 in chips) 
+zio7777: posts the ante 2
+rvmala06: posts the ante 2
+Badsurfer60: posts the ante 2
+jojo1944: posts the ante 2
+gormann1: posts the ante 2
+mess6: posts the ante 2
+stvsilver: posts the ante 2
+Ace196946: posts the ante 2
+2010CUBSWIN: posts the ante 2
+jojo1944: posts small blind 10
+gormann1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [7s Kh]
+mess6: raises 20 to 40
+stvsilver: calls 8 and is all-in
+Ace196946: folds 
+2010CUBSWIN: raises 454 to 494 and is all-in
+zio7777: folds 
+rvmala06: calls 18 and is all-in
+Badsurfer60: calls 494
+jojo1944: folds 
+gormann1: folds 
+mess6: calls 434 and is all-in
+*** FLOP *** [6d 7d Qc]
+*** TURN *** [6d 7d Qc] [2c]
+*** RIVER *** [6d 7d Qc 2c] [3c]
+*** SHOW DOWN ***
+2010CUBSWIN: shows [Qs Ad] (a pair of Queens)
+Badsurfer60: shows [3s 3d] (three of a kind, Threes)
+Badsurfer60 collected 40 from side pot-3 
+mess6: shows [Td Kc] (high card King)
+Badsurfer60 collected 1370 from side pot-2 
+rvmala06: shows [Js Qh] (a pair of Queens)
+Badsurfer60 collected 52 from side pot-1 
+stvsilver: shows [2h 9c] (a pair of Deuces)
+Badsurfer60 collected 74 from main pot
+Badsurfer60 wins the 4250 bounty for eliminating rvmala06
+Badsurfer60 wins the 4250 bounty for eliminating mess6
+Badsurfer60 wins the 4250 bounty for eliminating stvsilver
+Badsurfer60 wins the 4250 bounty for eliminating 2010CUBSWIN
+2010CUBSWIN finished the tournament in 6th place
+mess6 finished the tournament in 7th place
+rvmala06 finished the tournament in 8th place
+stvsilver finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 1536 Main pot 74. Side pot-1 52. Side pot-2 1370. Side pot-3 40. | Rake 0 
+Board [6d 7d Qc 2c 3c]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 2: rvmala06 showed [Js Qh] and lost with a pair of Queens
+Seat 3: Badsurfer60 (button) showed [3s 3d] and won (1536) with three of a kind, Threes
+Seat 4: jojo1944 (small blind) folded before Flop
+Seat 5: gormann1 (big blind) folded before Flop
+Seat 6: mess6 showed [Td Kc] and lost with high card King
+Seat 7: stvsilver showed [2h 9c] and lost with a pair of Deuces
+Seat 8: Ace196946 folded before Flop (didn't bet)
+Seat 9: 2010CUBSWIN showed [Qs Ad] and lost with a pair of Queens
+
+
+
+PokerStars Hand #198924541317: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/04/04 18:03:51 ET
+Table '2578116268 1' 9-max Seat #4 is the button
+Seat 1: zio7777 (474 in chips) 
+Seat 3: Badsurfer60 (2566 in chips) 
+Seat 4: jojo1944 (444 in chips) 
+Seat 5: gormann1 (522 in chips) 
+Seat 8: Ace196946 (494 in chips) 
+zio7777: posts the ante 2
+Badsurfer60: posts the ante 2
+jojo1944: posts the ante 2
+gormann1: posts the ante 2
+Ace196946: posts the ante 2
+gormann1: posts small blind 10
+Ace196946: posts big blind 20
+*** HOLE CARDS ***
+Dealt to zio7777 [4c 3s]
+zio7777: folds 
+Badsurfer60: calls 20
+jojo1944: calls 20
+gormann1: calls 10
+Ace196946: checks 
+*** FLOP *** [Qc 2s 7c]
+gormann1: checks 
+Ace196946: checks 
+Badsurfer60: checks 
+jojo1944: checks 
+*** TURN *** [Qc 2s 7c] [4s]
+gormann1: checks 
+Ace196946: checks 
+Badsurfer60: bets 20
+jojo1944: calls 20
+gormann1: folds 
+Ace196946: folds 
+*** RIVER *** [Qc 2s 7c 4s] [Kc]
+Badsurfer60: bets 20
+jojo1944: raises 60 to 80
+Badsurfer60: calls 60
+*** SHOW DOWN ***
+jojo1944: shows [6c 3c] (a flush, King high)
+Badsurfer60: mucks hand 
+jojo1944 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [Qc 2s 7c 4s Kc]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: Badsurfer60 mucked [Qs 6d]
+Seat 4: jojo1944 (button) showed [6c 3c] and won (290) with a flush, King high
+Seat 5: gormann1 (small blind) folded on the Turn
+Seat 8: Ace196946 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #198924572496: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 18:04:42 ET
+Table '2578116268 1' 9-max Seat #5 is the button
+Seat 1: zio7777 (472 in chips) 
+Seat 3: Badsurfer60 (2444 in chips) 
+Seat 4: jojo1944 (612 in chips) 
+Seat 5: gormann1 (500 in chips) 
+Seat 8: Ace196946 (472 in chips) 
+zio7777: posts the ante 3
+Badsurfer60: posts the ante 3
+jojo1944: posts the ante 3
+gormann1: posts the ante 3
+Ace196946: posts the ante 3
+Ace196946: posts small blind 15
+zio7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Kc 6s]
+Badsurfer60: calls 30
+jojo1944: calls 30
+gormann1: folds 
+Ace196946: calls 15
+zio7777: checks 
+*** FLOP *** [4c 8s Qh]
+Ace196946: checks 
+zio7777: checks 
+Badsurfer60: checks 
+jojo1944: checks 
+*** TURN *** [4c 8s Qh] [Qs]
+Ace196946: checks 
+zio7777: bets 90
+Badsurfer60: folds 
+jojo1944: folds 
+Ace196946: folds 
+Uncalled bet (90) returned to zio7777
+zio7777 collected 135 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4c 8s Qh Qs]
+Seat 1: zio7777 (big blind) collected (135)
+Seat 3: Badsurfer60 folded on the Turn
+Seat 4: jojo1944 folded on the Turn
+Seat 5: gormann1 (button) folded before Flop (didn't bet)
+Seat 8: Ace196946 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #198924598195: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 18:05:23 ET
+Table '2578116268 1' 9-max Seat #8 is the button
+Seat 1: zio7777 (574 in chips) 
+Seat 3: Badsurfer60 (2411 in chips) 
+Seat 4: jojo1944 (579 in chips) 
+Seat 5: gormann1 (497 in chips) 
+Seat 8: Ace196946 (439 in chips) 
+zio7777: posts the ante 3
+Badsurfer60: posts the ante 3
+jojo1944: posts the ante 3
+gormann1: posts the ante 3
+Ace196946: posts the ante 3
+zio7777: posts small blind 15
+Badsurfer60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [3h Qc]
+jojo1944: raises 30 to 60
+gormann1: folds 
+Ace196946: folds 
+zio7777: folds 
+Badsurfer60: raises 30 to 90
+jojo1944: calls 30
+*** FLOP *** [7d 7h 2h]
+Badsurfer60: bets 30
+jojo1944: calls 30
+*** TURN *** [7d 7h 2h] [2s]
+Badsurfer60: bets 30
+jojo1944: calls 30
+*** RIVER *** [7d 7h 2h 2s] [7c]
+Badsurfer60: bets 30
+jojo1944: calls 30
+*** SHOW DOWN ***
+Badsurfer60: shows [Ac Td] (a full house, Sevens full of Deuces)
+jojo1944: shows [Jh Kc] (a full house, Sevens full of Deuces)
+Badsurfer60 collected 195 from pot
+jojo1944 collected 195 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [7d 7h 2h 2s 7c]
+Seat 1: zio7777 (small blind) folded before Flop
+Seat 3: Badsurfer60 (big blind) showed [Ac Td] and won (195) with a full house, Sevens full of Deuces
+Seat 4: jojo1944 showed [Jh Kc] and won (195) with a full house, Sevens full of Deuces
+Seat 5: gormann1 folded before Flop (didn't bet)
+Seat 8: Ace196946 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924615242: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/04/04 18:05:50 ET
+Table '2578116268 1' 9-max Seat #1 is the button
+Seat 1: zio7777 (556 in chips) 
+Seat 3: Badsurfer60 (2423 in chips) 
+Seat 4: jojo1944 (591 in chips) 
+Seat 5: gormann1 (494 in chips) 
+Seat 8: Ace196946 (436 in chips) 
+zio7777: posts the ante 3
+Badsurfer60: posts the ante 3
+jojo1944: posts the ante 3
+gormann1: posts the ante 3
+Ace196946: posts the ante 3
+Badsurfer60: posts small blind 15
+jojo1944: posts big blind 30
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad 4s]
+gormann1: folds 
+Ace196946: calls 30
+zio7777: raises 523 to 553 and is all-in
+Badsurfer60: folds 
+jojo1944: folds 
+Ace196946: folds 
+Uncalled bet (523) returned to zio7777
+zio7777 collected 120 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: zio7777 (button) collected (120)
+Seat 3: Badsurfer60 (small blind) folded before Flop
+Seat 4: jojo1944 (big blind) folded before Flop
+Seat 5: gormann1 folded before Flop (didn't bet)
+Seat 8: Ace196946 folded before Flop
+
+
+
+PokerStars Hand #198924629848: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/04 18:06:14 ET
+Table '2578116268 1' 9-max Seat #3 is the button
+Seat 1: zio7777 (643 in chips) 
+Seat 3: Badsurfer60 (2405 in chips) 
+Seat 4: jojo1944 (558 in chips) 
+Seat 5: gormann1 (491 in chips) 
+Seat 8: Ace196946 (403 in chips) 
+zio7777: posts the ante 4
+Badsurfer60: posts the ante 4
+jojo1944: posts the ante 4
+gormann1: posts the ante 4
+Ace196946: posts the ante 4
+jojo1944: posts small blind 20
+gormann1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad 2h]
+Ace196946: calls 40
+zio7777: calls 40
+Badsurfer60: folds 
+jojo1944: calls 20
+gormann1: checks 
+*** FLOP *** [4s Jh Ah]
+jojo1944: checks 
+gormann1: checks 
+Ace196946: checks 
+zio7777: bets 200
+jojo1944: folds 
+gormann1: folds 
+Ace196946: folds 
+Uncalled bet (200) returned to zio7777
+zio7777 collected 180 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4s Jh Ah]
+Seat 1: zio7777 collected (180)
+Seat 3: Badsurfer60 (button) folded before Flop (didn't bet)
+Seat 4: jojo1944 (small blind) folded on the Flop
+Seat 5: gormann1 (big blind) folded on the Flop
+Seat 8: Ace196946 folded on the Flop
+
+
+
+PokerStars Hand #198924653203: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/04 18:06:52 ET
+Table '2578116268 1' 9-max Seat #4 is the button
+Seat 1: zio7777 (779 in chips) 
+Seat 3: Badsurfer60 (2401 in chips) 
+Seat 4: jojo1944 (514 in chips) 
+Seat 5: gormann1 (447 in chips) 
+Seat 8: Ace196946 (359 in chips) 
+zio7777: posts the ante 4
+Badsurfer60: posts the ante 4
+jojo1944: posts the ante 4
+gormann1: posts the ante 4
+Ace196946: posts the ante 4
+gormann1: posts small blind 20
+Ace196946: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [9c 2s]
+zio7777: folds 
+Badsurfer60: calls 40
+jojo1944: calls 40
+gormann1: calls 20
+Ace196946: checks 
+*** FLOP *** [4c 5s Kd]
+gormann1: checks 
+Ace196946: checks 
+Badsurfer60: bets 40
+jojo1944: calls 40
+gormann1: calls 40
+Ace196946: calls 40
+*** TURN *** [4c 5s Kd] [3d]
+gormann1: checks 
+Ace196946: checks 
+Badsurfer60: bets 40
+jojo1944: calls 40
+gormann1: calls 40
+Ace196946: folds 
+*** RIVER *** [4c 5s Kd 3d] [2d]
+gormann1: checks 
+Badsurfer60: bets 240
+jojo1944: folds 
+gormann1: raises 83 to 323 and is all-in
+Badsurfer60: calls 83
+*** SHOW DOWN ***
+gormann1: shows [As 4s] (a straight, Ace to Five)
+Badsurfer60: shows [5h 6c] (a straight, Deuce to Six)
+Badsurfer60 collected 1106 from pot
+Badsurfer60 wins the 4250 bounty for eliminating gormann1
+gormann1 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1106 | Rake 0 
+Board [4c 5s Kd 3d 2d]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: Badsurfer60 showed [5h 6c] and won (1106) with a straight, Deuce to Six
+Seat 4: jojo1944 (button) folded on the River
+Seat 5: gormann1 (small blind) showed [As 4s] and lost with a straight, Ace to Five
+Seat 8: Ace196946 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #198924685334: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/04/04 18:07:44 ET
+Table '2578116268 1' 9-max Seat #8 is the button
+Seat 1: zio7777 (775 in chips) 
+Seat 3: Badsurfer60 (3060 in chips) 
+Seat 4: jojo1944 (390 in chips) 
+Seat 8: Ace196946 (275 in chips) 
+zio7777: posts the ante 4
+Badsurfer60: posts the ante 4
+jojo1944: posts the ante 4
+Ace196946: posts the ante 4
+zio7777: posts small blind 20
+Badsurfer60: posts big blind 40
+*** HOLE CARDS ***
+Dealt to zio7777 [8s 6s]
+jojo1944: calls 40
+Ace196946: folds 
+zio7777: calls 20
+Badsurfer60: checks 
+*** FLOP *** [As 3c 6h]
+zio7777: bets 120
+Badsurfer60: calls 120
+jojo1944: folds 
+*** TURN *** [As 3c 6h] [8c]
+zio7777: bets 215
+Badsurfer60: calls 215
+*** RIVER *** [As 3c 6h 8c] [Ac]
+zio7777: checks 
+Badsurfer60: checks 
+*** SHOW DOWN ***
+zio7777: shows [8s 6s] (two pair, Aces and Eights)
+Badsurfer60: mucks hand 
+zio7777 collected 806 from pot
+*** SUMMARY ***
+Total pot 806 | Rake 0 
+Board [As 3c 6h 8c Ac]
+Seat 1: zio7777 (small blind) showed [8s 6s] and won (806) with two pair, Aces and Eights
+Seat 3: Badsurfer60 (big blind) mucked [3h Qh]
+Seat 4: jojo1944 folded on the Flop
+Seat 8: Ace196946 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924718052: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level IV (30/60) - 2019/04/04 18:08:38 ET
+Table '2578116268 1' 9-max Seat #1 is the button
+Seat 1: zio7777 (1202 in chips) 
+Seat 3: Badsurfer60 (2681 in chips) 
+Seat 4: jojo1944 (346 in chips) 
+Seat 8: Ace196946 (271 in chips) 
+zio7777: posts the ante 6
+Badsurfer60: posts the ante 6
+jojo1944: posts the ante 6
+Ace196946: posts the ante 6
+Badsurfer60: posts small blind 30
+jojo1944: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 6h]
+Ace196946: calls 60
+zio7777: folds 
+Badsurfer60: raises 60 to 120
+jojo1944: calls 60
+Ace196946: calls 60
+*** FLOP *** [Th 5s 9d]
+Badsurfer60: bets 60
+jojo1944: folds 
+Ace196946: calls 60
+*** TURN *** [Th 5s 9d] [4c]
+Badsurfer60: bets 60
+Ace196946: calls 60
+*** RIVER *** [Th 5s 9d 4c] [4s]
+Badsurfer60: bets 60
+Ace196946: calls 25 and is all-in
+Uncalled bet (35) returned to Badsurfer60
+*** SHOW DOWN ***
+Badsurfer60: shows [Qd Kh] (a pair of Fours)
+Ace196946: shows [Ks Ac] (a pair of Fours - Ace kicker)
+Ace196946 collected 674 from pot
+*** SUMMARY ***
+Total pot 674 | Rake 0 
+Board [Th 5s 9d 4c 4s]
+Seat 1: zio7777 (button) folded before Flop (didn't bet)
+Seat 3: Badsurfer60 (small blind) showed [Qd Kh] and lost with a pair of Fours
+Seat 4: jojo1944 (big blind) folded on the Flop
+Seat 8: Ace196946 showed [Ks Ac] and won (674) with a pair of Fours
+
+
+
+PokerStars Hand #198924738660: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level IV (30/60) - 2019/04/04 18:09:12 ET
+Table '2578116268 1' 9-max Seat #3 is the button
+Seat 1: zio7777 (1196 in chips) 
+Seat 3: Badsurfer60 (2410 in chips) 
+Seat 4: jojo1944 (220 in chips) 
+Seat 8: Ace196946 (674 in chips) 
+zio7777: posts the ante 6
+Badsurfer60: posts the ante 6
+jojo1944: posts the ante 6
+Ace196946: posts the ante 6
+jojo1944: posts small blind 30
+Ace196946: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [3c 9h]
+zio7777: folds 
+Badsurfer60: calls 60
+jojo1944: raises 154 to 214 and is all-in
+Ace196946: folds 
+Badsurfer60: calls 154
+*** FLOP *** [Jc 4d Qc]
+*** TURN *** [Jc 4d Qc] [2c]
+*** RIVER *** [Jc 4d Qc 2c] [6h]
+*** SHOW DOWN ***
+jojo1944: shows [Ac Kh] (high card Ace)
+Badsurfer60: shows [Kc 8d] (high card King)
+jojo1944 collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | Rake 0 
+Board [Jc 4d Qc 2c 6h]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: Badsurfer60 (button) showed [Kc 8d] and lost with high card King
+Seat 4: jojo1944 (small blind) showed [Ac Kh] and won (512) with high card Ace
+Seat 8: Ace196946 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198924751753: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level IV (30/60) - 2019/04/04 18:09:33 ET
+Table '2578116268 1' 9-max Seat #4 is the button
+Seat 1: zio7777 (1190 in chips) 
+Seat 3: Badsurfer60 (2190 in chips) 
+Seat 4: jojo1944 (512 in chips) 
+Seat 8: Ace196946 (608 in chips) 
+zio7777: posts the ante 6
+Badsurfer60: posts the ante 6
+jojo1944: posts the ante 6
+Ace196946: posts the ante 6
+Ace196946: posts small blind 30
+zio7777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to zio7777 [2c Js]
+Badsurfer60: folds 
+jojo1944: calls 60
+Ace196946: calls 30
+zio7777: checks 
+*** FLOP *** [Kd 6h 9h]
+Ace196946: checks 
+zio7777: checks 
+jojo1944: checks 
+*** TURN *** [Kd 6h 9h] [Ah]
+Ace196946: checks 
+zio7777: bets 60
+jojo1944: calls 60
+Ace196946: calls 60
+*** RIVER *** [Kd 6h 9h Ah] [8s]
+Ace196946: checks 
+zio7777: checks 
+jojo1944: checks 
+*** SHOW DOWN ***
+Ace196946: shows [Jh Td] (high card Ace)
+zio7777: mucks hand 
+jojo1944: shows [Ad 4h] (a pair of Aces)
+jojo1944 collected 384 from pot
+*** SUMMARY ***
+Total pot 384 | Rake 0 
+Board [Kd 6h 9h Ah 8s]
+Seat 1: zio7777 (big blind) mucked [2c Js]
+Seat 3: Badsurfer60 folded before Flop (didn't bet)
+Seat 4: jojo1944 (button) showed [Ad 4h] and won (384) with a pair of Aces
+Seat 8: Ace196946 (small blind) showed [Jh Td] and lost with high card Ace
+
+
+
+PokerStars Hand #198924790620: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level V (40/80) - 2019/04/04 18:10:37 ET
+Table '2578116268 1' 9-max Seat #8 is the button
+Seat 1: zio7777 (1064 in chips) 
+Seat 3: Badsurfer60 (2184 in chips) 
+Seat 4: jojo1944 (770 in chips) 
+Seat 8: Ace196946 (482 in chips) 
+zio7777: posts the ante 8
+Badsurfer60: posts the ante 8
+jojo1944: posts the ante 8
+Ace196946: posts the ante 8
+zio7777: posts small blind 40
+Badsurfer60: posts big blind 80
+*** HOLE CARDS ***
+Dealt to zio7777 [2s 2h]
+jojo1944: folds 
+Ace196946: calls 80
+zio7777: calls 40
+Badsurfer60: checks 
+*** FLOP *** [9d 6d 6h]
+zio7777: checks 
+Badsurfer60: checks 
+Ace196946: checks 
+*** TURN *** [9d 6d 6h] [8d]
+zio7777: bets 80
+Badsurfer60: folds 
+Ace196946: raises 314 to 394 and is all-in
+zio7777: folds 
+Uncalled bet (314) returned to Ace196946
+Ace196946 collected 432 from pot
+Ace196946: doesn't show hand 
+*** SUMMARY ***
+Total pot 432 | Rake 0 
+Board [9d 6d 6h 8d]
+Seat 1: zio7777 (small blind) folded on the Turn
+Seat 3: Badsurfer60 (big blind) folded on the Turn
+Seat 4: jojo1944 folded before Flop (didn't bet)
+Seat 8: Ace196946 (button) collected (432)
+
+
+
+PokerStars Hand #198924817292: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level V (40/80) - 2019/04/04 18:11:20 ET
+Table '2578116268 1' 9-max Seat #1 is the button
+Seat 1: zio7777 (896 in chips) 
+Seat 3: Badsurfer60 (2096 in chips) 
+Seat 4: jojo1944 (762 in chips) 
+Seat 8: Ace196946 (746 in chips) 
+zio7777: posts the ante 8
+Badsurfer60: posts the ante 8
+jojo1944: posts the ante 8
+Ace196946: posts the ante 8
+Badsurfer60: posts small blind 40
+jojo1944: posts big blind 80
+*** HOLE CARDS ***
+Dealt to zio7777 [5s Jd]
+Ace196946: calls 80
+zio7777: folds 
+Badsurfer60: calls 40
+jojo1944: checks 
+*** FLOP *** [Ks Qc Ac]
+Badsurfer60: bets 80
+jojo1944: folds 
+Ace196946: raises 578 to 658 and is all-in
+Badsurfer60: calls 578
+*** TURN *** [Ks Qc Ac] [9h]
+*** RIVER *** [Ks Qc Ac 9h] [6d]
+*** SHOW DOWN ***
+Badsurfer60: shows [Kd 4h] (a pair of Kings)
+Ace196946: shows [Qd Ah] (two pair, Aces and Queens)
+Ace196946 collected 1588 from pot
+*** SUMMARY ***
+Total pot 1588 | Rake 0 
+Board [Ks Qc Ac 9h 6d]
+Seat 1: zio7777 (button) folded before Flop (didn't bet)
+Seat 3: Badsurfer60 (small blind) showed [Kd 4h] and lost with a pair of Kings
+Seat 4: jojo1944 (big blind) folded on the Flop
+Seat 8: Ace196946 showed [Qd Ah] and won (1588) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #198924832856: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level V (40/80) - 2019/04/04 18:11:46 ET
+Table '2578116268 1' 9-max Seat #3 is the button
+Seat 1: zio7777 (888 in chips) 
+Seat 3: Badsurfer60 (1350 in chips) 
+Seat 4: jojo1944 (674 in chips) 
+Seat 8: Ace196946 (1588 in chips) 
+zio7777: posts the ante 8
+Badsurfer60: posts the ante 8
+jojo1944: posts the ante 8
+Ace196946: posts the ante 8
+jojo1944: posts small blind 40
+Ace196946: posts big blind 80
+*** HOLE CARDS ***
+Dealt to zio7777 [Jc 3d]
+zio7777: folds 
+Badsurfer60: folds 
+jojo1944: calls 40
+Ace196946: checks 
+*** FLOP *** [Th Qd 7h]
+jojo1944: checks 
+Ace196946: checks 
+*** TURN *** [Th Qd 7h] [9s]
+jojo1944: checks 
+Ace196946: checks 
+*** RIVER *** [Th Qd 7h 9s] [3s]
+jojo1944: checks 
+Ace196946: checks 
+*** SHOW DOWN ***
+jojo1944: shows [Kc 6s] (high card King)
+Ace196946: shows [7d 8c] (a pair of Sevens)
+Ace196946 collected 192 from pot
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Board [Th Qd 7h 9s 3s]
+Seat 1: zio7777 folded before Flop (didn't bet)
+Seat 3: Badsurfer60 (button) folded before Flop (didn't bet)
+Seat 4: jojo1944 (small blind) showed [Kc 6s] and lost with high card King
+Seat 8: Ace196946 (big blind) showed [7d 8c] and won (192) with a pair of Sevens
+
+
+
+PokerStars Hand #198924851724: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VI (50/100) - 2019/04/04 18:12:17 ET
+Table '2578116268 1' 9-max Seat #4 is the button
+Seat 1: zio7777 (880 in chips) 
+Seat 3: Badsurfer60 (1342 in chips) 
+Seat 4: jojo1944 (586 in chips) 
+Seat 8: Ace196946 (1692 in chips) 
+zio7777: posts the ante 10
+Badsurfer60: posts the ante 10
+jojo1944: posts the ante 10
+Ace196946: posts the ante 10
+Ace196946: posts small blind 50
+zio7777: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [Jc 3d]
+Badsurfer60: raises 100 to 200
+jojo1944: folds 
+Ace196946: folds 
+zio7777: folds 
+Uncalled bet (100) returned to Badsurfer60
+Badsurfer60 collected 290 from pot
+Badsurfer60: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: zio7777 (big blind) folded before Flop
+Seat 3: Badsurfer60 collected (290)
+Seat 4: jojo1944 (button) folded before Flop (didn't bet)
+Seat 8: Ace196946 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198924859599: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VI (50/100) - 2019/04/04 18:12:30 ET
+Table '2578116268 1' 9-max Seat #8 is the button
+Seat 1: zio7777 (770 in chips) 
+Seat 3: Badsurfer60 (1522 in chips) 
+Seat 4: jojo1944 (576 in chips) 
+Seat 8: Ace196946 (1632 in chips) 
+zio7777: posts the ante 10
+Badsurfer60: posts the ante 10
+jojo1944: posts the ante 10
+Ace196946: posts the ante 10
+zio7777: posts small blind 50
+Badsurfer60: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [9c 7s]
+jojo1944: folds 
+Ace196946: calls 100
+zio7777: calls 50
+Badsurfer60: checks 
+*** FLOP *** [9h Ts 9s]
+zio7777: checks 
+Badsurfer60: checks 
+Ace196946: checks 
+*** TURN *** [9h Ts 9s] [Kd]
+zio7777: bets 200
+Badsurfer60: calls 200
+Ace196946: folds 
+*** RIVER *** [9h Ts 9s Kd] [Ad]
+zio7777: bets 460 and is all-in
+Badsurfer60: calls 460
+*** SHOW DOWN ***
+zio7777: shows [9c 7s] (three of a kind, Nines)
+Badsurfer60: shows [Ks 4d] (two pair, Kings and Nines)
+zio7777 collected 1660 from pot
+*** SUMMARY ***
+Total pot 1660 | Rake 0 
+Board [9h Ts 9s Kd Ad]
+Seat 1: zio7777 (small blind) showed [9c 7s] and won (1660) with three of a kind, Nines
+Seat 3: Badsurfer60 (big blind) showed [Ks 4d] and lost with two pair, Kings and Nines
+Seat 4: jojo1944 folded before Flop (didn't bet)
+Seat 8: Ace196946 (button) folded on the Turn
+
+
+
+PokerStars Hand #198924882397: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VI (50/100) - 2019/04/04 18:13:08 ET
+Table '2578116268 1' 9-max Seat #1 is the button
+Seat 1: zio7777 (1660 in chips) 
+Seat 3: Badsurfer60 (752 in chips) 
+Seat 4: jojo1944 (566 in chips) 
+Seat 8: Ace196946 (1522 in chips) 
+zio7777: posts the ante 10
+Badsurfer60: posts the ante 10
+jojo1944: posts the ante 10
+Ace196946: posts the ante 10
+Badsurfer60: posts small blind 50
+jojo1944: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [5h 4d]
+Ace196946: folds 
+zio7777: folds 
+Badsurfer60: raises 642 to 742 and is all-in
+jojo1944: folds 
+Uncalled bet (642) returned to Badsurfer60
+Badsurfer60 collected 240 from pot
+Badsurfer60: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: zio7777 (button) folded before Flop (didn't bet)
+Seat 3: Badsurfer60 (small blind) collected (240)
+Seat 4: jojo1944 (big blind) folded before Flop
+Seat 8: Ace196946 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198924888911: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VI (50/100) - 2019/04/04 18:13:19 ET
+Table '2578116268 1' 9-max Seat #3 is the button
+Seat 1: zio7777 (1650 in chips) 
+Seat 3: Badsurfer60 (882 in chips) 
+Seat 4: jojo1944 (456 in chips) 
+Seat 8: Ace196946 (1512 in chips) 
+zio7777: posts the ante 10
+Badsurfer60: posts the ante 10
+jojo1944: posts the ante 10
+Ace196946: posts the ante 10
+jojo1944: posts small blind 50
+Ace196946: posts big blind 100
+*** HOLE CARDS ***
+Dealt to zio7777 [Ad 2d]
+zio7777: raises 100 to 200
+Badsurfer60: folds 
+jojo1944: calls 150
+Ace196946: calls 100
+*** FLOP *** [2c 2s 6h]
+jojo1944: bets 246 and is all-in
+Ace196946: calls 246
+zio7777: calls 246
+*** TURN *** [2c 2s 6h] [Ac]
+Ace196946: checks 
+zio7777: checks 
+*** RIVER *** [2c 2s 6h Ac] [Qd]
+Ace196946: checks 
+zio7777: bets 300
+Ace196946: folds 
+Uncalled bet (300) returned to zio7777
+*** SHOW DOWN ***
+zio7777: shows [Ad 2d] (a full house, Deuces full of Aces)
+jojo1944: shows [Td Th] (two pair, Tens and Deuces)
+zio7777 collected 1378 from pot
+zio7777 wins the 4250 bounty for eliminating jojo1944
+jojo1944 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1378 | Rake 0 
+Board [2c 2s 6h Ac Qd]
+Seat 1: zio7777 showed [Ad 2d] and won (1378) with a full house, Deuces full of Aces
+Seat 3: Badsurfer60 (button) folded before Flop (didn't bet)
+Seat 4: jojo1944 (small blind) showed [Td Th] and lost with two pair, Tens and Deuces
+Seat 8: Ace196946 (big blind) folded on the River
+
+
+
+PokerStars Hand #198924916487: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VII (60/120) - 2019/04/04 18:14:04 ET
+Table '2578116268 1' 9-max Seat #8 is the button
+Seat 1: zio7777 (2572 in chips) 
+Seat 3: Badsurfer60 (872 in chips) 
+Seat 8: Ace196946 (1056 in chips) 
+zio7777: posts the ante 12
+Badsurfer60: posts the ante 12
+Ace196946: posts the ante 12
+zio7777: posts small blind 60
+Badsurfer60: posts big blind 120
+*** HOLE CARDS ***
+Dealt to zio7777 [5c Jc]
+Ace196946: calls 120
+zio7777: calls 60
+Badsurfer60: checks 
+*** FLOP *** [3s 8c Qc]
+zio7777: checks 
+Badsurfer60: checks 
+Ace196946: checks 
+*** TURN *** [3s 8c Qc] [Jh]
+zio7777: bets 240
+Badsurfer60: calls 240
+Ace196946: folds 
+*** RIVER *** [3s 8c Qc Jh] [4d]
+zio7777: bets 2200 and is all-in
+Badsurfer60: calls 500 and is all-in
+Uncalled bet (1700) returned to zio7777
+*** SHOW DOWN ***
+zio7777: shows [5c Jc] (a pair of Jacks)
+Badsurfer60: shows [8h Qs] (two pair, Queens and Eights)
+Badsurfer60 collected 1876 from pot
+*** SUMMARY ***
+Total pot 1876 | Rake 0 
+Board [3s 8c Qc Jh 4d]
+Seat 1: zio7777 (small blind) showed [5c Jc] and lost with a pair of Jacks
+Seat 3: Badsurfer60 (big blind) showed [8h Qs] and won (1876) with two pair, Queens and Eights
+Seat 8: Ace196946 (button) folded on the Turn
+
+
+
+PokerStars Hand #198924943300: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VII (60/120) - 2019/04/04 18:14:48 ET
+Table '2578116268 1' 9-max Seat #1 is the button
+Seat 1: zio7777 (1700 in chips) 
+Seat 3: Badsurfer60 (1876 in chips) 
+Seat 8: Ace196946 (924 in chips) 
+zio7777: posts the ante 12
+Badsurfer60: posts the ante 12
+Ace196946: posts the ante 12
+Badsurfer60: posts small blind 60
+Ace196946: posts big blind 120
+*** HOLE CARDS ***
+Dealt to zio7777 [Qh Jh]
+zio7777: raises 1568 to 1688 and is all-in
+Badsurfer60: folds 
+Ace196946: folds 
+Uncalled bet (1568) returned to zio7777
+zio7777 collected 336 from pot
+zio7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 336 | Rake 0 
+Seat 1: zio7777 (button) collected (336)
+Seat 3: Badsurfer60 (small blind) folded before Flop
+Seat 8: Ace196946 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198924954101: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VII (60/120) - 2019/04/04 18:15:06 ET
+Table '2578116268 1' 9-max Seat #3 is the button
+Seat 1: zio7777 (1904 in chips) 
+Seat 3: Badsurfer60 (1804 in chips) 
+Seat 8: Ace196946 (792 in chips) 
+zio7777: posts the ante 12
+Badsurfer60: posts the ante 12
+Ace196946: posts the ante 12
+Ace196946: posts small blind 60
+zio7777: posts big blind 120
+*** HOLE CARDS ***
+Dealt to zio7777 [Ks 3s]
+Badsurfer60: calls 120
+Ace196946: calls 60
+zio7777: checks 
+*** FLOP *** [3c Qs 3d]
+Ace196946: checks 
+zio7777: checks 
+Badsurfer60: bets 120
+Ace196946: folds 
+zio7777: calls 120
+*** TURN *** [3c Qs 3d] [Jd]
+zio7777: checks 
+Badsurfer60: bets 120
+zio7777: calls 120
+*** RIVER *** [3c Qs 3d Jd] [9h]
+zio7777: bets 360
+Badsurfer60: raises 1072 to 1432 and is all-in
+zio7777: calls 1072
+*** SHOW DOWN ***
+Badsurfer60: shows [Qd 8s] (two pair, Queens and Threes)
+zio7777: shows [Ks 3s] (three of a kind, Threes)
+zio7777 collected 3740 from pot
+zio7777 wins the 4250 bounty for eliminating Badsurfer60
+Badsurfer60 finished the tournament in 3rd place and received 7650.00.
+*** SUMMARY ***
+Total pot 3740 | Rake 0 
+Board [3c Qs 3d Jd 9h]
+Seat 1: zio7777 (big blind) showed [Ks 3s] and won (3740) with three of a kind, Threes
+Seat 3: Badsurfer60 (button) showed [Qd 8s] and lost with two pair, Queens and Threes
+Seat 8: Ace196946 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #198924987580: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VIII (75/150) - 2019/04/04 18:16:02 ET
+Table '2578116268 1' 9-max Seat #1 is the button
+Seat 1: zio7777 (3840 in chips) 
+Seat 8: Ace196946 (660 in chips) 
+zio7777: posts the ante 15
+Ace196946: posts the ante 15
+zio7777: posts small blind 75
+Ace196946: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Kc Ks]
+zio7777: calls 75
+Ace196946: checks 
+*** FLOP *** [8c 5h 4s]
+Ace196946: checks 
+zio7777: checks 
+*** TURN *** [8c 5h 4s] [6c]
+Ace196946: checks 
+zio7777: bets 150
+Ace196946: calls 150
+*** RIVER *** [8c 5h 4s 6c] [8s]
+Ace196946: checks 
+zio7777: bets 450
+Ace196946: calls 345 and is all-in
+Uncalled bet (105) returned to zio7777
+*** SHOW DOWN ***
+zio7777: shows [Kc Ks] (two pair, Kings and Eights)
+Ace196946: shows [9c 8d] (three of a kind, Eights)
+Ace196946 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [8c 5h 4s 6c 8s]
+Seat 1: zio7777 (button) (small blind) showed [Kc Ks] and lost with two pair, Kings and Eights
+Seat 8: Ace196946 (big blind) showed [9c 8d] and won (1320) with three of a kind, Eights
+
+
+
+PokerStars Hand #198925004543: Tournament #2578116268, 4250+4250+1500 Hold'em No Limit - Level VIII (75/150) - 2019/04/04 18:16:30 ET
+Table '2578116268 1' 9-max Seat #8 is the button
+Seat 1: zio7777 (3180 in chips) 
+Seat 8: Ace196946 (1320 in chips) 
+zio7777: posts the ante 15
+Ace196946: posts the ante 15
+Ace196946: posts small blind 75
+zio7777: posts big blind 150
+*** HOLE CARDS ***
+Dealt to zio7777 [Jh Kh]
+Ace196946: calls 75
+zio7777: raises 3015 to 3165 and is all-in
+Ace196946: calls 1155 and is all-in
+Uncalled bet (1860) returned to zio7777
+*** FLOP *** [2s 3s 3h]
+*** TURN *** [2s 3s 3h] [As]
+*** RIVER *** [2s 3s 3h As] [Kc]
+*** SHOW DOWN ***
+zio7777: shows [Jh Kh] (two pair, Kings and Threes)
+Ace196946: shows [9c 5c] (a pair of Threes)
+zio7777 collected 2640 from pot
+zio7777 wins the 4250 bounty for eliminating Ace196946
+Ace196946 finished the tournament in 2nd place and received 11475.00.
+zio7777 wins the tournament and receives 19125.00 - congratulations!
+*** SUMMARY ***
+Total pot 2640 | Rake 0 
+Board [2s 3s 3h As Kc]
+Seat 1: zio7777 (big blind) showed [Jh Kh] and won (2640) with two pair, Kings and Threes
+Seat 8: Ace196946 (button) (small blind) showed [9c 5c] and lost with a pair of Threes
+
+
+

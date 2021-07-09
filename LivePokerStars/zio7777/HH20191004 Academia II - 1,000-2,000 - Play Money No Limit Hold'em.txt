@@ -1,0 +1,210 @@
+﻿PokerStars Hand #204879866316:  Hold'em No Limit (1000/2000) - 2019/10/04 18:02:38 ET
+Table 'Academia II' 9-max (Play Money) Seat #8 is the button
+Seat 1: luke5250 (198000 in chips) 
+Seat 4: smokey603 (84960 in chips) 
+Seat 7: zio7777 (200000 in chips) 
+Seat 8: josillo58 (271940 in chips) 
+Seat 9: TubbynotFat (88000 in chips) 
+TubbynotFat: posts small blind 1000
+luke5250: posts big blind 2000
+zio7777: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [6c 3c]
+smokey603: calls 2000
+zio7777: checks 
+josillo58: calls 2000
+TubbynotFat: folds 
+luke5250: checks 
+*** FLOP *** [Qd 8c 7h]
+luke5250: checks 
+smokey603: checks 
+zio7777: checks 
+josillo58: checks 
+*** TURN *** [Qd 8c 7h] [Jd]
+luke5250: checks 
+smokey603: bets 2000
+zio7777: calls 2000
+josillo58: folds 
+luke5250: folds 
+*** RIVER *** [Qd 8c 7h Jd] [2s]
+smokey603: bets 2000
+josecribeiro joins the table at seat #5 
+zio7777: folds 
+Uncalled bet (2000) returned to smokey603
+smokey603 collected 12280 from pot
+*** SUMMARY ***
+Total pot 13000 | Rake 720 
+Board [Qd 8c 7h Jd 2s]
+Seat 1: luke5250 (big blind) folded on the Turn
+Seat 4: smokey603 collected (12280)
+Seat 7: zio7777 folded on the River
+Seat 8: josillo58 (button) folded on the Turn
+Seat 9: TubbynotFat (small blind) folded before Flop
+
+
+
+PokerStars Hand #204879897306:  Hold'em No Limit (1000/2000) - 2019/10/04 18:03:39 ET
+Table 'Academia II' 9-max (Play Money) Seat #9 is the button
+Seat 1: luke5250 (196000 in chips) 
+Seat 3: Cowboy Jim T (129070 in chips) 
+Seat 4: smokey603 (93240 in chips) 
+Seat 5: josecribeiro (80000 in chips) 
+Seat 7: zio7777 (196000 in chips) 
+Seat 8: josillo58 (269940 in chips) 
+Seat 9: TubbynotFat (87000 in chips) 
+luke5250: posts small blind 1000
+Cowboy Jim T: posts big blind 2000
+josecribeiro: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [Jd Qc]
+smokey603: calls 2000
+josecribeiro: checks 
+VISHNU1941 leaves the table
+zio7777: calls 2000
+josillo58: folds 
+TubbynotFat: raises 6000 to 8000
+luke5250: folds 
+Cowboy Jim T: folds 
+smokey603: folds 
+josecribeiro: folds 
+Indiote123 joins the table at seat #6 
+zio7777: calls 6000
+*** FLOP *** [4s 7h 7c]
+zio7777: checks 
+TubbynotFat: checks 
+*** TURN *** [4s 7h 7c] [7s]
+zio7777: checks 
+TubbynotFat: checks 
+*** RIVER *** [4s 7h 7c 7s] [9s]
+zio7777: checks 
+TubbynotFat: bets 22000
+zio7777: folds 
+Uncalled bet (22000) returned to TubbynotFat
+TubbynotFat collected 21730 from pot
+TubbynotFat: doesn't show hand 
+*** SUMMARY ***
+Total pot 23000 | Rake 1270 
+Board [4s 7h 7c 7s 9s]
+Seat 1: luke5250 (small blind) folded before Flop
+Seat 3: Cowboy Jim T (big blind) folded before Flop
+Seat 4: smokey603 folded before Flop
+Seat 5: josecribeiro folded before Flop (didn't bet)
+Seat 7: zio7777 folded on the River
+Seat 8: josillo58 folded before Flop (didn't bet)
+Seat 9: TubbynotFat (button) collected (21730)
+
+
+
+PokerStars Hand #204879933687:  Hold'em No Limit (1000/2000) - 2019/10/04 18:04:50 ET
+Table 'Academia II' 9-max (Play Money) Seat #1 is the button
+Seat 1: luke5250 (195000 in chips) 
+Seat 3: Cowboy Jim T (127070 in chips) 
+Seat 4: smokey603 (91240 in chips) 
+Seat 5: josecribeiro (78000 in chips) 
+Seat 6: Indiote123 (200000 in chips) 
+Seat 7: zio7777 (188000 in chips) 
+Seat 8: josillo58 (269940 in chips) 
+Seat 9: TubbynotFat (100730 in chips) 
+Cowboy Jim T: posts small blind 1000
+smokey603: posts big blind 2000
+Indiote123: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [As 6d]
+josecribeiro: calls 2000
+Indiote123 is disconnected 
+Indiote123 has timed out while disconnected
+Indiote123: checks 
+zio7777: calls 2000
+josillo58: folds 
+TubbynotFat: raises 6000 to 8000
+luke5250: folds 
+Cowboy Jim T: folds 
+smokey603: folds 
+josecribeiro: calls 6000
+Indiote123 has timed out while disconnected
+Indiote123: folds 
+zio7777: calls 6000
+*** FLOP *** [Qs 9d 2h]
+josecribeiro: checks 
+zio7777: checks 
+TubbynotFat: checks 
+*** TURN *** [Qs 9d 2h] [Ks]
+josecribeiro: checks 
+zio7777: checks 
+TubbynotFat: checks 
+*** RIVER *** [Qs 9d 2h Ks] [Qh]
+josecribeiro: bets 2000
+zio7777: folds 
+TubbynotFat: calls 2000
+*** SHOW DOWN ***
+josecribeiro: shows [7c 7s] (two pair, Queens and Sevens)
+TubbynotFat: shows [Ac Kd] (two pair, Kings and Queens)
+TubbynotFat collected 31180 from pot
+*** SUMMARY ***
+Total pot 33000 | Rake 1820 
+Board [Qs 9d 2h Ks Qh]
+Seat 1: luke5250 (button) folded before Flop (didn't bet)
+Seat 3: Cowboy Jim T (small blind) folded before Flop
+Seat 4: smokey603 (big blind) folded before Flop
+Seat 5: josecribeiro showed [7c 7s] and lost with two pair, Queens and Sevens
+Seat 6: Indiote123 folded before Flop (didn't bet)
+Seat 7: zio7777 folded on the River
+Seat 8: josillo58 folded before Flop (didn't bet)
+Seat 9: TubbynotFat showed [Ac Kd] and won (31180) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #204879989567:  Hold'em No Limit (1000/2000) - 2019/10/04 18:06:39 ET
+Table 'Academia II' 9-max (Play Money) Seat #3 is the button
+Seat 1: luke5250 (195000 in chips) 
+Seat 3: Cowboy Jim T (126070 in chips) 
+Seat 4: smokey603 (89240 in chips) 
+Seat 5: josecribeiro (68000 in chips) 
+Seat 7: zio7777 (180000 in chips) 
+Seat 8: josillo58 (269940 in chips) 
+Seat 9: TubbynotFat (121910 in chips) 
+smokey603: posts small blind 1000
+josecribeiro: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to zio7777 [6s 7d]
+zio7777: folds 
+josillo58: calls 2000
+TubbynotFat: folds 
+luke5250: folds 
+Cowboy Jim T: calls 2000
+smokey603: calls 1000
+josecribeiro: checks 
+*** FLOP *** [Js 6d Kh]
+smokey603: checks 
+josecribeiro: checks 
+josillo58: checks 
+Cowboy Jim T: checks 
+*** TURN *** [Js 6d Kh] [Qc]
+smokey603: checks 
+josecribeiro: checks 
+josillo58: checks 
+Cowboy Jim T: checks 
+*** RIVER *** [Js 6d Kh Qc] [4s]
+smokey603: checks 
+josecribeiro: checks 
+josillo58: checks 
+Cowboy Jim T: checks 
+*** SHOW DOWN ***
+smokey603: shows [9s Jh] (a pair of Jacks)
+josecribeiro: mucks hand 
+josillo58: mucks hand 
+Cowboy Jim T: mucks hand 
+smokey603 collected 7560 from pot
+*** SUMMARY ***
+Total pot 8000 | Rake 440 
+Board [Js 6d Kh Qc 4s]
+Seat 1: luke5250 folded before Flop (didn't bet)
+Seat 3: Cowboy Jim T (button) mucked [Ac 4d]
+Seat 4: smokey603 (small blind) showed [9s Jh] and won (7560) with a pair of Jacks
+Seat 5: josecribeiro (big blind) mucked [8h Ad]
+Seat 7: zio7777 folded before Flop (didn't bet)
+Seat 8: josillo58 mucked [3h 4h]
+Seat 9: TubbynotFat folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,100 @@
+﻿PokerStars Hand #204879177378:  Hold'em No Limit (5000/10000) - 2019/10/04 17:39:54 ET
+Table 'Hypatia II' 9-max (Play Money) Seat #9 is the button
+Seat 2: AguiaTeam (4611580 in chips) 
+Seat 5: zio7777 (1000000 in chips) 
+Seat 9: waldi1746 (365000 in chips) 
+AguiaTeam: posts small blind 5000
+aniehues56 leaves the table
+zio7777: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to zio7777 [Qc 3s]
+waldi1746: raises 40000 to 50000
+AguiaTeam: folds 
+zio7777: folds 
+Uncalled bet (40000) returned to waldi1746
+waldi1746 collected 25000 from pot
+*** SUMMARY ***
+Total pot 25000 | Rake 0 
+Seat 2: AguiaTeam (small blind) folded before Flop
+Seat 5: zio7777 (big blind) folded before Flop
+Seat 9: waldi1746 (button) collected (25000)
+
+
+
+PokerStars Hand #204879190207:  Hold'em No Limit (5000/10000) - 2019/10/04 17:40:18 ET
+Table 'Hypatia II' 9-max (Play Money) Seat #2 is the button
+Seat 2: AguiaTeam (4606580 in chips) 
+Seat 5: zio7777 (990000 in chips) 
+Seat 9: waldi1746 (380000 in chips) 
+zio7777: posts small blind 5000
+waldi1746: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to zio7777 [9h 6c]
+AguiaTeam: folds 
+zio7777: folds 
+Uncalled bet (5000) returned to waldi1746
+waldi1746 collected 10000 from pot
+*** SUMMARY ***
+Total pot 10000 | Rake 0 
+Seat 2: AguiaTeam (button) folded before Flop (didn't bet)
+Seat 5: zio7777 (small blind) folded before Flop
+Seat 9: waldi1746 (big blind) collected (10000)
+
+
+
+PokerStars Hand #204879198203:  Hold'em No Limit (5000/10000) - 2019/10/04 17:40:32 ET
+Table 'Hypatia II' 9-max (Play Money) Seat #9 is the button
+Seat 5: zio7777 (985000 in chips) 
+Seat 9: waldi1746 (385000 in chips) 
+waldi1746: posts small blind 5000
+AguiaTeam: is sitting out 
+zio7777: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to zio7777 [8s 3s]
+waldi1746: calls 5000
+AguiaTeam leaves the table
+zio7777: checks 
+*** FLOP *** [6s Ks Qh]
+zio7777: checks 
+waldi1746: bets 18900
+zio7777: calls 18900
+*** TURN *** [6s Ks Qh] [Qd]
+zio7777: checks 
+waldi1746: bets 54620
+zio7777: folds 
+Uncalled bet (54620) returned to waldi1746
+waldi1746 collected 54620 from pot
+*** SUMMARY ***
+Total pot 57800 | Rake 3180 
+Board [6s Ks Qh Qd]
+Seat 5: zio7777 (big blind) folded on the Turn
+Seat 9: waldi1746 (button) (small blind) collected (54620)
+
+
+
+PokerStars Hand #204879223421:  Hold'em No Limit (5000/10000) - 2019/10/04 17:41:19 ET
+Table 'Hypatia II' 9-max (Play Money) Seat #5 is the button
+Seat 5: zio7777 (956100 in chips) 
+Seat 9: waldi1746 (410720 in chips) 
+zio7777: posts small blind 5000
+waldi1746: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to zio7777 [As 6c]
+zio7777: calls 5000
+waldi1746: checks 
+*** FLOP *** [Jc Tc 7s]
+waldi1746: checks 
+zio7777: checks 
+*** TURN *** [Jc Tc 7s] [5s]
+waldi1746: bets 10000
+zio7777: folds 
+Uncalled bet (10000) returned to waldi1746
+waldi1746 collected 18900 from pot
+*** SUMMARY ***
+Total pot 20000 | Rake 1100 
+Board [Jc Tc 7s 5s]
+Seat 5: zio7777 (button) (small blind) folded on the Turn
+Seat 9: waldi1746 (big blind) collected (18900)
+
+
+
